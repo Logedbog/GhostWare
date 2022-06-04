@@ -248,7 +248,7 @@ local Aimbott = Aimbot:Section{
 Aimbott:Button{
     Name = "Aimbot",
     Callback  = function()
-        --loadstring(game:HttpGet(('https://raw.githubusercontent.com/Logedbog/GhostWare/main/GhostWareAimbot.lua'),true))()
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/Logedbog/GhostWare/main/GhostWareAimbot.lua'),true))()
     end
 }
 

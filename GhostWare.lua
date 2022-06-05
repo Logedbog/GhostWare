@@ -1,6 +1,2027 @@
-_, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
+--[Main Variables]
+
+local plrs = game["Players"]
+local rs = game["RunService"]
+local Players = game:GetService("Players")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local UserInputService = game:GetService("UserInputService")
+local Lighting = game:GetService("Lighting")
+local Teams = game:GetService("Teams")
+local RunService = game:GetService("RunService")
+local TeleportService = game:GetService("TeleportService")
 
 
-,nil,nil;(function() _msec=(function(e,l,o)local J=l["                 "];local G=o[e[((1537-0x31d)+-#[[how to find my dad at the dollar store getting milk]])]][e["           ​   "]];local g=(-82+0x56)/(110+(((-22140/0x87)+-#'nico der hurensohn')+74))local M=(119-((0x11e-(266+-0x6d))+-#[[Lana Rhoades]]))-(0x60+-95)local v=o[e[(397-0xeb)]][e["      ​        "]];local y=((82+(-0x19+((-32+0x12)+-#'I FUCKING HATE FEMBOYS')))+-#[[get good use moonsec]])+(238/0x77)local u=o[e[(0x4b5-635)]][e["                "]]local d=(344/0xac)-(181/(0x1cc-(-64+0x157)))local i=(((-#"FranzJPresents"+(0xd104/(154+-#{(function()return#{('LPkHLK'):find("\107")}>0 and 1 or 0 end);(function()return#{('LPkHLK'):find("\107")}>0 and 1 or 0 end),80;{},80;1,(function()return#{('LPkHLK'):find("\107")}>0 and 1 or 0 end)})))-0xce)/72)local c=(-#"paidlancer"+((0xb5b0/(0x127+((-59-0x9)+-#'heil eco mother fuckers')))/19))local r=((-0x3134/(139+-#{{},13,'}';(function()return{','}end)();13}))+0x60)local h=(0x7f-(132+-#{1,",";(function()return{','}end)();'}';'}',",";","}))local b=(-63+((-#"fatee is gay 0nly on top"+(-0x7f+(0x55f8/168)))+85))local k=(-#{1,1;(function()return#{('mpobOF'):find("\111")}>0 and 1 or 0 end),(function()return#{('mpobOF'):find("\111")}>0 and 1 or 0 end),'nil','nil'}+8)local U=(0x21-(0xec4/((0x17a-(-#{'nil';{},'}';{};(function()return#{('BmfpkH'):find("\102")}>0 and 1 or 0 end);15}+242))+-#"Fucking Retarted")))local t=(-#'0nly 1337 smashed ur wap'+(87+(-53+(0x4d-(88+-#{",";1,34;(function()return{','}end)()})))))local x=(-#{",",'}',(function()return#{('kBbFMf'):find("\98")}>0 and 1 or 0 end);(function()return{','}end)()}+7)local f=(76+(-117+((-60+0x23)+69)))local O=((18644/(164+-#{",";",";'}';{},",",1}))+-115)local w=(((83+-#{'}';(function()return#{('LoKHfm'):find("\75")}>0 and 1 or 0 end);54,{};180;","})+-49)+-25)local C=(-33+((-#{'}',182;'}';1;(function()return{','}end)(),(function()return{','}end)();(function()return{','}end)()}+62)+-0x12))local S=(92+(-62-((-0x64+241)+-115)))local D=(0x2c-((-#[[negus]]+((-#'Deeznutsbutinlualoo'+((-0x54e+-127)/0x1b))+-0x23))+0x9a))local P=(-#"ambatakum"+(131-(275-(-#"Suck Sus0587"+((26220+-0x19)/155)))))local _=((0x33990/(55930/(0x20b-288)))/222)local N=((87-(-#[[if syn then haxor alert end]]+(((((-1440/0x18)+-#'cilertedcool')+43252)/0xaa)-166)))+-#'I FUCKING HATE FEMBOYS')local R=e[(-#{(function()return#{('MhPFPo'):find("\80")}>0 and 1 or 0 end);92;",";'nil'}+1392)];local H=o[e[(-#"Only a to Z 0 to 9 is allowed"+(5539/0x1d))]][e["    ​          "]];local K=o[(function(e)return type(e):sub(1,1)..'\101\116'end)('​       ')..'\109\101'..('\116\97'or'​       ')..e[(-#"psx dupe is abd"+(0xe484/100))]];local I=o[e[(0x1c872/205)]][e["              "]];local z=(-#'Bush Did 9 11'+(0xe01/239))-(0x1e+((-1078/(-#"impulse 2022"+(290-(-#'nigglet'+(0x111+-65)))))+-#"waste of sperm"))local p=(66-((-#"psx dupe is abd"+(0x180191/223))/110))-((0x55-74)+-#'0nly segc')local j=o[e[((0xb8e/17)+-#"Suck Sus0587")]][e[" ​               "]];local n=function(e,o)return e..o end local A=((-0x66+120)+-#'0 divided by 0')*(-#"cruz pp is large"+(-16+((-#[[i fucked your dad]]+(0x28c5-5272))/0x8f)))local L=o[e["             ​   "]];local a=(-#[[meme strings be like]]+(-0x20+54))*(-0x2e+(((1858668/0x57)/109)+-#"legend says i was here"))local Y=(-0x53+1107)*(0x98/(-#'how do i get moonsex v3'+(17622/(288+-0x6e))))local V=(((-23426/0xdd)+0xd02)/0x3e)local m=((0x90+(-#'Boosted moonsec for meme string'+(-94+((177+-0x3d)-0x70))))+-#'impulse loves moonsex')*((52-0x25)+-#'Daddy fuck me')local B=o[e["              "]]or o[e[(0x4df-677)]][e["              "]];local s=(-#'when the he went where when he where where when the he when ther wher he then here went'+(((0x41187c/108)+-0x38)/115))local e=o[e["               "]];local F=(function(n)local r,l=3,0x10 local o={j={},v={}}local a=-d local e=l+M while true do o[n:sub(e,(function()e=r+e return e-M end)())]=(function()a=a+d return a end)()if a==(A-d)then a=""l=z break end end local a=#n while e<a+M do o.v[l]=n:sub(e,(function()e=r+e return e-M end)())l=l+d if l%g==z then l=p I(o.j,(j((o[o.v[p]]*A)+o[o.v[d]])))end end return u(o.j)end)("..:::MoonSec::..                ​                        ​                              ​                    ​       ​                   ​          ​                      ​                                      ​        ​    ​     ​            ​                           ​        ​     ​                                                                         ​                          ​  ​   ​               ​    ​    ​                          ​         ​                            ​                          ​                                ​                         ​  ​                ​                  ​                                                              ​​                                                                   ​    ​                                             ​            ​          ​           ​                   ​        ​                     ​  ​                         ​    ​                  ​                                                  ​        ​               ​                              ​​                              ​                  ​  ​                                 ​         ​                                ​                             ​                                        ​                  ​             ​     ​ ​                  ​                    ​         ​            ​             ​                                                      ​                                      ​​              ​           ​  ​                    ​       ​                       ​     ​            ​    ​                                                        ​          ​       ​             ​                     ​             ​      ​                   ​​    ​                           ​                       ​                 ​                 ​​​     ​                             ​                       ​                 ​        ​                             ​      ​   ​   ​                        ​   ​                      ​       ​           ​                  ​    ​           ​    ​   ​          ​         ​                               ​                       ​      ​        ​                                                    ​              ​  ​    ​                                              ​    ​      ​    ​             ​           ​                                        ​        ​     ​ ​   ​            ​                ​                    ​                              ​                  ​            ​           ​         ​​                           ​                                 ​          ​  ​              ​        ​          ​           ​    ​           ​ ​                    ​                                           ​            ​                 ​                           ​          ​               ​               ​                    ​      ​    ​                                                                                                                           ​                                                       ​      ​              ​      ​      ​             ​          ​                            ​                          ​      ​        ​             ​               ​                                                         ​                                            ​                                                                                           ​                                                  ​                                        ​   ​                          ​                                                          ​​                            ​                    ​          ​               ​  ​                               ​                    ​         ​            ​              ​                 ​        ​         ​                                                               ​​​          ​               ​                                ​        ​        ​                     ​        ​                                                    ​                                             ​                                                                    ​​                                    ​   ​           ​                    ​          ​          ​                                             ​                                  ​          ​           ​                               ​                   ​        ​     ​                  ​     ​            ​                          ​  ​   ​     ​    ​                                                      ​           ​          ​             ​                      ​     ​   ​         ​                                     ​      ​           ​              ​                    ​                         ​                           ​                       ​                   ​          ​   ​                                   ​​         ​                  ​                   ​    ​                                                                                    ​                                                   ​           ​       ​                                ​                   ​         ​   ​           ​  ​          ​  ​                                  ​                                                              ​    ​                              ​              ​          ​    ​                        ​                                                 ​             ​                                  ​           ​    ​                  ​ ​                                        ​           ​                       ​          ​                ​                         ​     ​             ​                                   ​                           ​                        ​   ​                     ​             ​             ​         ​​    ​             ​  ​ ​                    ​  ​    ​​​       ​                                            ​                                                                                               ​                ​                                     ​                  ​    ​       ​​              ​        ​ ​​                            ​  ​                ​                                    ​                          ​                                                                                      ​    ​                              ​      ​              ​                                                           ​    ​                                        ​​                         ​      ​   ​               ​                         ​                            ​               ​               ​                                              ​                                                        ​         ​                    ​                         ​                ​              ​                     ​            ​       ​                         ​                   ​         ​                      ​  ​                                               ​            ​                                   ​           ​               ​             ​                                                                          ​        ​                   ​                ​             ​         ​                 ​              ​  ​                                 ​   ​           ​                            ​                               ​                     ​         ​​​                          ​                                  ​             ​                         ​                               ​                       ​                           ​       ​                ​                         ​                                                                 ​                     ​    ​                                           ​                         ​  ​         ​            ​                   ​     ​                         ​                             ​          ​​             ​            ​​​                  ​      ​                  ​      ​                            ​                ​      ​       ​          ​                    ​          ​                         ​               ​            ​                ​           ​   ​      ​        ​                                          ​                                  ​    ​    ​                     ​            ​                                      ​                    ​                                 ​   ​             ​​                                  ​                                                                       ​                 ​        ​       ​           ​        ​                ​                           ​                    ​                                ​                          ​          ​                 ​                ​                   ​           ​                         ​                              ​                              ​              ​          ​           ​                  ​          ​                                                                                                              ​      ​                         ​                                     ​            ​           ​   ​           ​         ​                              ​                                      ​                                   ​ ​                      ​                      ​   ​                                                              ​                                           ​    ​                                                    ​  ​        ​  ​         ​                   ​  ​                                   ​​          ​​                ​     ​​                                                              ​               ​                                                         ​                ​         ​                   ​        ​                                  ​   ​     ​  ​     ​                                                 ​      ​          ​                                                                            ​   ​             ​                     ​    ​                         ​    ​                                                                    ​                    ​           ​                 ​                    ​        ​​                                            ​ ​                                               ​​        ​ ​                                  ​       ​                             ​                                            ​​                          ​                             ​                              ​                     ​                ​   ​              ​             ​                           ​    ​                             ​    ​                                   ​                             ​        ​                                     ​          ​                          ​                                                                           ​​     ​                     ​          ​​               ​                  ​       ​                                ​                                     ​                                  ​  ​                        ​           ​              ​                                        ​                             ​                          ​                                ​    ​           ​                         ​           ​                  ​       ​                     ​        ​       ​            ​                        ​​                                   ​                                                             ​                                 ​  ​      ​      ​            ​              ​        ​           ​                            ​                                    ​                       ​          ​                                                             ​             ​            ​                            ​          ​              ​              ​   ​                      ​   ​                                                       ​                  ​     ​    ​                           ​ ​                                  ​                                                                                               ​                                                                ​                            ​       ​                   ​  ​        ​​               ​           ​              ​        ​                ​       ​           ​          ​       ​   ​         ​                         ​  ​                                                                                                              ​     ​      ​                       ​        ​  ​                         ​​         ​                  ​       ​                  ​               ​​​                       ​     ​         ​​                    ​                   ​       ​                                     ​                             ​                              ​  ​       ​      ​           ​          ​             ​​                       ​                               ​       ​                  ​               ​  ​                                    ​    ​                                    ​                          ​                                                          ​                            ​​    ​      ​                       ​  ​            ​                      ​​                             ​  ​           ​                   ​                 ​      ​                               ​           ​                                ​                               ​                           ​          ​                                    ​     ​      ​        ​              ​       ​   ​​                         ​  ​                            ​​ ​    ​                     ​              ​  ​                                ​        ​                      ​                  ​          ​                           ​                                                                        ​       ​      ​            ​                           ​               ​        ​                               ​       ​                 ​​        ​         ​     ​                                ​  ​                           ​            ​                            ​                                  ​                 ​     ​                             ​   ​                           ​    ​                                 ​  ​                                  ​        ​                    ​                                                          ​                                                                                                     ​          ​         ​                     ​        ​      ​​                              ​                                        ​                                 ​                               ​         ​                                              ​                         ​     ​           ​                         ​  ​                              ​     ​    ​                                ​                             ​            ​                ​                             ​     ​                       ​           ​                        ​  ​                              ​​                           ​          ​                 ​                     ​      ​                        ​    ​                                       ​                             ​                        ​                        ​ ​                                         ​      ​                       ​   ​​                    ​  ​  ​                          ​    ​    ​                             ​  ​                               ​        ​                  ​                  ​                                        ​                        ​             ​  ​                                                             ​          ​   ​                                 ​                                     ​                          ​         ​                                     ​  ​                        ​          ​                                                           ​                         ​                        ​   ​​         ​               ​    ​  ​​                  ​              ​                        ​          ​      ​                   ​​                ​                                     ​                                             ​              ​                                       ​          ​             ​                    ​  ​      ​                               ​                  ​                  ​​                                   ​  ​                    ​   ​                             ​                                         ​ ​  ​                                                  ​                  ​           ​    ​    ​                                   ​                                   ​                  ​​                 ​     ​                                ​                       ​                                           ​                                   ​                            ​         ​      ​   ​                                ​                                    ​                                        ​                      ​                                                     ​                   ​                         ​                                                                                              ​              ​                                           ​                ​          ​             ​            ​  ​​                          ​        ​                         ​            ​                                                          ​ ​                  ​   ​                         ​                                     ​    ​                                ​       ​       ​             ​         ​            ​                      ​                               ​              ​                        ​     ​          ​                                                                        ​​                 ​      ​           ​     ​              ​         ​              ​            ​  ​                    ​                 ​                                   ​        ​                   ​         ​      ​        ​​                                                                   ​                        ​   ​​        ​   ​               ​  ​                         ​            ​               ​                   ​   ​                                   ​        ​     ​                        ​     ​          ​                                                                                              ​   ​       ​                       ​         ​                          ​  ​                                   ​                                               ​      ​                                         ​            ​                                                                                ​                                ​  ​                          ​          ​​             ​                        ​​                                                    ​​                        ​            ​                                                                       ​                      ​                          ​         ​         ​                               ​                                   ​                                       ​      ​                                  ​                ​                  ​       ​                             ​           ​                        ​    ​                                  ​                            ​          ​              ​                      ​      ​                              ​          ​​          ​            ​  ​​        ​                        ​                                  ​        ​    ​             ​          ​                   ​                 ​          ​         ​                   ​                                  ​                                      ​      ​     ​         ​                    ​              ​                  ​       ​                             ​             ​                     ​  ​    ​  ​                          ​  ​                         ​           ​     ​        ​            ​         ​​               ​    ​                          ​                         ​  ​                          ​                ​                      ​                                        ​                  ​              ​       ​   ​                           ​       ​                              ​                 ​                    ​                          ​         ​               ​          ​                       ​                       ​                                    ​    ​         ​​          ​           ​                        ​           ​     ​        ​            ​         ​                     ​                          ​                       ​  ​                          ​                                     ​   ​                           ​     ​                   ​                 ​          ​         ​                ​                                                           ​              ​​                           ​                           ​ ​    ​           ​                                       ​   ​                                  ​    ​        ​                          ​    ​                  ​          ​    ​                 ​                                       ​    ​       ​            ​ ​                        ​                                                                      ​   ​                                   ​                   ​                 ​           ​         ​        ​       ​                                        ​           ​​        ​            ​   ​                            ​                          ​     ​              ​                                      ​                                   ​  ​               ​                 ​       ​                         ​  ​       ​                      ​               ​                      ​            ​            ​             ​              ​                               ​          ​                                                                          ​       ​            ​              ​          ​  ​      ​                    ​                                         ​                 ​                       ​               ​     ​     ​                             ​                                 ​                                                            ​    ​        ​               ​      ​ ​                           ​          ​               ​                      ​                                    ​          ​​                         ​  ​         ​                    ​                                                 ​                                     ​      ​                       ​        ​  ​                            ​        ​                     ​          ​                                ​​​                        ​​             ​                    ​           ​     ​       ​             ​                                                        ​                       ​    ​                 ​                                    ​                      ​                    ​              ​                                     ​     ​                                      ​​   ​                                  ​                        ​    ​            ​      ​          ​                ​         ​                         ​​     ​    ​                         ​                   ​              ​​                                           ​                                    ​      ​                              ​      ​        ​​                           ​                           ​                                              ​              ​                        ​​                ​                    ​                                  ​  ​                                      ​​​                                                               ​                    ​                                  ​                            ​​                               ​      ​       ​  ​      ​              ​​​                                         ​​                                  ​       ​                                                                    ​                           ​                            ​            ​             ​                        ​​                 ​                   ​                                  ​  ​                             ​                                         ​              ​  ​        ​                                                       ​                           ​​                               ​                                         ​​               ​             ​          ​                                  ​         ​                                                                     ​                           ​                            ​            ​             ​                     ​           ​                       ​              ​                       ​  ​                   ​                                                                              ​                     ​                                ​                            ​​                             ​      ​           ​                     ​​​                                         ​​                                   ​       ​                                                                      ​                           ​                            ​            ​           ​   ​                 ​    ​     ​                                 ​                                ​ ​    ​                    ​                                                                                    ​                      ​           ​                           ​                        ​  ​                          ​                                          ​​                      ​   ​              ​             ​    ​    ​    ​      ​ ​   ​​          ​                 ​​​   ​                                    ​                           ​  ​               ​                                          ​                       ​                     ​                 ​             ​​                          ​  ​                     ​       ​  ​ ​                                   ​                           ​        ​           ​                                                                ​                                  ​                              ​     ​​                            ​          ​​     ​          ​                ​ ​      ​                               ​                                         ​                     ​              ​  ​                         ​             ​             ​                                              ​                                                                                        ​    ​                                    ​                              ​        ​                    ​                 ​                                     ​                                 ​                    ​                                   ​       ​          ​​ ​   ​                            ​       ​                               ​                                      ​                                     ​  ​                      ​   ​                                                   ​         ​         ​                                                     ​             ​           ​    ​    ​                 ​                ​                            ​       ​                  ​                ​                                     ​​           ​​  ​                                                                                  ​          ​      ​             ​                ​                    ​               ​                                       ​      ​                              ​  ​ ​                      ​         ​​    ​                                                            ​                   ​                           ​                            ​    ​                                        ​                             ​      ​                      ​                 ​​​                                       ​                     ​                      ​                                                  ​       ​​               ​    ​   ​                                                             ​                                       ​      ​                            ​  ​                      ​          ​    ​           ​                                           ​                       ​​    ​  ​                                                      ​                         ​               ​                                       ​                    ​           ​    ​​                                       ​                                      ​      ​                            ​​                           ​                          ​                   ​                                         ​       ​                                 ​    ​                           ​  ​                        ​      ​  ​​    ​                                 ​                     ​          ​                ​                             ​​                         ​                          ​                 ​          ​  ​                          ​     ​     ​        ​           ​     ​                                      ​​                                             ​      ​                ​                             ​                      ​     ​                  ​                                     ​     ​ ​        ​                ​  ​ ​                                    ​                         ​            ​    ​           ​                                       ​                                  ​                                                           ​    ​          ​                        ​                                        ​                  ​                ​       ​   ​                             ​                ​                                                      ​         ​                ​                            ​      ​         ​         ​                                                                     ​                                   ​       ​               ​          ​                ​                                               ​                       ​    ​                                     ​                           ​    ​                                     ​          ​  ​                       ​ ​                ​                ​                                 ​                                             ​        ​      ​                ​                               ​                         ​    ​                 ​           ​                         ​       ​                            ​                                      ​                       ​          ​               ​                                   ​    ​                         ​                                                      ​​    ​                                   ​                                          ​                   ​                ​                                                                                                                                         ​                            ​       ​             ​                                      ​                                     ​ ​  ​                               ​                           ​          ​    ​                                  ​                                  ​                ​                                                            ​    ​   ​      ​                                 ​   ​                      ​                   ​                 ​                                          ​                                      ​         ​​     ​     ​            ​     ​                      ​        ​                  ​                  ​           ​   ​                     ​                                     ​    ​                                  ​    ​                   ​  ​       ​                          ​   ​    ​​​                                          ​                ​             ​                          ​           ​   ​                       ​                                     ​                    ​                ​​     ​                                ​                             ​    ​                                    ​                   ​     ​          ​               ​​             ​     ​                                       ​                                     ​    ​                                   ​                        ​           ​       ​        ​                  ​                               ​                            ​                             ​                          ​                                       ​  ​           ​                     ​ ​  ​  ​             ​                 ​          ​                            ​                                   ​         ​                                                        ​             ​             ​               ​          ​                        ​     ​                                     ​​   ​ ​                              ​  ​                          ​           ​     ​        ​            ​          ​                                                  ​ ​                                                    ​    ​                                       ​     ​                                ​                   ​                ​            ​                               ​                                  ​                                                        ​        ​                                          ​               ​               ​                                  ​              ​     ​                            ​  ​                        ​                         ​                                          ​              ​           ​                        ​  ​                               ​    ​           ​                        ​                               ​        ​                    ​                   ​                      ​       ​                                    ​                                          ​​                           ​                                 ​                ​       ​                            ​            ​                               ​                  ​        ​                           ​                         ​                      ​                    ​              ​           ​                         ​  ​                         ​  ​    ​​         ​  ​       ​           ​                    ​           ​      ​                      ​               ​   ​ ​  ​  ​                        ​​                           ​      ​        ​                           ​​             ​              ​            ​                                       ​      ​                                                                      ​                                                        ​      ​                   ​                                       ​        ​              ​            ​                           ​  ​          ​                 ​    ​                         ​​       ​  ​                        ​                                ​            ​      ​   ​                            ​                                                                         ​​                                                        ​                ​           ​        ​             ​ ​                                        ​    ​​                           ​  ​                         ​                         ​      ​                                                                     ​               ​                ​                                                                     ​                             ​        ​                   ​                ​          ​                          ​   ​                            ​  ​                                      ​​                            ​          ​                                           ​                                 ​                                     ​                   ​           ​       ​                           ​                                                  ​                                       ​      ​     ​                           ​  ​                             ​    ​                      ​             ​         ​                            ​            ​      ​                  ​          ​      ​                                       ​                                                        ​​                           ​                                             ​       ​          ​               ​                                         ​                               ​        ​                    ​          ​            ​​                        ​                     ​              ​          ​                         ​    ​               ​         ​ ​                                                                                 ​                   ​                ​          ​                           ​​                ​​           ​           ​                            ​                  ​           ​                ​                  ​​             ​      ​                             ​                         ​          ​                         ​  ​                    ​      ​     ​  ​ ​    ​                          ​                                            ​                                        ​                            ​                             ​  ​​                                         ​   ​          ​         ​               ​           ​                        ​                       ​                                           ​​                                                   ​     ​   ​         ​                                      ​     ​                            ​      ​            ​       ​ ​                                    ​  ​      ​               ​                            ​           ​                          ​                                       ​                                        ​  ​      ​   ​      ​   ​                                ​                 ​       ​                                                                           ​                                                                                                                  ​                ​      ​                            ​               ​        ​                 ​                         ​                        ​    ​                                                                     ​          ​                                     ​  ​                             ​    ​                      ​             ​                ​          ​                              ​                                                           ​                                 ​                                  ​​                                           ​​                ​                           ​                                                                          ​                         ​ ​                           ​                             ​          ​                                               ​ ​                                       ​                           ​                                                             ​   ​                                                    ​    ​    ​                          ​ ​                            ​      ​                   ​                ​​                                      ​                 ​                  ​      ​            ​            ​  ​                                              ​              ​             ​                 ​                      ​            ​​                        ​                                ​  ​                                      ​ ​​                          ​  ​    ​                     ​                         ​                 ​        ​                   ​           ​                ​                         ​                         ​       ​                                 ​​         ​                   ​          ​                  ​                   ​       ​                             ​                                     ​                                 ​  ​                                                  ​                                             ​                ​           ​           ​            ​  ​                             ​    ​                     ​            ​                                  ​        ​              ​     ​  ​        ​    ​                                      ​  ​                        ​ ​    ​                                                               ​          ​                  ​        ​       ​     ​​    ​                        ​                              ​  ​         ​ ​                              ​                             ​              ​                              ​                      ​   ​              ​                                    ​  ​                               ​    ​    ​                                   ​       ​                ​   ​​        ​                  ​                ​                                   ​                          ​                           ​        ​    ​​                          ​           ​              ​    ​                  ​       ​                               ​         ​                            ​                                ​  ​                        ​         ​               ​                                         ​                                             ​     ​                              ​    ​                   ​   ​            ​            ​               ​       ​                    ​        ​  ​    ​                           ​   ​       ​​           ​                   ​      ​                                                          ​                        ​                          ​                                ​                                ​​       ​    ​​             ​                    ​                        ​​          ​                                                          ​                           ​                        ​             ​                 ​    ​                       ​               ​     ​                        ​        ​              ​     ​                    ​      ​                            ​             ​                                       ​                                           ​          ​                                ​      ​                                      ​                        ​     ​         ​    ​              ​              ​  ​                          ​         ​​                                  ​                     ​                      ​    ​                        ​  ​          ​           ​    ​    ​                                    ​                                ​       ​                   ​                ​      ​​                              ​         ​                 ​   ​       ​                                               ​             ​                            ​         ​                                          ​                                ​       ​    ​             ​                ​  ​                        ​          ​                 ​                        ​      ​                   ​                           ​                       ​                  ​                      ​                                           ​                              ​                ​    ​                   ​                           ​​                                    ​                            ​   ​       ​​                                                     ​                                   ​              ​                                     ​    ​                             ​      ​      ​                  ​            ​               ​                      ​    ​                              ​                 ​            ​   ​   ​    ​  ​                                                                                                                                                 ​         ​                        ​  ​            ​             ​   ​      ​                                   ​​                         ​  ​     ​  ​​                            ​                  ​   ​                                                                  ​                                  ​        ​                                 ​            ​    ​                 ​                                 ​  ​           ​                        ​   ​                            ​        ​                                                        ​   ​   ​                                                       ​            ​              ​​                             ​         ​            ​                    ​​                                        ​ ​                                  ​       ​                             ​                        ​               ​                            ​                             ​                   ​    ​                        ​                ​   ​              ​                                     ​  ​           ​                   ​    ​                                       ​       ​                ​    ​        ​                  ​                ​                    ​             ​​                                                        ​                ​​                          ​            ​​                                 ​      ​                               ​                           ​          ​                                    ​  ​                        ​                           ​                                          ​                                           ​          ​              ​               ​​  ​ ​                     ​                    ​   ​                        ​                   ​                ​                            ​            ​   ​                                    ​                        ​                                    ​                                               ​             ​                    ​ ​                                       ​                   ​                 ​  ​      ​                    ​          ​              ​                                              ​                             ​                         ​        ​                    ​    ​       ​                       ​    ​            ​                           ​            ​        ​                 ​                        ​               ​        ​                 ​   ​       ​                                  ​​         ​              ​                          ​                                                  ​     ​                                ​   ​  ​​   ​                ​            ​     ​                           ​          ​              ​                        ​     ​                              ​           ​                                                              ​                       ​                                             ​       ​  ​                 ​         ​     ​         ​             ​             ​                              ​       ​     ​                            ​​                            ​  ​          ​ ​             ​                            ​ ​                     ​   ​                                      ​                              ​  ​                    ​       ​          ​              ​                        ​     ​                              ​           ​                                                           ​                                          ​                            ​  ​                 ​               ​           ​             ​      ​      ​​                                     ​                                 ​   ​​                                ​          ​               ​                        ​          ​                                                             ​                                ​        ​                         ​     ​             ​                                                     ​  ​             ​                        ​    ​                     ​    ​     ​   ​          ​                                                ​   ​             ​                                           ​                             ​​                                    ​                                ​​           ​             ​               ​                                    ​          ​                 ​               ​                        ​               ​              ​            ​                                                     ​                        ​           ​        ​              ​            ​                      ​  ​                           ​   ​  ​ ​    ​                   ​            ​                          ​​        ​           ​   ​                                  ​                          ​                                                ​                                                   ​​        ​ ​                 ​                ​       ​   ​                     ​    ​                    ​    ​          ​       ​                       ​                           ​                         ​                      ​                    ​              ​   ​                                      ​  ​                            ​     ​                       ​              ​  ​     ​                   ​                              ​                            ​            ​     ​                                ​        ​     ​   ​                      ​            ​​       ​                   ​                            ​  ​                     ​                             ​                               ​                 ​            ​         ​                    ​            ​​        ​             ​           ​          ​                   ​​              ​  ​        ​        ​       ​    ​    ​​                       ​    ​​      ​  ​  ​                                                        ​        ​                     ​                ​         ​                        ​  ​​                             ​        ​                                    ​​                                       ​     ​           ​                   ​       ​                            ​                                          ​                           ​  ​                          ​           ​             ​                      ​                 ​  ​                          ​                      ​                                ​    ​    ​                 ​             ​                               ​        ​                                                    ​          ​         ​​                                                                    ​​                         ​                           ​                        ​                            ​     ​                      ​      ​      ​                                  ​                                         ​                  ​                          ​            ​                          ​                                 ​                         ​                                              ​                          ​        ​                   ​                ​          ​                           ​​                                ​                                    ​​                                       ​     ​          ​                           ​                                                                   ​    ​                            ​                              ​            ​             ​                        ​                                     ​           ​​                        ​  ​                              ​    ​                      ​             ​                            ​           ​               ​                          ​                          ​          ​                 ​       ​                                 ​​                            ​          ​       ​           ​                                       ​     ​                              ​         ​            ​                           ​                              ​             ​             ​                      ​                                                 ​                                 ​                                ​             ​           ​          ​                             ​                                           ​         ​                            ​                  ​                            ​       ​             ​​                            ​          ​                  ​                ​       ​                  ​        ​   ​                  ​                 ​                         ​ ​                           ​                        ​                       ​                                         ​                                                                         ​     ​     ​                                                         ​                             ​         ​      ​           ​               ​         ​        ​                                                          ​​       ​                  ​                             ​    ​         ​         ​       ​                ​          ​                               ​        ​       ​           ​  ​                          ​            ​              ​                      ​                           ​                                                  ​                                                                    ​  ​             ​                 ​        ​                    ​              ​ ​        ​​         ​        ​           ​                   ​              ​                    ​                   ​         ​                      ​​                          ​                ​      ​​                             ​            ​                        ​                                  ​  ​                          ​         ​​              ​                    ​                   ​                             ​                         ​  ​                             ​    ​                                                ​                   ​  ​                         ​                 ​                                           ​​                                    ​                                      ​​       ​                    ​                                                      ​             ​               ​           ​                        ​    ​                         ​    ​  ​       ​                 ​           ​               ​ ​                  ​                                                ​                    ​       ​                             ​    ​                                      ​                                 ​                 ​                                     ​​     ​                  ​         ​    ​                                ​                      ​​                           ​                                     ​                              ​          ​      ​  ​                               ​      ​​     ​                                   ​​             ​         ​         ​               ​          ​           ​    ​   ​                      ​      ​                                          ​         ​                  ​    ​                                                                               ​               ​                ​         ​                           ​                           ​          ​                                    ​​           ​                ​        ​                  ​                   ​       ​                             ​                                                                     ​  ​                       ​  ​        ​ ​                                     ​     ​              ​              ​            ​                           ​                ​                                                      ​      ​                  ​        ​     ​                                         ​                         ​​                                  ​                                                      ​                         ​                 ​                 ​       ​     ​                       ​     ​                                 ​    ​            ​                ​                          ​    ​   ​    ​​     ​  ​                  ​     ​               ​                           ​                       ​  ​                            ​    ​                      ​                                              ​        ​                   ​                                                        ​                                     ​                                   ​​                            ​                            ​              ​​                         ​                                                   ​    ​​                             ​  ​                          ​          ​              ​                      ​     ​               ​                                                  ​                                ​    ​                         ​                ​                  ​  ​        ​                    ​​                ​        ​                              ​​       ​                              ​                                                                  ​                           ​                          ​                         ​                                       ​    ​                            ​  ​                                       ​              ​           ​          ​    ​                                 ​               ​                         ​  ​                             ​                         ​                                          ​            ​                                     ​         ​  ​                            ​                              ​      ​                                    ​​                       ​    ​        ​                                                                                                                          ​               ​          ​          ​                                 ​            ​                      ​                     ​                ​           ​​                        ​  ​  ​                           ​    ​                                                             ​                                ​                           ​                            ​​                                  ​                                    ​​              ​                        ​                   ​                   ​       ​                                ​                                  ​                               ​                             ​    ​     ​                   ​                                                    ​            ​                         ​  ​                                   ​                          ​                   ​                              ​      ​                     ​                ​      ​                                ​​                            ​       ​                                    ​​                           ​                           ​               ​         ​                            ​                        ​ ​      ​                                       ​  ​                           ​          ​     ​        ​                                                           ​                                                                                                                      ​                             ​        ​                   ​                ​          ​                           ​  ​                    ​          ​             ​                    ​​       ​      ​               ​          ​                ​​                                              ​                                                     ​                              ​                        ​          ​             ​                      ​                    ​            ​     ​    ​       ​                                           ​      ​  ​    ​     ​                            ​                             ​        ​                    ​                ​      ​   ​                            ​                                                                ​                                        ​          ​                    ​                   ​      ​​                             ​     ​                                     ​                            ​  ​                      ​        ​                ​​                    ​                    ​                                                    ​  ​                              ​    ​                                                    ​         ​               ​        ​ ​  ​                ​         ​                           ​​          ​                       ​                                    ​                                ​                          ​                ​     ​​                            ​                                    ​    ​                                ​             ​           ​           ​              ​                                                          ​    ​      ​                                ​                                                                        ​               ​            ​  ​      ​                   ​               ​   ​          ​                                     ​                                                                                               ​        ​ ​  ​                  ​          ​           ​                                ​ ​                                          ​                           ​                            ​                           ​                    ​                     ​              ​           ​                        ​  ​                             ​    ​                                   ​                             ​        ​             ​    ​        ​                   ​            ​     ​                                           ​                                       ​​             ​             ​          ​​                ​                ​       ​          ​                ​                                  ​               ​                            ​​                       ​    ​                                                ​                                  ​         ​                  ​              ​                              ​         ​                ​            ​              ​  ​           ​                             ​                         ​          ​     ​​           ​                ​                                   ​ ​             ​​​                                       ​                    ​ ​                           ​      ​           ​        ​                                          ​​                       ​  ​     ​                                                ​                 ​                                      ​               ​        ​            ​ ​  ​    ​                      ​                                                                     ​               ​                ​                              ​                    ​​                      ​        ​      ​        ​                   ​                                     ​​                                          ​                                   ​                                   ​   ​                                 ​          ​                         ​​                          ​      ​                                                                    ​                           ​                               ​ ​            ​           ​               ​​     ​    ​                ​                          ​ ​                         ​            ​                                                                  ​                                        ​                     ​                            ​         ​           ​          ​                           ​                   ​                                              ​  ​                                   ​                       ​                                                            ​           ​                 ​          ​    ​                    ​            ​                ​                                                   ​             ​       ​           ​       ​            ​                          ​                                            ​                           ​​                           ​    ​                     ​​   ​                                                 ​                                                                        ​  ​     ​          ​                     ​                                    ​                        ​​          ​​              ​             ​         ​  ​ ​                           ​    ​                                                                 ​      ​          ​           ​    ​                           ​ ​       ​     ​         ​​                                   ​ ​                 ​             ​​                                              ​                       ​                                        ​                                           ​       ​                            ​​​                 ​      ​                            ​                                              ​​                                  ​                      ​           ​             ​                                                            ​                      ​                    ​                              ​          ​         ​​               ​             ​     ​                      ​                                    ​     ​                                                       ​  ​        ​               ​        ​      ​           ​                                           ​             ​                                                   ​                                            ​                         ​​                          ​  ​                                 ​                         ​                         ​         ​  ​                                                             ​            ​ ​            ​                                 ​                          ​       ​​                                ​                            ​                       ​       ​                                                 ​              ​        ​                        ​  ​       ​   ​            ​         ​                                  ​                         ​             ​                    ​                ​  ​                         ​ ​                                 ​       ​           ​                ​                                ​            ​                  ​                              ​       ​     ​            ​                                          ​           ​                 ​                                                    ​       ​        ​         ​               ​              ​             ​                              ​  ​                             ​       ​                                           ​             ​           ​     ​      ​                         ​    ​                                                 ​                                         ​                                ​                          ​                      ​   ​​                             ​                          ​   ​            ​                           ​​                         ​               ​                                 ​                      ​            ​   ​                                      ​  ​                                            ​    ​       ​                                 ​            ​ ​                             ​        ​          ​   ​                                ​      ​     ​        ​       ​               ​                           ​            ​      ​               ​  ​          ​                           ​                                   ​                                                                 ​                      ​    ​                                                  ​            ​                       ​      ​             ​               ​  ​                 ​     ​            ​              ​                        ​                                     ​           ​                            ​        ​                                                                                    ​                 ​  ​        ​           ​         ​        ​                   ​       ​           ​                       ​                                   ​​                                       ​​                 ​                         ​            ​               ​             ​                               ​                          ​                  ​                       ​                ​                      ​                                        ​                                     ​  ​                    ​               ​                                      ​                          ​        ​                   ​                            ​                         ​         ​                           ​  ​                                 ​​                              ​       ​  ​                                       ​      ​                             ​                                                                           ​  ​            ​                                                                              ​              ​           ​                           ​     ​                        ​    ​                       ​              ​                               ​        ​                                    ​    ​                               ​​                                                                          ​​                            ​         ​ ​            ​                         ​       ​             ​            ​ ​                                                                        ​                             ​                                                 ​                    ​              ​       ​​                               ​  ​                          ​    ​​                                        ​                             ​                                                                                  ​                                             ​                     ​​           ​              ​          ​           ​                      ​       ​                             ​                                     ​        ​                            ​  ​       ​                  ​                       ​                           ​                  ​​ ​                         ​                           ​                                ​    ​                                   ​ ​                         ​      ​                    ​ ​         ​    ​            ​                        ​​           ​                       ​               ​                                                ​                            ​                  ​   ​                               ​                                    ​             ​                         ​                           ​            ​                                 ​     ​                       ​            ​              ​                         ​  ​                          ​            ​                          ​        ​                             ​                  ​                ​     ​    ​                              ​                                  ​                                          ​      ​                                                 ​                                     ​                                                      ​    ​ ​      ​    ​                   ​                      ​          ​              ​            ​          ​                ​           ​           ​            ​          ​            ​  ​        ​      ​                                                             ​    ​       ​                     ​                                      ​        ​                              ​                                       ​                                  ​​                        ​            ​                   ​            ​   ​       ​                                                                   ​           ​               ​                   ​                      ​             ​                      ​                            ​      ​                                      ​    ​ ​                                  ​                                    ​                          ​ ​      ​   ​              ​                ​     ​  ​                        ​       ​                             ​                                  ​​                              ​       ​  ​​                                       ​        ​               ​            ​                                              ​                          ​  ​       ​     ​                                   ​                        ​           ​                ​        ​   ​                                      ​  ​                     ​       ​    ​​                       ​             ​                         ​           ​                 ​                             ​                          ​ ​​       ​                        ​                             ​    ​​                             ​          ​                                   ​        ​                            ​ ​                         ​​           ​                                  ​  ​                         ​     ​    ​                                                              ​       ​​     ​   ​                                   ​  ​                          ​    ​                                    ​     ​                      ​        ​                    ​           ​    ​          ​                        ​                                     ​                                 ​​                          ​          ​                                          ​      ​     ​                       ​​   ​                                ​    ​                             ​  ​                          ​            ​   ​                                  ​             ​     ​                           ​                           ​     ​                         ​    ​                       ​                                 ​     ​        ​               ​   ​        ​                   ​                        ​                                     ​                            ​     ​​                              ​                             ​                ​       ​      ​                                                           ​    ​                           ​  ​                                    ​              ​              ​         ​      ​     ​                         ​           ​                       ​  ​                                  ​                                                               ​        ​                  ​                        ​                             ​​    ​                            ​                                   ​​                                         ​                 ​                 ​       ​      ​                   ​                                    ​    ​                            ​  ​     ​                               ​            ​                      ​     ​               ​            ​            ​                  ​           ​                                                                            ​   ​                            ​      ​                   ​                ​          ​            ​              ​                                    ​          ​                                                      ​              ​             ​                  ​                                    ​                                    ​                      ​                   ​                 ​    ​          ​              ​           ​          ​                   ​                          ​              ​  ​​       ​                          ​                                         ​   ​                                    ​                   ​                ​          ​                            ​                                                                                                      ​        ​                ​                             ​                           ​                                    ​                                        ​                         ​          ​            ​   ​                      ​                   ​                         ​         ​               ​                                 ​                                  ​        ​   ​                          ​      ​                   ​                ​          ​                            ​​                                   ​​                                      ​​                                                          ​                  ​         ​                                                                  ​   ​​        ​                       ​                         ​          ​                ​                      ​                        ​            ​             ​                         ​  ​                             ​                                      ​    ​                             ​                                                 ​   ​     ​                             ​​                                    ​                                   ​​      ​                                  ​          ​      ​                 ​       ​                                                               ​    ​                   ​                                                     ​        ​    ​                         ​    ​            ​                  ​            ​                       ​  ​        ​                           ​                                                                ​        ​                    ​                        ​                   ​       ​                                   ​                 ​                ​​                   ​       ​  ​          ​                    ​                       ​                                                                  ​    ​                           ​                                ​            ​     ​      ​                        ​                    ​     ​                   ​                  ​                  ​                               ​                                  ​                               ​        ​              ​     ​                 ​      ​   ​                         ​​                                                                                                    ​          ​                  ​                ​       ​                                          ​                              ​                         ​  ​                          ​     ​            ​        ​   ​            ​                                        ​                          ​      ​                                                 ​    ​      ​               ​                                              ​​                          ​                ​         ​                           ​                                                                     ​​     ​     ​               ​            ​       ​         ​                ​        ​                               ​                                        ​  ​  ​                           ​              ​                                      ​                                    ​        ​        ​     ​                           ​            ​  ​           ​                 ​    ​                                     ​                              ​        ​                  ​                           ​                          ​                                                                       ​​           ​               ​           ​                  ​                 ​       ​                                ​                                             ​                          ​                                          ​               ​​                      ​   ​       ​              ​            ​ ​                                           ​  ​                                ​    ​                              ​                                               ​                   ​                          ​                             ​                   ​          ​    ​ ​                                    ​​                            ​           ​                  ​                          ​  ​                           ​                                ​     ​                                  ​  ​                              ​  ​       ​     ​         ​                      ​     ​           ​   ​              ​            ​                         ​                                ​    ​                                  ​                  ​            ​        ​ ​   ​                                    ​    ​                        ​​  ​                                                                      ​​                          ​          ​                 ​                        ​                    ​          ​                       ​                                                        ​                      ​     ​                         ​                        ​                     ​                          ​                              ​                               ​    ​                                 ​       ​                        ​                    ​        ​        ​       ​           ​                          ​                                                                        ​​     ​                    ​            ​                  ​                   ​       ​                             ​                                     ​    ​​                            ​  ​                                                 ​   ​                    ​                    ​              ​           ​                        ​  ​                             ​     ​ ​                    ​            ​       ​                     ​                          ​                 ​          ​                          ​                                                          ​             ​               ​             ​          ​             ​                       ​  ​  ​​              ​                 ​                                     ​    ​                             ​  ​                          ​          ​              ​                                        ​                        ​                            ​                  ​    ​    ​    ​                                   ​                              ​        ​     ​                ​  ​                        ​    ​                         ​                            ​                ​                          ​​                               ​        ​                 ​                ​       ​                              ​            ​                        ​    ​                             ​  ​       ​                ​                         ​​                   ​                     ​            ​   ​            ​                       ​  ​      ​                      ​   ​         ​                   ​        ​        ​  ​               ​       ​                   ​                 ​          ​     ​                   ​   ​                            ​                                                                                ​                                     ​     ​​                           ​                                         ​                          ​                            ​              ​              ​                      ​                                   ​                                        ​  ​                                  ​                       ​                ​                            ​​           ​               ​                           ​                          ​          ​                   ​        ​                                  ​​             ​             ​          ​ ​                ​                  ​       ​                               ​     ​                                                            ​    ​                                                     ​                                            ​              ​   ​                                 ​  ​                            ​    ​    ​                 ​              ​                               ​        ​     ​              ​                                                                               ​                                               ​                          ​                                                       ​       ​        ​                                    ​    ​         ​                    ​           ​ ​                 ​          ​        ​​ ​   ​        ​                    ​                     ​                         ​                          ​                          ​    ​                     ​  ​         ​       ​                     ​       ​                     ​                  ​      ​   ​                           ​​                                                                        ​                           ​                             ​          ​           ​                                  ​         ​                             ​    ​                           ​           ​                  ​          ​                ​                                  ​        ​​                          ​           ​              ​                             ​    ​            ​                      ​         ​   ​                         ​                   ​                                                           ​   ​                                                                                              ​          ​     ​           ​                ​                                      ​                                       ​    ​                                   ​                            ​                         ​                                       ​    ​              ​           ​                         ​  ​                              ​  ​ ​       ​                           ​ ​                             ​      ​                    ​                        ​                               ​​                  ​                                                    ​​                                                        ​    ​            ​   ​            ​                            ​                   ​           ​                ​               ​                ​                              ​                         ​                      ​                   ​              ​            ​                            ​                          ​                                         ​                                  ​        ​                   ​                 ​          ​                             ​                                                                                                        ​        ​                 ​         ​      ​         ​                                ​                                      ​    ​                               ​                            ​                         ​                                      ​​              ​           ​                         ​  ​                            ​  ​ ​                                      ​      ​                            ​     ​            ​                                                           ​​    ​                                                   ​                ​​                         ​          ​                                                                                 ​              ​            ​                                                                                      ​​                       ​                    ​​        ​   ​                                   ​​      ​                                              ​    ​                                     ​                                       ​                   ​               ​   ​          ​                              ​   ​   ​                                                 ​              ​                            ​                                                  ​       ​​                      ​       ​     ​                  ​               ​                                    ​  ​                        ​                         ​                            ​         ​                          ​                          ​                              ​    ​   ​                                 ​                                       ​                   ​                ​          ​        ​           ​         ​                                                                    ​                          ​​          ​  ​           ​     ​          ​          ​                                    ​                                      ​    ​​                           ​                             ​                       ​                                               ​              ​                                      ​  ​                             ​    ​    ​  ​               ​          ​ ​                             ​            ​             ​                          ​   ​                           ​​                                                                       ​​                ​       ​                           ​                         ​  ​              ​​       ​                ​              ​          ​                                 ​       ​    ​            ​                                               ​                   ​                          ​                          ​  ​          ​                 ​    ​                                   ​              ​              ​        ​                    ​                  ​          ​                          ​​                                     ​                             ​​    ​                   ​                             ​                    ​        ​    ​                       ​                                     ​      ​                         ​  ​       ​                                 ​                                                                                  ​      ​    ​                ​                               ​                                                                 ​                    ​                                            ​    ​                                                   ​                    ​       ​​             ​  ​        ​​                                                     ​      ​                ​           ​                 ​            ​                                 ​               ​             ​      ​            ​ ​                                 ​              ​                ​         ​                         ​​                           ​          ​     ​                           ​               ​                                              ​                        ​                     ​ ​                            ​​             ​ ​       ​                                                                       ​​    ​    ​               ​    ​                     ​                 ​        ​                                ​                                    ​                                  ​  ​       ​                  ​ ​        ​                                             ​         ​                          ​                              ​                      ​    ​    ​                         ​              ​                ​             ​        ​                     ​                 ​      ​   ​                         ​   ​                                 ​          ​        ​                 ​             ​            ​           ​                  ​                ​        ​   ​                     ​         ​                  ​              ​                 ​​         ​  ​                                                  ​                                              ​              ​                                     ​     ​                           ​    ​                      ​            ​                             ​        ​          ​                                       ​                         ​​                                                      ​                                                ​          ​                   ​        ​       ​       ​​                                ​                               ​                                            ​                            ​                                                      ​                   ​             ​            ​      ​                  ​  ​                                    ​                          ​                                         ​                                                         ​   ​                    ​​         ​                 ​        ​                                   ​​                             ​            ​                                         ​​    ​​                           ​                                            ​             ​           ​                            ​              ​  ​           ​                       ​                    ​              ​                                      ​  ​                               ​    ​     ​                           ​                        ​   ​           ​                ​                ​          ​                            ​​                        ​   ​        ​                                   ​​                             ​        ​                 ​                         ​                                                                       ​                           ​                              ​      ​​ ​       ​   ​​           ​          ​    ​      ​                                     ​                             ​                        ​  ​                                                                                 ​                   ​                ​          ​                           ​     ​                                                     ​                  ​                            ​        ​  ​         ​​ ​                         ​                                  ​   ​                     ​       ​  ​    ​        ​                   ​  ​                          ​          ​                                   ​    ​                ​      ​       ​            ​                            ​                                               ​                                 ​      ​                  ​                      ​          ​       ​       ​   ​         ​                ​​                   ​                                                                                 ​    ​                            ​                  ​       ​                           ​                                       ​                                           ​                            ​          ​              ​                          ​               ​                           ​                            ​                         ​                            ​ ​​          ​             ​                        ​                   ​                 ​          ​                        ​                                                         ​              ​                          ​         ​                                    ​                                     ​                                                                           ​  ​                          ​                                                                     ​              ​            ​                           ​                               ​    ​           ​      ​  ​               ​    ​                        ​        ​     ​              ​                ​          ​                          ​                                                                      ​​​               ​                   ​                   ​                          ​                               ​                                     ​                                 ​  ​                                          ​            ​                         ​                               ​    ​               ​                         ​          ​              ​    ​                                                                               ​                   ​    ​         ​           ​                              ​​                                   ​                                      ​       ​                   ​          ​                ​                                                      ​             ​                 ​              ​                                                            ​        ​    ​​        ​                      ​            ​        ​             ​            ​                         ​  ​                                                          ​    ​                                                   ​         ​                       ​           ​                             ​​                                  ​     ​                              ​​       ​                   ​                             ​                          ​           ​                                                    ​    ​                              ​​ ​                          ​          ​              ​                      ​                     ​              ​           ​                                              ​           ​    ​      ​                    ​                                    ​        ​                    ​                ​          ​                             ​​                            ​       ​                                    ​​                            ​          ​                   ​                ​                           ​                                                  ​    ​                           ​                             ​          ​              ​                      ​​                                    ​            ​                           ​  ​                              ​    ​                      ​            ​                            ​​                           ​                ​          ​          ​                 ​                            ​        ​                                   ​​                           ​          ​             ​    ​                ​       ​                        ​    ​                             ​        ​    ​​                           ​  ​                                                                            ​     ​                                            ​                           ​                            ​                                                                                ​                   ​                  ​        ​                             ​​                         ​       ​     ​                                            ​               ​              ​           ​                        ​                                                               ​    ​                                                        ​​          ​              ​                                ​            ​              ​            ​                            ​  ​ ​               ​        ​                                          ​             ​                          ​                    ​                ​            ​                          ​​                              ​                       ​                                           ​                              ​                ​       ​                           ​                                       ​     ​                                                           ​            ​             ​                       ​    ​         ​                         ​                                      ​  ​  ​         ​              ​                                         ​   ​            ​                 ​                          ​            ​              ​                       ​​    ​                              ​      ​                        ​         ​                        ​          ​                 ​                ​       ​                            ​                                   ​  ​    ​​                            ​  ​                          ​          ​              ​                                            ​                           ​                         ​  ​      ​                        ​     ​                                                    ​      ​                ​                           ​                 ​    ​        ​                                                                               ​                 ​                          ​                                           ​                            ​                                                        ​​   ​        ​                       ​​ ​                          ​           ​              ​                       ​                      ​             ​           ​                           ​      ​                                           ​                                                    ​ ​                     ​              ​          ​          ​                  ​​                                                                         ​​                        ​                           ​                         ​                               ​   ​                                 ​    ​                              ​  ​                           ​   ​      ​              ​                                                                       ​                            ​       ​                   ​                                        ​            ​                      ​                    ​  ​             ​            ​                            ​                                                                                                   ​          ​   ​             ​                ​      ​                              ​                                           ​                               ​    ​  ​​                       ​          ​                ​                              ​         ​          ​                                             ​  ​                            ​    ​                                   ​                              ​        ​                    ​                 ​          ​                       ​              ​                                                                ​                      ​    ​                                 ​                           ​    ​                  ​                               ​     ​                  ​                   ​                                         ​​                              ​                                                 ​                    ​      ​                        ​                           ​                                                 ​                            ​              ​             ​                      ​         ​              ​       ​ ​​    ​                  ​   ​                ​                             ​                      ​  ​                         ​ ​                   ​        ​                      ​                         ​                                                      ​                            ​                          ​           ​               ​              ​                        ​                   ​                  ​                   ​  ​                              ​             ​             ​               ​ ​                              ​                      ​                      ​                                                          ​             ​               ​​                          ​                          ​                             ​                                      ​         ​                                                     ​            ​        ​        ​    ​                                  ​                      ​                              ​                       ​       ​          ​  ​       ​                          ​        ​    ​  ​     ​                  ​            ​              ​    ​                   ​          ​                      ​​  ​                          ​                               ​          ​                                                           ​                            ​            ​                         ​                   ​        ​  ​     ​ ​             ​    ​                       ​                                         ​                       ​  ​                         ​                       ​            ​                    ​                    ​           ​                    ​                 ​                                 ​                                                  ​          ​                                                  ​                                        ​                             ​       ​                                    ​            ​ ​                           ​            ​             ​  ​                            ​          ​     ​        ​                      ​     ​               ​                           ​                       ​   ​                            ​   ​                                    ​                                 ​        ​                   ​               ​   ​          ​                  ​        ​                                                                                                       ​              ​         ​    ​                ​       ​                                 ​                                 ​   ​    ​                            ​  ​                           ​  ​       ​                             ​   ​     ​    ​      ​          ​      ​                    ​                          ​                            ​                                           ​                         ​  ​      ​       ​           ​                ​          ​               ​                                                                           ​​                                    ​          ​                 ​                ​       ​                           ​                                    ​                                   ​  ​ ​                         ​          ​                                       ​    ​                    ​              ​            ​                           ​                     ​    ​                                           ​   ​        ​                           ​                   ​                ​          ​                            ​                                       ​                                      ​​                           ​                      ​    ​                        ​                            ​     ​                 ​               ​    ​                                 ​                         ​  ​       ​     ​         ​                      ​     ​                           ​           ​             ​              ​                                                      ​             ​                                      ​                  ​                 ​ ​          ​                           ​​                                  ​                                     ​ ​                         ​                          ​                                                   ​                                       ​    ​                                ​                          ​            ​            ​                      ​    ​                              ​           ​                         ​  ​                               ​    ​                                                              ​  ​                                                  ​    ​                         ​ ​​                           ​        ​                                    ​​                            ​                            ​                           ​                                                                ​               ​            ​  ​                                       ​              ​                        ​     ​                              ​           ​                        ​  ​                        ​  ​    ​                   ​                                                                       ​​             ​        ​​                           ​                              ​      ​                                   ​​​                             ​        ​                 ​                  ​      ​            ​                                                          ​                           ​                               ​          ​   ​         ​                      ​                      ​           ​    ​                                     ​  ​                          ​  ​    ​                     ​    ​                                       ​                                                       ​                          ​​                           ​         ​       ​                          ​​                                            ​                  ​                ​      ​​                                ​                                           ​                           ​                              ​          ​               ​                        ​                    ​           ​    ​                                       ​  ​                             ​    ​                       ​            ​                           ​                                                        ​                ​            ​  ​               ​        ​      ​       ​                          ​​                    ​        ​          ​                     ​               ​ ​       ​                             ​                                         ​                                    ​                                                       ​                                        ​              ​                                     ​  ​    ​                        ​     ​                                  ​                                ​                                                             ​                            ​                                   ​                                    ​​                         ​        ​ ​                  ​                   ​      ​    ​                       ​  ​                                                                       ​                                                                                                       ​                        ​                  ​        ​ ​​  ​                                  ​                       ​              ​                          ​                                                     ​  ​                           ​​                       ​  ​             ​                        ​   ​​                             ​                          ​                                         ​          ​                                          ​              ​     ​                                       ​   ​      ​                ​    ​            ​                        ​              ​ ​         ​                          ​                              ​                                                                           ​   ​ ​      ​      ​    ​                   ​​                             ​​                                                          ​            ​             ​                           ​               ​                                                      ​                                        ​                                ​                           ​      ​                                                          ​              ​           ​           ​                                   ​         ​    ​     ​               ​  ​                  ​                     ​      ​                    ​                              ​                        ​    ​  ​                      ​ ​    ​      ​            ​                                        ​    ​          ​     ​           ​                            ​                              ​                           ​         ​            ​                    ​  ​                       ​                                                                      ​               ​                                       ​  ​                           ​      ​ ​   ​                                                           ​        ​                    ​           ​                 ​                   ​    ​    ​                               ​                         ​           ​​                           ​ ​         ​     ​            ​                ​        ​          ​                  ​                        ​   ​             ​            ​               ​  ​         ​                                         ​                      ​   ​ ​     ​           ​                    ​                          ​  ​                               ​                         ​                           ​            ​                                                        ​  ​                      ​       ​   ​                 ​     ​                               ​      ​​       ​     ​              ​          ​                                       ​       ​          ​                                                            ​                  ​        ​                                             ​             ​                      ​     ​                     ​        ​      ​                            ​ ​   ​                     ​       ​                   ​   ​                       ​                          ​                            ​                       ​                        ​  ​​                          ​       ​       ​                              ​​         ​                ​             ​              ​ ​                         ​                          ​                                     ​    ​        ​                   ​  ​      ​               ​            ​             ​​           ​          ​                                       ​             ​                         ​  ​              ​                   ​          ​                                                               ​                                ​           ​                            ​​         ​                          ​                                ​   ​​ ​                                      ​                 ​               ​        ​           ​                                          ​              ​                               ​        ​                                ​       ​    ​                        ​                 ​                ​              ​          ​            ​  ​                                  ​    ​                                                      ​    ​   ​                             ​                         ​                            ​          ​                         ​                                    ​​                            ​          ​​​                ​                         ​                             ​        ​                                  ​          ​               ​                 ​                      ​              ​​                      ​       ​                           ​                                        ​  ​                               ​         ​                                 ​                           ​        ​                    ​           ​    ​          ​                         ​                                   ​  ​                                   ​​                           ​          ​                    ​                  ​        ​                              ​                                      ​                             ​                                     ​​                                                            ​           ​  ​                                       ​  ​                            ​                           ​            ​                           ​    ​         ​         ​  ​     ​                                                        ​                       ​  ​          ​                ​             ​​     ​                   ​       ​  ​                                          ​     ​​    ​      ​                  ​                           ​​                                          ​                         ​    ​                         ​              ​       ​    ​   ​                           ​​ ​       ​     ​                          ​           ​                ​                           ​                                      ​   ​        ​                    ​                 ​        ​​  ​          ​             ​             ​                         ​                                     ​​ ​    ​                                 ​                 ​                         ​           ​                                                            ​                            ​                             ​         ​             ​                      ​                                      ​     ​     ​       ​               ​  ​                                            ​       ​                                                                 ​                                   ​         ​                           ​       ​                           ​                                  ​​                                        ​​​                 ​                         ​     ​                                                            ​ ​                              ​  ​       ​​                   ​           ​              ​                      ​                  ​                 ​             ​                         ​  ​                                     ​                ​                                                          ​                                   ​           ​                           ​​           ​                         ​     ​                              ​​                              ​          ​                    ​                ​       ​                                                                     ​                                        ​                           ​              ​                           ​​                                       ​            ​​                          ​                             ​                                ​                  ​​             ​       ​                 ​              ​         ​           ​                      ​        ​     ​                         ​​ ​ ​                                   ​​            ​                                         ​                                    ​                                                         ​    ​                    ​         ​  ​  ​   ​                                              ​         ​             ​                                ​           ​                         ​  ​             ​                                                                                   ​     ​                             ​         ​           ​          ​                   ​                                    ​ ​                               ​  ​​                                     ​               ​            ​        ​                                                                  ​     ​                    ​            ​        ​              ​  ​       ​      ​         ​                          ​ ​                                  ​           ​                         ​  ​                                                                                                     ​      ​                    ​              ​           ​  ​      ​                 ​​            ​                           ​​    ​                                            ​ ​                                     ​                        ​                                                                       ​    ​                          ​     ​                         ​          ​           ​   ​       ​    ​         ​                   ​   ​            ​           ​                          ​  ​                                 ​                                         ​                ​   ​           ​                                 ​        ​                ​        ​ ​   ​                              ​                        ​            ​                                                            ​         ​                                              ​                                        ​    ​                             ​     ​                       ​          ​                ​        ​             ​    ​     ​        ​              ​           ​                              ​​                               ​                                                                        ​                    ​              ​           ​                               ​​                      ​   ​       ​                        ​            ​                 ​                                    ​                        ​                            ​       ​     ​               ​​       ​    ​​       ​​                                                    ​          ​                ​                                           ​                     ​    ​                              ​​                           ​    ​                                       ​                                ​        ​     ​              ​                ​          ​                           ​​                                                                                ​             ​                         ​  ​             ​         ​               ​           ​                                      ​    ​                            ​  ​                         ​​          ​                                                        ​               ​            ​                          ​               ​         ​​    ​                                  ​ ​                                      ​                     ​                  ​     ​    ​                           ​                        ​           ​               ​                                               ​         ​   ​            ​                                                     ​   ​                                 ​                                        ​  ​       ​                  ​          ​     ​        ​                  ​          ​              ​          ​                                                                               ​                                     ​                     ​           ​                              ​    ​         ​​                       ​                                        ​                            ​                                                              ​                          ​             ​                                                                      ​              ​              ​              ​       ​     ​           ​​       ​                                 ​                                     ​                 ​       ​                          ​                         ​​               ​           ​                                        ​ ​                         ​       ​  ​                   ​               ​                                          ​             ​​                     ​    ​ ​                                   ​                ​       ​                   ​                          ​​                  ​           ​           ​    ​                      ​                    ​  ​      ​                  ​             ​            ​              ​                                         ​                                                                                                   ​                               ​                ​         ​                             ​​                              ​      ​                  ​               ​​                           ​          ​                   ​                         ​                         ​  ​                                          ​                                ​                                      ​              ​                      ​    ​            ​                     ​           ​                        ​                            ​                                                                                   ​                  ​               ​         ​                            ​     ​                                                  ​                  ​                      ​    ​                         ​                  ​       ​                              ​                                     ​                                   ​  ​       ​               ​          ​                ​                      ​                     ​                         ​                          ​                          ​    ​                                   ​      ​   ​                        ​ ​     ​            ​                  ​           ​                               ​                           ​ ​    ​            ​            ​                                ​            ​       ​           ​            ​       ​       ​​                                   ​                                                                    ​                                                  ​                      ​                                      ​          ​  ​                         ​  ​                                                                                                                                        ​                ​         ​  ​                        ​                            ​      ​                                      ​​                            ​         ​ ​                 ​                  ​       ​   ​      ​                 ​                                          ​                             ​                             ​          ​            ​                       ​                    ​           ​  ​                                     ​  ​                              ​    ​                     ​              ​                             ​        ​               ​  ​          ​                 ​                           ​                                  ​                          ​      ​​       ​                    ​     ​  ​​    ​                              ​ ​   ​​            ​                                                           ​                             ​                            ​            ​             ​                      ​                              ​        ​      ​                                ​  ​                                ​       ​    ​                                                                                                           ​           ​                               ​​        ​                             ​                                  ​​       ​   ​                                           ​                  ​       ​       ​                 ​      ​                            ​    ​                               ​                         ​          ​              ​                        ​    ​​                              ​     ​     ​                                         ​                                                   ​                 ​                         ​  ​                ​               ​         ​                     ​        ​     ​                         ​  ​                                                ​                                               ​                        ​                              ​                                            ​                                       ​                            ​          ​                      ​        ​                            ​                        ​    ​  ​                                                        ​    ​                     ​  ​         ​       ​                     ​      ​              ​       ​           ​      ​ ​        ​                             ​                           ​ ​    ​                  ​                                          ​           ​                                        ​      ​     ​                        ​                            ​​       ​                              ​  ​                                                                                                ​              ​                         ​          ​  ​                            ​    ​                     ​  ​              ​                            ​    ​      ​                     ​           ​                                         ​                                     ​                  ​               ​​                          ​          ​                   ​                  ​                    ​                 ​         ​              ​            ​                                   ​                                                         ​                                       ​              ​                                ​   ​ ​  ​                             ​    ​                         ​                ​                             ​​        ​     ​        ​                ​                                            ​                                                        ​               ​​                           ​          ​                 ​                    ​                                      ​     ​                              ​                                 ​  ​                                   ​   ​                                         ​            ​               ​           ​​           ​          ​                              ​    ​       ​         ​    ​               ​                ​     ​      ​        ​                    ​                ​                                      ​                        ​            ​                    ​                 ​​                         ​​                                                   ​      ​     ​                         ​                        ​            ​                                    ​  ​                        ​                           ​​                            ​              ​       ​      ​                                      ​  ​   ​​                      ​    ​                                    ​                             ​  ​     ​                    ​           ​               ​                           ​                                           ​                         ​​                             ​          ​      ​            ​                  ​ ​       ​                             ​                                    ​                             ​​                           ​                         ​                                             ​                ​       ​                          ​  ​                            ​      ​    ​                              ​ ​       ​                     ​        ​                                                      ​                          ​                                                                        ​​                             ​          ​                 ​                 ​       ​                  ​                                               ​    ​​                           ​  ​                         ​             ​              ​      ​       ​        ​                           ​                    ​                         ​  ​                               ​    ​              ​         ​              ​                               ​              ​              ​                ​          ​                          ​                                               ​   ​                                    ​​    ​          ​                 ​           ​       ​      ​​     ​                         ​                              ​                            ​   ​         ​ ​                              ​                    ​                        ​                     ​                ​           ​​                         ​  ​  ​                           ​    ​     ​                                             ​            ​      ​     ​              ​                 ​      ​   ​                             ​​                                 ​                      ​             ​             ​                        ​ ​                                   ​                                           ​​         ​                                     ​              ​          ​                        ​    ​         ​                 ​              ​         ​             ​  ​             ​                                   ​         ​                            ​    ​                      ​    ​         ​       ​                     ​       ​                   ​                           ​                ​         ​        ​                                                                 ​​         ​                 ​          ​ ​​           ​    ​                  ​       ​                                ​                                     ​    ​                              ​  ​       ​                ​                           ​                                          ​              ​             ​               ​                              ​                                                                                 ​       ​                   ​                ​         ​                           ​​                           ​       ​                                                     ​                                              ​                ​     ​​            ​                                                       ​    ​                            ​  ​                            ​                           ​                        ​             ​         ​                                             ​  ​           ​                 ​    ​                      ​             ​                              ​        ​                                          ​  ​            ​                 ​​                                                                      ​​      ​                                ​                  ​           ​     ​                                        ​   ​           ​​             ​             ​                                                            ​        ​                 ​                                                      ​                       ​​  ​              ​    ​               ​             ​     ​  ​                   ​    ​                                      ​  ​                            ​              ​             ​                          ​      ​                    ​      ​                                    ​​                           ​          ​                   ​                ​       ​           ​                   ​     ​                     ​        ​                                 ​                                                      ​                                            ​               ​            ​                       ​  ​                            ​    ​                                      ​                    ​        ​        ​                    ​                ​           ​                         ​                                                                                      ​             ​          ​             ​    ​                ​      ​                            ​                                     ​    ​                            ​  ​                            ​          ​              ​                    ​                   ​                           ​                          ​           ​                  ​    ​                        ​         ​            ​                        ​                     ​                ​                        ​             ​​                                                                          ​                            ​                          ​         ​                ​                   ​            ​                                     ​    ​                                   ​                          ​          ​              ​                      ​                                                ​                          ​                               ​                          ​                                                    ​                    ​                ​         ​                               ​​                                   ​                                    ​​                            ​                             ​                 ​       ​                           ​                     ​                  ​                                   ​                            ​            ​               ​                        ​                                     ​            ​                           ​  ​                             ​    ​                       ​            ​                             ​                  ​           ​          ​     ​         ​​                   ​       ​​           ​                        ​               ​                                                   ​                  ​    ​                                                    ​                                         ​    ​                            ​  ​               ");local u=(13375/0x7d)local o=112 local l=d;local e={}e={[(61/0x3d)]=function()local e,d,n,r=v(F,l,l+y);l=l+m;o=(o+(u*m))%s;return(((r+o-(u)+a*(m*g))%a)*((g*Y)^g))+(((n+o-(u*g)+a*(g^y))%s)*(a*s))+(((d+o-(u*y)+Y)%s)*a)+((e+o-(u*m)+Y)%s);end,[(60-0x3a)]=function(e,e,e)local e=v(F,l,l);l=l+M;o=(o+(u))%s;return((e+o-(u)+Y)%a);end,[(351/(-0x6a+223))]=function()local e,d=v(F,l,l+g);o=(o+(u*g))%s;l=l+g;return(((d+o-(u)+a*(g*m))%a)*s)+((e+o-(u*g)+s*(g^y))%a);end,[(0x32c/203)]=function(l,e,o)if o then local e=(l/g^(e-d))%g^((o-M)-(e-d)+M);return e-e%d;else local e=g^(e-M);return(l%(e+e)>=e)and d or p;end;end,[(0x3ed/201)]=function()local o=e[(0x35-52)]();local l=e[(0x37/55)]();local r=d;local n=(e[((0x96+-122)+-#"keno 0347 is a nerdy fag")](l,M,A+m)*(g^(A*g)))+o;local o=e[((134+-0x7d)+-#[[negus]])](l,21,31);local e=((-d)^e[(820/0xcd)](l,32));if(o==p)then if(n==z)then return e*p;else o=M;r=z;end;elseif(o==(a*(g^y))-M)then return(n==p)and(e*(M/z))or(e*(p/z));end;return G(e,o-((s*(m))-d))*(r+(n/(g^V)));end,[(-#'Me be like at 5am in the morning'+(-0x2c+82))]=function(n,r,r)local r;if(not n)then n=e[(0x34+-51)]();if(n==p)then return'';end;end;r=H(F,l,l+n-d);l=l+n;local e=''for l=M,#r do e=R(e,j((v(H(r,l,l))+o)%s))o=(o+u)%a end return e;end}local function p(...)return{...},L('#',...)end local function H()local n={};local r={};local o={};local i={n,r,nil,o};local l={}local b=(250-0xb7)local o={[(0x74-113)]=(function(o)return not(#o==e[(59+-0x39)]())end),[(((0x175+-70)+-#"how tf do i remove the meme strings")/134)]=(function(o)return e[(0x60-91)]()end),[((-122+0x7a)/0x74)]=(function(o)return e[((0x1380/(25536/0x85))+-#'free pornhub premium')]()end),[(0x16+-18)]=(function(o)local d=e[((-2067/0x35)+45)]()local o=''local e=1 for l=1,#d do e=(e+b)%s o=R(o,j((v(d:sub(l,l))+e)%a))end return o end)};local a=e[(0x15/21)]()for d=1,a do local e=e[((114-0x68)+-#[[Gay porn]])]();local a;local e=o[e%(0x4f-60)];l[d]=e and e({});end;for r=1,e[(-#"cilertedcool"+(0x83-((-70+0xe8)+-#'MoonsecV2 deobfuscator 2020 free 100 percent')))]()do local o=e[(0x13+-17)]();if(e[(37-0x21)](o,d,M)==z)then local i=e[(0x65-97)](o,g,y);local a=e[(-98+0x66)](o,m,g+m);local o={e[(89+-0x56)](),e[(471/0x9d)](),nil,nil};local b={[(-#"If no milk then return ffather"+(0x1cf2/247))]=function()o[O]=e[((-26+0x2b)+-#[[FranzJPresents]])]();o[S]=e[(633/0xd3)]();end,[(-0x76+119)]=function()o[f]=e[(-#[[MoonsecV2 deobfuscator 2020 free 100 percent]]+(0xb13/63))]();end,[(0x29+-39)]=function()o[w]=e[((0x12a0/149)-0x1f)]()-(g^A)end,[((0x35+-26)+-#'0nly 1337 smashed ur wap')]=function()o[O]=e[(61+(-70+0xa))]()-(g^A)o[_]=e[(24-0x15)]();end};b[i]();if(e[((-0x3c+-16)+0x50)](a,M,d)==M)then o[k]=l[o[h]]end if(e[(0x10/4)](a,g,g)==d)then o[U]=l[o[U]]end if(e[((114+-0x61)+-#[[Bush Did 9 11]])](a,y,y)==M)then o[D]=l[o[P]]end n[r]=o;end end;for e=M,e[(190/0xbe)]()do r[e-M]=H();end;i[3]=e[(69+-0x43)]();return i;end;local function A(e,u,m)local l=e[g];local s=e[y];local e=e[d];return(function(...)local z={};local F=L('#',...)-M;local o=d;local a=e;local s=s;local p=p local e=d e*=-1 local y=e;local v=l;local Y={...};local j={};local l={};for e=0,F do if(e>=s)then j[e-s]=Y[e+M];else l[e]=Y[e+d];end;end;local e=F-s+d local e;local s;while true do e=a[o];s=e[(0x92/146)];n=(4572736)while(0x3000/64)>=s do n-= n n=(2082690)while((-#"you get no absolute bitches"+(-28+0x100))+-0x6a)>=s do n-= n n=(1172116)while(-100+0x93)>=s do n-= n n=(5492124)while s<=(122+-0x63)do n-= n n=(2708046)while s<=(117-0x6a)do n-= n n=(2256384)while s<=(0x28f/(254+-0x7b))do n-= n n=(3378387)while s<=(0x6c/54)do n-= n n=(10912560)while s<=(0x1e-30)do n-= n local s;local U;local B;local n;l[e[k]]=l[e[x]][e[D]];o=o+d;e=a[o];n=e[b]B={l[n](l[n+1])};U=0;for e=n,e[P]do U=U+d;l[e]=B[U];end o=o+d;e=a[o];l[e[h]]=u[e[f]];o=o+d;e=a[o];l[e[k]]=l[e[w]][e[N]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[r]]=l[e[t]][e[S]];o=o+d;e=a[o];l[e[b]]=u[e[f]];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[h]]=l[e[O]]*l[e[P]];o=o+d;e=a[o];s={l,e};s[M][s[g][c]]=s[d][s[g][_]]+s[M][s[g][O]];o=o+d;e=a[o];n=e[r]B={l[n](l[n+1])};U=0;for e=n,e[D]do U=U+d;l[e]=B[U];end o=o+d;e=a[o];if l[e[r]]then o=o+d;else o=e[x];end;break;end while(n)/((3402+-0x4b))==3280 do n=(6943746)while s>(0xe4/228)do n-= n l[e[h]]=u[e[t]];o=o+d;e=a[o];l[e[i]]=l[e[x]][e[N]];o=o+d;e=a[o];l[e[k]]=l[e[f]][e[_]];o=o+d;e=a[o];l[e[k]][e[w]]=l[e[_]];o=o+d;e=a[o];do return end;break end while(n)/((560997/0xf9))==3082 do local z;local A,v;local n;local s;l[e[b]]=m[e[w]];o=o+d;e=a[o];l[e[b]]=u[e[O]];o=o+d;e=a[o];l[e[h]]=l[e[O]][e[S]];o=o+d;e=a[o];l[e[k]]=l[e[U]][e[_]];o=o+d;e=a[o];l[e[c]]=l[e[x]]/l[e[P]];o=o+d;e=a[o];l[e[b]]=l[e[w]]*e[S];o=o+d;e=a[o];s={e,l};s[g][s[M][b]]=s[g][s[d][O]]+s[M][N];o=o+d;e=a[o];n=e[i]A,v=p(l[n](l[n+M]))y=v+n-d z=0;for e=n,y do z=z+d;l[e]=A[z];end;o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,y))o=o+d;e=a[o];l[e[i]][e[t]]=l[e[S]];o=o+d;e=a[o];l[e[c]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[i]]=u[e[U]];o=o+d;e=a[o];l[e[h]]=l[e[O]][e[P]];o=o+d;e=a[o];l[e[b]]=l[e[U]]-e[C];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[N]];o=o+d;e=a[o];l[e[b]]=l[e[t]][e[C]];o=o+d;e=a[o];s={l,e};s[M][s[g][c]]=s[d][s[g][S]]+s[M][s[g][f]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[D]];o=o+d;e=a[o];l[e[i]]=e[x]*l[e[P]];o=o+d;e=a[o];l[e[i]]=l[e[x]]-l[e[_]];o=o+d;e=a[o];l[e[r]]=l[e[t]]-e[_];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[t]))o=o+d;e=a[o];l[e[b]][e[U]]=l[e[N]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[N]];o=o+d;e=a[o];l[e[k]]=u[e[f]];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[P]];o=o+d;e=a[o];l[e[c]]=l[e[t]][e[S]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[D]];o=o+d;e=a[o];l[e[c]][e[t]]=l[e[N]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[N]];o=o+d;e=a[o];l[e[i]]=u[e[x]];o=o+d;e=a[o];l[e[c]]=l[e[w]][e[S]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[C]];o=o+d;e=a[o];l[e[h]]=l[e[x]][e[C]];o=o+d;e=a[o];l[e[h]][e[w]]=l[e[N]];o=o+d;e=a[o];l[e[k]]=l[e[w]][e[S]];o=o+d;e=a[o];l[e[b]]=u[e[x]];o=o+d;e=a[o];l[e[r]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[r]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[c]]=l[e[x]][e[N]];o=o+d;e=a[o];l[e[b]][e[U]]=l[e[P]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[i]]=u[e[x]];o=o+d;e=a[o];l[e[c]]=l[e[O]][e[P]];o=o+d;e=a[o];l[e[k]][e[O]]=l[e[C]];o=o+d;e=a[o];l[e[k]]=l[e[f]][e[D]];o=o+d;e=a[o];l[e[i]]=u[e[O]];o=o+d;e=a[o];l[e[c]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[k]][e[U]]=l[e[S]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[N]];o=o+d;e=a[o];l[e[i]][e[x]]=e[C];o=o+d;e=a[o];o=e[t];break end;break;end break;end while 1437==(n)/((0x735e7/(-#'Ur mom'+(47817/0xe7))))do n=(5562407)while(0x77-116)>=s do n-= n l[e[b]]=l[e[f]]*l[e[_]];break;end while(n)/(((0x2044-4153)+-#'Cock and ball tortue'))==1361 do n=(940132)while s>(0x1a-22)do n-= n local i;local n;l[e[h]][e[O]]=l[e[P]];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];l[e[r]][e[f]]=l[e[C]];o=o+d;e=a[o];n=e[b];i=l[e[x]];l[n+1]=i;l[n]=i[e[C]];o=o+d;e=a[o];l[e[h]]=e[w];o=o+d;e=a[o];n=e[b]l[n](B(l,n+M,e[t]))o=o+d;e=a[o];n=e[c];i=l[e[w]];l[n+1]=i;l[n]=i[e[D]];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[k]][e[t]]=e[N];o=o+d;e=a[o];l[e[b]]=l[e[f]][e[D]];break end while 3853==(n)/((0xa7c0/176))do local n;local s;l[e[h]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[r]]=l[e[U]][e[P]];o=o+d;e=a[o];s=e[c]l[s]=l[s](B(l,s+d,e[O]))o=o+d;e=a[o];l[e[h]]=u[e[f]];o=o+d;e=a[o];n={l,e};n[M][n[g][i]]=n[d][n[g][C]]+n[M][n[g][w]];o=o+d;e=a[o];l[e[i]]=u[e[w]];o=o+d;e=a[o];l[e[b]]=u[e[U]];o=o+d;e=a[o];l[e[k]]=e[w];o=o+d;e=a[o];l[e[r]]=e[t];o=o+d;e=a[o];l[e[k]]=l[e[t]];break end;break;end break;end break;end while 904==(n)/((((5202-0xa65)+-#"heil eco mother fuckers")+-0x16))do n=(10090925)while s<=(392/0x31)do n-= n n=(329069)while(0x4d+-71)>=s do n-= n local b;local n;l[e[k]][e[O]]=l[e[C]];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];n=e[c];b=l[e[w]];l[n+1]=b;l[n]=b[e[P]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[k]]=m[e[U]];o=o+d;e=a[o];l[e[i]]=l[e[t]][e[S]];o=o+d;e=a[o];l[e[k]]=e[U];o=o+d;e=a[o];l[e[c]]=e[x];o=o+d;e=a[o];l[e[h]]=e[f];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[O]))break;end while(n)/((0x5fc+-43))==221 do n=(156465)while s>(-101+0x6c)do n-= n l[e[h]]=e[x]/l[e[D]];break end while 171==(n)/((0x3a8+-21))do local c;local n;local b;l[e[k]]=m[e[t]];o=o+d;e=a[o];l[e[h]]=e[w];o=o+d;e=a[o];l[e[k]]=l[e[t]];o=o+d;e=a[o];b=e[x];n=l[b]for e=b+1,e[C]do n=n..l[e];end;l[e[i]]=n;o=o+d;e=a[o];c=e[r]l[c](l[c+M])o=o+d;e=a[o];do return end;break end;break;end break;end while 2545==(n)/((-#[[Niggabyte]]+(532516/0x86)))do n=(7577948)while(((333-0xc4)-0x79)+-#"niggers")>=s do n-= n local n;l[e[h]][e[w]]=l[e[P]];o=o+d;e=a[o];l[e[c]]=u[e[t]];o=o+d;e=a[o];l[e[i]]=u[e[U]];o=o+d;e=a[o];l[e[c]]=l[e[x]][e[S]];o=o+d;e=a[o];l[e[h]]=l[e[t]][e[C]];o=o+d;e=a[o];l[e[r]]=u[e[t]];o=o+d;e=a[o];l[e[c]]=l[e[U]][e[P]];o=o+d;e=a[o];l[e[c]]=l[e[x]]*l[e[N]];o=o+d;e=a[o];l[e[k]]=u[e[O]];o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];if not l[e[b]]then o=o+M;else o=e[O];end;break;end while(n)/((33810/0xf))==3362 do n=(2132836)while(0x26-28)<s do n-= n l[e[b]][e[f]]=l[e[_]];break end while 2231==(n)/((-#[[impulse is hot]]+(1992-0x3fe)))do local n;l[e[r]][e[O]]=l[e[P]];o=o+d;e=a[o];l[e[c]]=u[e[O]];o=o+d;e=a[o];l[e[r]]=u[e[t]];o=o+d;e=a[o];l[e[k]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[i]]=u[e[x]];o=o+d;e=a[o];l[e[i]]=l[e[O]][e[D]];o=o+d;e=a[o];l[e[c]]=u[e[O]];o=o+d;e=a[o];l[e[i]]=l[e[t]][e[N]];o=o+d;e=a[o];n={l,e};n[M][n[g][c]]=n[d][n[g][_]]+n[M][n[g][x]];o=o+d;e=a[o];l[e[r]]=u[e[w]];break end;break;end break;end break;end break;end while(n)/((620400/0xc8))==873 do n=(13013176)while s<=(79-0x3e)do n-= n n=(386240)while s<=(0x46/5)do n-= n n=(3275947)while s<=(-0x6d+121)do n-= n l[e[b]]();break;end while(n)/((0x11b8-2327))==1483 do n=(6597840)while s>(0x5d+(2+-0x52))do n-= n l[e[b]]=l[e[t]]^e[D];break end while(n)/((-#'how do i get moonsex v3'+(7570-(-#'mf stfu'+(0x1e39-3898)))))==1776 do local s;local n;l[e[r]]=m[e[x]];o=o+d;e=a[o];n=e[k];s=l[e[t]];l[n+1]=s;l[n]=s[e[C]];o=o+d;e=a[o];l[e[b]]=e[O];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];l[e[b]]=m[e[O]];o=o+d;e=a[o];n=e[i];s=l[e[t]];l[n+1]=s;l[n]=s[e[D]];o=o+d;e=a[o];l[e[i]]=e[w];o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];l[e[c]]=m[e[x]];o=o+d;e=a[o];n=e[c];s=l[e[f]];l[n+1]=s;l[n]=s[e[_]];o=o+d;e=a[o];l[e[h]]=e[x];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];l[e[k]]=l[e[t]][e[P]];o=o+d;e=a[o];n=e[k];s=l[e[O]];l[n+1]=s;l[n]=s[e[_]];o=o+d;e=a[o];n=e[i]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[c]]=l[e[x]];o=o+d;e=a[o];l[e[b]]=l[e[w]];o=o+d;e=a[o];l[e[r]]=e[O];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];l[e[i]]=l[e[f]][e[S]];o=o+d;e=a[o];l[e[b]]=l[e[f]];o=o+d;e=a[o];l[e[b]]=l[e[O]][e[_]];o=o+d;e=a[o];l[e[k]]=l[e[O]]/e[S];o=o+d;e=a[o];l[e[h]]=l[e[O]][e[P]];o=o+d;e=a[o];l[e[b]]=l[e[O]]/e[S];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];l[e[i]]=m[e[t]];o=o+d;e=a[o];l[e[r]]=l[e[w]][e[P]];o=o+d;e=a[o];l[e[b]]=l[e[U]][e[N]];o=o+d;e=a[o];l[e[b]]=m[e[U]];o=o+d;e=a[o];l[e[r]]=l[e[f]][e[C]];o=o+d;e=a[o];l[e[h]]=l[e[O]][e[C]];o=o+d;e=a[o];l[e[b]]=l[e[U]];o=o+d;e=a[o];l[e[i]]=e[w];o=o+d;e=a[o];l[e[r]]=e[x];o=o+d;e=a[o];l[e[i]]=e[f];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];l[e[b]]=l[e[w]];o=o+d;e=a[o];l[e[c]]=e[U];o=o+d;e=a[o];l[e[i]]=e[f];o=o+d;e=a[o];l[e[c]]=e[x];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];l[e[h]]=l[e[x]];o=o+d;e=a[o];l[e[k]]=e[U];o=o+d;e=a[o];for e=e[b],e[U]do l[e]=nil;end;o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];l[e[r]]=l[e[f]];o=o+d;e=a[o];l[e[b]]=e[U];o=o+d;e=a[o];n=e[h]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[h]][e[x]]=e[_];o=o+d;e=a[o];l[e[c]]=m[e[t]];o=o+d;e=a[o];l[e[c]]=l[e[t]][e[C]];o=o+d;e=a[o];l[e[b]]=(e[O]~=0);o=o+d;e=a[o];l[e[h]]=(e[x]~=0);o=o+d;e=a[o];l[e[c]]=(e[x]~=0);o=o+d;e=a[o];l[e[i]]=(e[w]~=0);o=o+d;e=a[o];l[e[r]]=e[f];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[k]][e[U]]=e[C];o=o+d;e=a[o];l[e[b]][e[t]]=e[D];o=o+d;e=a[o];l[e[i]][e[t]]=e[P];o=o+d;e=a[o];l[e[r]][e[U]]=e[P];o=o+d;e=a[o];l[e[b]][e[f]]=e[P];o=o+d;e=a[o];l[e[c]][e[f]]=e[D];o=o+d;e=a[o];l[e[i]][e[t]]=e[D];o=o+d;e=a[o];l[e[b]][e[w]]=e[S];o=o+d;e=a[o];l[e[c]][e[U]]=e[C];o=o+d;e=a[o];l[e[r]][e[U]]=l[e[D]];o=o+d;e=a[o];l[e[b]][e[w]]=e[C];o=o+d;e=a[o];l[e[b]][e[U]]=e[S];o=o+d;e=a[o];l[e[b]][e[U]]=e[_];o=o+d;e=a[o];l[e[i]][e[f]]=e[P];o=o+d;e=a[o];l[e[i]][e[O]]=e[D];o=o+d;e=a[o];l[e[b]][e[t]]=e[S];o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];l[e[r]][e[f]]=e[_];o=o+d;e=a[o];l[e[i]][e[U]]=l[e[D]];o=o+d;e=a[o];l[e[k]][e[t]]=e[S];o=o+d;e=a[o];l[e[b]][e[U]]=e[D];o=o+d;e=a[o];l[e[r]]=m[e[U]];break end;break;end break;end while 320==(n)/((2472-0x4f1))do n=(70932)while s<=(810/(0x438/20))do n-= n local i;local c;local n;l[e[r]]=l[e[x]];o=o+d;e=a[o];n=e[h]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[b]]=u[e[O]];o=o+d;e=a[o];l[e[k]]=l[e[w]];o=o+d;e=a[o];n=e[k]c={l[n](l[n+1])};i=0;for e=n,e[_]do i=i+d;l[e]=c[i];end o=o+d;e=a[o];o=e[t];break;end while 1542==(n)/((0x9b-109))do n=(3540320)while(68+-0x34)<s do n-= n local n=e[r];local d={};for e=1,#z do local e=z[e];for o=0,#e do local e=e[o];local a=e[1];local o=e[2];if a==l and o>=n then d[o]=a[o];e[1]=d;end;end;end;break end while 3815==(n)/((0x7b3-1043))do local o=e[r]l[o](B(l,o+M,e[x]))break end;break;end break;end break;end while(n)/((0x97a88/156))==3268 do n=(11497389)while(-34+(-0x40+118))>=s do n-= n n=(559215)while(3096/0xac)>=s do n-= n local h;local n;n=e[c];h=l[e[t]];l[n+1]=h;l[n]=h[e[P]];o=o+d;e=a[o];l[e[b]]=l[e[O]];o=o+d;e=a[o];n=e[i]l[n](B(l,n+M,e[x]))o=o+d;e=a[o];l[e[c]]=m[e[O]];o=o+d;e=a[o];l[e[c]]=u[e[O]];o=o+d;e=a[o];for e=e[r],e[x]do l[e]=nil;end;o=o+d;e=a[o];o=e[U];break;end while 387==(n)/((-0x7a+1567))do n=(592116)while(-0x12+37)<s do n-= n if(l[e[r]]==e[S])then o=o+M;else o=e[f];end;break end while(n)/((0xc1c8/156))==1862 do local n;l[e[i]]=l[e[t]][e[S]];o=o+d;e=a[o];n=e[k]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[c]]=l[e[U]];o=o+d;e=a[o];n=e[c]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[k]][l[e[f]]]=l[e[P]];o=o+d;e=a[o];do return l[e[h]]end break end;break;end break;end while 3009==(n)/(((1199910-0x927cd)/0x9d))do n=(1316136)while s<=(-#'Crackzzzz'+(171-0x8d))do n-= n l[e[h]]=u[e[x]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[D]];o=o+d;e=a[o];l[e[c]][e[U]]=l[e[S]];o=o+d;e=a[o];do return end;break;end while(n)/((0x9fc88/182))==366 do n=(968544)while s>(5588/0xfe)do n-= n l[e[b]]=l[e[x]]*e[C];break end while 472==(n)/((-0x5a+2142))do local r;local n;l[e[h]]=l[e[x]][e[N]];o=o+d;e=a[o];l[e[i]]=l[e[O]][e[C]];o=o+d;e=a[o];l[e[k]]=m[e[w]];o=o+d;e=a[o];l[e[k]]=l[e[f]][e[S]];o=o+d;e=a[o];l[e[k]]=l[e[w]][e[D]];o=o+d;e=a[o];n=e[b];r=l[n];for e=n+1,e[w]do I(r,l[e])end;break end;break;end break;end break;end break;end break;end while 1541==(n)/((0xd8a8c/249))do n=(2567994)while s<=(0x95-114)do n-= n n=(2369628)while s<=(-#"Me be like at 5am in the morning"+(0x383c/((59455/0xeb)+-#[[anime is for fags]])))do n-= n n=(12620565)while s<=(-#"impulse loves moonsex"+((-#"impulse is hot"+(-0x61+269))-111))do n-= n n=(3878127)while s<=((147-0x6e)+-#[[Big black men]])do n-= n local i;local n;n=e[h]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];l[e[c]][e[O]]=l[e[D]];o=o+d;e=a[o];l[e[r]]=u[e[O]];o=o+d;e=a[o];n=e[c]l[n]=l[n]()o=o+d;e=a[o];l[e[h]]=u[e[O]];o=o+d;e=a[o];l[e[c]]=l[e[x]][e[N]];o=o+d;e=a[o];n=e[r];i=l[e[t]];l[n+1]=i;l[n]=i[e[S]];break;end while(n)/(((2957-0x5e7)+-#"goofy ahh uncle productions"))==2733 do n=(2150365)while(0x49-48)<s do n-= n local k;local n;l[e[c]][e[w]]=l[e[N]];o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];n=e[b];k=l[e[U]];l[n+1]=k;l[n]=k[e[D]];o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];l[e[i]]=m[e[f]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[h]]=e[t];o=o+d;e=a[o];l[e[c]]=e[x];o=o+d;e=a[o];l[e[c]]=e[O];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[O]))break end while(n)/((0x28e09/51))==655 do local i;local x;local n;l[e[h]]=l[e[U]][e[S]];o=o+d;e=a[o];n=e[b]x={l[n](l[n+1])};i=0;for e=n,e[S]do i=i+d;l[e]=x[i];end o=o+d;e=a[o];l[e[c]]=l[e[U]][e[S]];o=o+d;e=a[o];l[e[b]]=u[e[O]];o=o+d;e=a[o];l[e[b]]=l[e[t]][e[_]];o=o+d;e=a[o];l[e[k]]=l[e[f]][e[N]];o=o+d;e=a[o];l[e[k]]=l[e[O]]-l[e[D]];o=o+d;e=a[o];l[e[r]]=l[e[t]][e[D]];o=o+d;e=a[o];l[e[k]]=u[e[f]];o=o+d;e=a[o];l[e[r]]=l[e[w]][e[S]];break end;break;end break;end while(n)/((6873-0xda6))==3735 do n=(2189376)while((506/0xb)+-#'I hate black people')>=s do n-= n if(l[e[c]]<l[e[S]])then o=o+M;else o=e[f];end;break;end while 1728==(n)/((0xa24-1329))do n=(6520968)while((0x1925/157)+-#"Big black men")<s do n-= n local h;local n;l[e[r]]=l[e[w]][e[N]];o=o+d;e=a[o];n=e[k];h=l[e[U]];l[n+1]=h;l[n]=h[e[C]];o=o+d;e=a[o];l[e[i]]=e[t];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];if l[e[r]]then o=o+d;else o=e[U];end;break end while(n)/((0x5e2f0/114))==1927 do local r;local k;local c;local n;l[e[i]]=l[e[U]][e[S]];o=o+d;e=a[o];l[e[h]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[h]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[i]]=l[e[O]]*e[C];o=o+d;e=a[o];n={l,e};n[M][n[g][b]]=n[d][n[g][C]]+n[M][n[g][t]];o=o+d;e=a[o];c=e[h]k={l[c](l[c+1])};r=0;for e=c,e[_]do r=r+d;l[e]=k[r];end o=o+d;e=a[o];if l[e[h]]then o=o+d;else o=e[f];end;break end;break;end break;end break;end while(n)/(((0x5af-780)+-#"0nly segc"))==3558 do n=(6745095)while(0x30+-16)>=s do n-= n n=(3549015)while(4860/0xa2)>=s do n-= n local o=e[b];local d=l[o];for e=o+1,e[t]do I(d,l[e])end;break;end while 1143==(n)/(((3221+-0x65)+-#"Russian letters"))do n=(3585000)while s>(-0x7b+154)do n-= n local o=e[b];local d=l[o];for e=o+1,e[U]do I(d,l[e])end;break end while(n)/(((33-0x3e)+0x973))==1500 do l[e[r]][e[f]]=l[e[_]];o=o+d;e=a[o];l[e[i]][e[t]]=l[e[_]];o=o+d;e=a[o];l[e[h]][e[O]]=l[e[C]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[D]];o=o+d;e=a[o];l[e[h]][l[e[O]]]=l[e[_]];o=o+d;e=a[o];l[e[h]][e[f]]=l[e[_]];break end;break;end break;end while(n)/((-#"if syn then haxor alert end"+(0x1186-(54096/0x18))))==3059 do n=(11624921)while s<=(((-90+0x30)+0x5e)+-#[[Deeznutsbutinlualoo]])do n-= n local e=e[c]l[e]=l[e](B(l,e+d,y))break;end while(n)/((-82+(-0x66+3495)))==3511 do n=(2413584)while(0x1562/161)<s do n-= n local d=e[c];local o=l[e[f]];l[d+1]=o;l[d]=o[e[S]];break end while 999==(n)/((-0x3c+2476))do local n;l[e[r]][e[f]]=e[D];o=o+d;e=a[o];l[e[b]][e[w]]=e[S];o=o+d;e=a[o];l[e[h]][e[f]]=e[_];o=o+d;e=a[o];l[e[c]][e[O]]=e[D];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];l[e[k]][e[O]]=l[e[P]];o=o+d;e=a[o];l[e[h]]=u[e[w]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[b]]=e[w];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[b]]=u[e[w]];o=o+d;e=a[o];l[e[k]]=e[U];o=o+d;e=a[o];l[e[c]]=e[t];o=o+d;e=a[o];l[e[h]]=e[O];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[t]))o=o+d;e=a[o];l[e[r]][e[t]]=l[e[D]];o=o+d;e=a[o];l[e[i]][e[f]]=e[P];o=o+d;e=a[o];l[e[i]][e[x]]=e[_];o=o+d;e=a[o];l[e[k]][e[x]]=e[S];o=o+d;e=a[o];l[e[r]][e[U]]=e[D];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];l[e[h]][e[U]]=l[e[_]];o=o+d;e=a[o];l[e[b]][l[e[U]]]=l[e[S]];o=o+d;e=a[o];do return end;break end;break;end break;end break;end break;end while(n)/((556479/0xe7))==1066 do n=(90000)while s<=(943/0x17)do n-= n n=(2245410)while s<=(0x72/3)do n-= n n=(8241354)while((147-((16577/0x89)+-#'freerobuxphone'))+-#'nerd')>=s do n-= n local e=e[r]l[e]=l[e](l[e+M])break;end while 3501==(n)/(((-0x37+(515247/0xd5))+-#[[bigchungus]]))do n=(139860)while s>(-#'this is a meme string'+(-99+(0x150-179)))do n-= n local h;local n;l[e[b]][e[x]]=l[e[_]];o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];n=e[i];h=l[e[U]];l[n+1]=h;l[n]=h[e[P]];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[k]][e[t]]=e[P];o=o+d;e=a[o];l[e[r]][e[x]]=e[_];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[r]]=e[f];o=o+d;e=a[o];l[e[k]]=e[x];o=o+d;e=a[o];l[e[b]]=e[w];break end while(n)/((1579+-0x19))==90 do local d=l[e[N]];if d then o=o+M;else l[e[h]]=d;o=e[U];end;break end;break;end break;end while(n)/((0xb23+-106))==818 do n=(9718080)while s<=((0x32a/18)+-#"Faggot")do n-= n l[e[b]]=u[e[t]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[C]];o=o+d;e=a[o];l[e[b]]=l[e[f]][e[D]];o=o+d;e=a[o];l[e[h]][e[O]]=l[e[N]];o=o+d;e=a[o];do return end;break;end while 3820==(n)/((-#"deadphonelua"+(587880/((55750/0xdf)+-#[[meme strings be like]]))))do n=(107604)while s>(4040/0x65)do n-= n l[e[b]]=u[e[w]];o=o+d;e=a[o];l[e[k]]=l[e[f]][e[C]];o=o+d;e=a[o];l[e[i]]=l[e[t]][e[D]];o=o+d;e=a[o];l[e[i]][e[f]]=l[e[_]];o=o+d;e=a[o];do return end;break end while(n)/((-#[[W4rboy was here]]+(-61+0x298)))==183 do local n;m[e[w]]=l[e[k]];o=o+d;e=a[o];l[e[i]]=l[e[f]];o=o+d;e=a[o];n=e[k]l[n]=l[n]()o=o+d;e=a[o];l[e[h]]=m[e[x]];o=o+d;e=a[o];if l[e[k]]then o=o+d;else o=e[f];end;break end;break;end break;end break;end while(n)/((57375/0x33))==80 do n=(8490260)while(0x97-107)>=s do n-= n n=(5533398)while(-#[[made by kim jong un]]+(0xe1-164))>=s do n-= n u[e[t]]=l[e[c]];break;end while 1521==(n)/((363800/0x64))do n=(2020380)while(9675/0xe1)<s do n-= n local n;l[e[b]]=u[e[f]];o=o+d;e=a[o];l[e[i]]=l[e[O]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[c]][e[O]]=e[N];o=o+d;e=a[o];l[e[k]][e[U]]=e[N];o=o+d;e=a[o];n=e[k]l[n](B(l,n+M,e[x]))break end while(n)/((143166/0x6b))==1510 do local e=e[c]local a,o=p(l[e](l[e+M]))y=o+e-d local o=0;for e=e,y do o=o+d;l[e]=a[o];end;break end;break;end break;end while 3868==(n)/((434610/0xc6))do n=(8208438)while(0x82+-85)>=s do n-= n local n;local k;local b;l[e[c]]=m[e[t]];o=o+d;e=a[o];l[e[h]]=u[e[f]];o=o+d;e=a[o];l[e[c]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[r]]=l[e[w]][l[e[S]]];o=o+d;e=a[o];b=e[i]k={l[b](l[b+1])};n=0;for e=b,e[_]do n=n+d;l[e]=k[n];end o=o+d;e=a[o];o=e[x];break;end while 2917==(n)/(((49368816/0xcc)/86))do n=(2969056)while s>(-125+0xab)do n-= n local e=e[r]local a,o=p(l[e](l[e+M]))y=o+e-d local o=0;for e=e,y do o=o+d;l[e]=a[o];end;break end while 2336==(n)/(((0x573+-105)+-#'made by kim jong un'))do local i;local n;l[e[b]]=u[e[t]];o=o+d;e=a[o];n=e[c];i=l[e[t]];l[n+1]=i;l[n]=i[e[_]];o=o+d;e=a[o];l[e[b]]=e[w];o=o+d;e=a[o];l[e[r]]=l[e[f]];o=o+d;e=a[o];n=e[r]l[n](B(l,n+M,e[O]))o=o+d;e=a[o];do return end;break end;break;end break;end break;end break;end break;end break;end while(n)/((344740/0xdc))==748 do n=(562176)while(179-0x6c)>=s do n-= n n=(94128)while(0xc4-137)>=s do n-= n n=(508208)while s<=(0x73f/35)do n-= n n=(3300822)while(8000/0xa0)>=s do n-= n n=(3884545)while((-128+0x36)+0x7a)>=s do n-= n local a=e[c]local n={l[a](l[a+1])};local o=0;for e=a,e[P]do o=o+d;l[e]=n[o];end break;end while 1435==(n)/((365445/0x87))do n=(198950)while s>(2940/0x3c)do n-= n local i;local n;l[e[c]][e[t]]=l[e[_]];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];l[e[c]][e[U]]=l[e[_]];o=o+d;e=a[o];n=e[c];i=l[e[w]];l[n+1]=i;l[n]=i[e[C]];o=o+d;e=a[o];l[e[b]]=e[f];o=o+d;e=a[o];n=e[k]l[n](B(l,n+M,e[f]))o=o+d;e=a[o];n=e[r];i=l[e[x]];l[n+1]=i;l[n]=i[e[S]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[b]][e[f]]=e[C];o=o+d;e=a[o];l[e[c]]=l[e[U]][e[N]];break end while 865==(n)/((0x51c2/91))do local h;local n;l[e[k]][e[O]]=l[e[N]];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];n=e[b];h=l[e[w]];l[n+1]=h;l[n]=h[e[P]];o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];l[e[k]]=m[e[f]];o=o+d;e=a[o];l[e[r]]=l[e[f]][e[C]];o=o+d;e=a[o];l[e[r]]=e[w];o=o+d;e=a[o];l[e[b]]=e[t];o=o+d;e=a[o];l[e[i]]=e[O];o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,e[t]))break end;break;end break;end while 1407==(n)/(((0x1d7f3/51)+-#"heil eco mother fuckers"))do n=(3384066)while s<=((0x9+-30)+72)do n-= n local k;local w;local n;l[e[i]]=u[e[x]];o=o+d;e=a[o];l[e[h]]=u[e[t]];o=o+d;e=a[o];n=e[c]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[b]]=u[e[t]];o=o+d;e=a[o];l[e[r]]=l[e[f]];o=o+d;e=a[o];n=e[h]w={l[n](l[n+1])};k=0;for e=n,e[D]do k=k+d;l[e]=w[k];end o=o+d;e=a[o];o=e[f];break;end while 1182==(n)/((-#"monkey mode"+(0x1aa9c/38)))do n=(196020)while s>(0x88+-84)do n-= n local r;local n;l[e[h]][e[t]]=l[e[C]];o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];l[e[b]][e[O]]=l[e[N]];o=o+d;e=a[o];n=e[c];r=l[e[O]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[b]]=e[f];o=o+d;e=a[o];n=e[i]l[n](B(l,n+M,e[x]))o=o+d;e=a[o];n=e[b];r=l[e[U]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[c]][e[t]]=e[P];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[_]];break end while(n)/((-#[[Obfuscated By Obamas Left Nut]]+(774-0x1a5)))==605 do l[e[r]]=m[e[t]];break end;break;end break;end break;end while 368==(n)/((-#'brawl stars hard gay porn shelly nsked minecraft gay porn roblox rule34 hot'+(115024/0x4f)))do n=(9006355)while(128-0x48)>=s do n-= n n=(173681)while(5184/0x60)>=s do n-= n local c;local n;l[e[r]][e[t]]=l[e[N]];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[t]))o=o+d;e=a[o];n=e[i];c=l[e[t]];l[n+1]=c;l[n]=c[e[N]];o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];l[e[h]][e[t]]=e[C];o=o+d;e=a[o];l[e[r]][e[f]]=e[_];o=o+d;e=a[o];l[e[i]][e[U]]=e[P];o=o+d;e=a[o];l[e[k]][e[O]]=e[_];o=o+d;e=a[o];l[e[r]][e[O]]=e[P];o=o+d;e=a[o];l[e[k]][e[f]]=e[S];break;end while 3277==(n)/(((0x13d+-95)-0xa9))do n=(687218)while s>(0x2864/188)do n-= n l[e[r]]=l[e[U]][l[e[C]]];o=o+d;e=a[o];l[e[b]]=u[e[w]];o=o+d;e=a[o];l[e[r]]=u[e[t]];o=o+d;e=a[o];l[e[k]]=l[e[t]];o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];l[e[h]]=u[e[U]];o=o+d;e=a[o];l[e[k]]=l[e[U]][e[S]];o=o+d;e=a[o];l[e[h]][e[x]]=l[e[C]];o=o+d;e=a[o];l[e[i]]=u[e[U]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[_]];o=o+d;e=a[o];l[e[h]][e[w]]=l[e[C]];o=o+d;e=a[o];l[e[h]][e[t]]=e[C];o=o+d;e=a[o];l[e[i]]=u[e[O]];o=o+d;e=a[o];l[e[r]]=e[U];o=o+d;e=a[o];if not l[e[b]]then o=o+M;else o=e[f];end;break end while(n)/((((-62+0x2a0)+-84)+-#'Lana Rhoades'))==1337 do if(l[e[i]]<=l[e[D]])then o=o+M;else o=e[U];end;break end;break;end break;end while(n)/(((-115+0xb96)+-116))==3293 do n=(170800)while s<=(-87+0x90)do n-= n l[e[r]]=u[e[O]];o=o+d;e=a[o];l[e[c]]=l[e[x]][e[_]];o=o+d;e=a[o];l[e[c]]=l[e[t]][e[P]];o=o+d;e=a[o];l[e[h]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[r]]=u[e[O]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[N]];o=o+d;e=a[o];l[e[r]]=l[e[f]][l[e[N]]];o=o+d;e=a[o];do return l[e[c]]end o=o+d;e=a[o];do return end;break;end while(n)/((0x2878/74))==1220 do n=(12966464)while s>(-0x14+78)do n-= n l[e[i]]=l[e[t]][e[C]];break end while(n)/((0xfdc+-126))==3296 do local n;l[e[b]]=u[e[t]];o=o+d;e=a[o];l[e[h]]=e[f];o=o+d;e=a[o];l[e[h]]=u[e[O]];o=o+d;e=a[o];l[e[i]]=e[t];o=o+d;e=a[o];n=e[b]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[b]]=e[x];o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];l[e[h]]=l[e[x]][e[S]];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];l[e[h]]=l[e[x]];break end;break;end break;end break;end break;end while 848==(n)/((-#[[made by kim jong un]]+(-0x69+235)))do n=(204816)while((162-0x5b)+-#[[Faggot]])>=s do n-= n n=(6559092)while s<=(0x8c+(43+-0x79))do n-= n n=(3526259)while s<=(0xf5-185)do n-= n local d=l[e[_]];if not d then o=o+M;else l[e[i]]=d;o=e[f];end;break;end while(n)/((0x50c+-93))==2941 do n=(1522365)while s>((0xb9+-103)+-#"impulse reel pastebin")do n-= n l[e[i]][e[O]]=e[C];break end while(n)/((0xdaf7/101))==2743 do local b;local n;l[e[c]][e[O]]=l[e[C]];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];n=e[r];b=l[e[f]];l[n+1]=b;l[n]=b[e[N]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[h]]=m[e[f]];o=o+d;e=a[o];l[e[i]]=l[e[t]][e[D]];o=o+d;e=a[o];l[e[i]]=e[x];o=o+d;e=a[o];l[e[i]]=e[t];o=o+d;e=a[o];l[e[i]]=e[w];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[O]))break end;break;end break;end while 3273==(n)/(((4110-0x831)+-#'Deezbutts'))do n=(8944544)while((0xb3-107)+-#[[Deezbutts]])>=s do n-= n local n;l[e[i]][e[f]]=e[P];o=o+d;e=a[o];n=e[b]l[n](B(l,n+M,e[x]))o=o+d;e=a[o];l[e[k]]=u[e[f]];o=o+d;e=a[o];l[e[b]]=u[e[O]];o=o+d;e=a[o];l[e[c]]=e[w];o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];l[e[k]]=u[e[t]];o=o+d;e=a[o];l[e[r]]=l[e[x]][e[P]];o=o+d;e=a[o];l[e[k]][e[U]]=l[e[C]];o=o+d;e=a[o];l[e[r]]=u[e[U]];break;end while(n)/((0x991+-113))==3829 do n=(1769088)while((0xec-165)+-#"elbicho")<s do n-= n l[e[h]]=m[e[U]];o=o+d;e=a[o];l[e[r]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[k]]=u[e[x]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[_]];o=o+d;e=a[o];if l[e[r]]then o=o+d;else o=e[f];end;break end while 1626==(n)/((0x8d3-1171))do local e={e,l};e[g][e[M][r]]=e[g][e[d][O]]+e[M][C];break end;break;end break;end break;end while(n)/((8048-0xfc0))==51 do n=(3149991)while(0xce-138)>=s do n-= n n=(654974)while s<=(7326/0x6f)do n-= n do return end;break;end while 334==(n)/((409849/0xd1))do n=(382000)while(0x2249/131)<s do n-= n local o=e[k];do return l[o](B(l,o+1,e[t]))end;break end while(n)/((0xfd9-2057))==191 do local n;l[e[i]]=u[e[f]];o=o+d;e=a[o];l[e[b]]=l[e[t]][e[N]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[k]][e[x]]=e[D];o=o+d;e=a[o];l[e[b]]=m[e[f]];o=o+d;e=a[o];l[e[b]]=l[e[O]][e[P]];o=o+d;e=a[o];l[e[h]]=e[O];o=o+d;e=a[o];l[e[c]]=u[e[U]];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[D]];o=o+d;e=a[o];n=e[c]l[n](B(l,n+M,e[x]))break end;break;end break;end while(n)/((123606/0x7e))==3211 do n=(6508080)while s<=(4554/0x42)do n-= n o=e[x];break;end while(n)/((3250+-0x6a))==2070 do n=(9237084)while(0x4088/236)<s do n-= n local n;l[e[c]]=l[e[f]][e[N]];o=o+d;e=a[o];l[e[i]][e[U]]=l[e[_]];o=o+d;e=a[o];l[e[b]]=m[e[w]];o=o+d;e=a[o];l[e[h]]=l[e[w]][e[S]];o=o+d;e=a[o];l[e[c]]=l[e[U]][e[S]];o=o+d;e=a[o];l[e[c]][e[t]]=l[e[_]];o=o+d;e=a[o];l[e[i]][e[t]]=e[S];o=o+d;e=a[o];l[e[r]][e[w]]=e[D];o=o+d;e=a[o];l[e[k]][e[w]]=e[_];o=o+d;e=a[o];l[e[b]][e[x]]=e[S];o=o+d;e=a[o];l[e[i]][e[t]]=e[S];o=o+d;e=a[o];l[e[b]][e[x]]=e[S];o=o+d;e=a[o];l[e[b]][e[t]]=e[N];o=o+d;e=a[o];l[e[b]][e[U]]=e[D];o=o+d;e=a[o];l[e[c]][e[x]]=e[C];o=o+d;e=a[o];l[e[r]][e[f]]=e[C];o=o+d;e=a[o];l[e[r]][e[U]]=e[N];o=o+d;e=a[o];l[e[b]][e[f]]=e[N];o=o+d;e=a[o];l[e[b]][e[w]]=e[_];o=o+d;e=a[o];l[e[i]][e[O]]=e[N];o=o+d;e=a[o];l[e[i]][e[t]]=e[_];o=o+d;e=a[o];l[e[k]][e[x]]=e[_];o=o+d;e=a[o];l[e[k]][e[U]]=e[N];o=o+d;e=a[o];l[e[b]][e[U]]=e[S];o=o+d;e=a[o];l[e[h]]=l[e[w]];o=o+d;e=a[o];l[e[h]]=e[t];o=o+d;e=a[o];l[e[c]]=e[f];o=o+d;e=a[o];l[e[r]]=e[x];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];l[e[i]][e[t]]=l[e[S]];o=o+d;e=a[o];l[e[c]][e[x]]=e[P];o=o+d;e=a[o];l[e[b]][e[f]]=e[P];o=o+d;e=a[o];l[e[c]][e[U]]=e[D];o=o+d;e=a[o];l[e[h]][e[t]]=e[N];o=o+d;e=a[o];l[e[k]][e[O]]=e[D];o=o+d;e=a[o];l[e[r]][e[x]]=e[C];o=o+d;e=a[o];l[e[h]]=m[e[O]];o=o+d;e=a[o];if l[e[k]]then o=o+d;else o=e[f];end;break end while(n)/((617162/0xb6))==2724 do local n;l[e[r]]=u[e[w]];o=o+d;e=a[o];l[e[r]]=l[e[f]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[i]]=u[e[O]];o=o+d;e=a[o];l[e[b]]=l[e[U]][e[C]];o=o+d;e=a[o];l[e[c]][e[x]]=l[e[P]];o=o+d;e=a[o];l[e[k]]=u[e[w]];o=o+d;e=a[o];l[e[b]]=l[e[t]][e[_]];o=o+d;e=a[o];l[e[i]][e[U]]=l[e[P]];o=o+d;e=a[o];l[e[i]][e[f]]=l[e[_]];o=o+d;e=a[o];l[e[b]][e[w]]=l[e[D]];o=o+d;e=a[o];l[e[b]][e[t]]=l[e[P]];o=o+d;e=a[o];l[e[k]][e[w]]=l[e[S]];o=o+d;e=a[o];l[e[r]][e[f]]=l[e[N]];o=o+d;e=a[o];l[e[h]][e[w]]=e[C];o=o+d;e=a[o];n=e[i]l[n](B(l,n+M,e[t]))o=o+d;e=a[o];o=e[U];break end;break;end break;end break;end break;end break;end while(n)/((0x800/2))==549 do n=(5859634)while s<=((0x29a/6)+-#[[10 black dicks in your mouth]])do n-= n n=(445092)while s<=(-0x6d+186)do n-= n n=(4024435)while((-59+0xa1)+-#[[10 black dicks in your mouth]])>=s do n-= n n=(3462426)while(-#[[papier der afghaner wurde von nice dem bombenleger gefickt]]+(0xed+-107))>=s do n-= n local m;local y;local s;local n;l[e[c]]=u[e[U]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[N]];o=o+d;e=a[o];l[e[c]]=l[e[t]]/e[C];o=o+d;e=a[o];l[e[c]]=l[e[t]][e[S]];o=o+d;e=a[o];n={l,e};n[M][n[g][r]]=n[d][n[g][S]]+n[M][n[g][t]];o=o+d;e=a[o];l[e[i]]=l[e[U]];o=o+d;e=a[o];s=e[c]l[s]=l[s](B(l,s+d,e[f]))o=o+d;e=a[o];l[e[k]][e[t]]=l[e[S]];o=o+d;e=a[o];l[e[r]]=l[e[t]][e[_]];o=o+d;e=a[o];l[e[k]]=u[e[w]];o=o+d;e=a[o];l[e[h]]=l[e[U]][e[P]];o=o+d;e=a[o];l[e[b]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[i]]=l[e[x]][e[_]];o=o+d;e=a[o];l[e[h]][e[w]]=l[e[N]];o=o+d;e=a[o];l[e[k]]=l[e[x]][e[P]];o=o+d;e=a[o];l[e[i]]=e[w];o=o+d;e=a[o];l[e[h]]=u[e[f]];o=o+d;e=a[o];l[e[b]]=l[e[t]][e[N]];o=o+d;e=a[o];l[e[r]]=u[e[t]];o=o+d;e=a[o];l[e[h]]=l[e[t]][e[P]];o=o+d;e=a[o];l[e[h]]=l[e[t]][e[C]];o=o+d;e=a[o];l[e[c]]=l[e[U]][e[P]];o=o+d;e=a[o];l[e[i]]=l[e[O]]-l[e[S]];o=o+d;e=a[o];l[e[r]]=l[e[w]][e[D]];o=o+d;e=a[o];s=e[k]l[s]=l[s](l[s+M])o=o+d;e=a[o];l[e[r]]=e[U];o=o+d;e=a[o];y=e[t];m=l[y]for e=y+1,e[S]do m=m..l[e];end;l[e[i]]=m;o=o+d;e=a[o];l[e[b]][e[w]]=l[e[D]];o=o+d;e=a[o];l[e[h]]=l[e[x]][e[C]];o=o+d;e=a[o];l[e[h]]=u[e[t]];o=o+d;e=a[o];l[e[b]]=l[e[U]][e[S]];o=o+d;e=a[o];l[e[r]]=l[e[O]][e[P]];o=o+d;e=a[o];l[e[r]]=l[e[w]][e[P]];o=o+d;e=a[o];l[e[c]][e[w]]=l[e[D]];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[P]];o=o+d;e=a[o];l[e[c]]=u[e[U]];o=o+d;e=a[o];l[e[r]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[S]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[S]];o=o+d;e=a[o];l[e[h]][e[x]]=l[e[C]];o=o+d;e=a[o];n={e,l};n[g][n[M][i]]=n[g][n[d][w]]+n[M][D];o=o+d;e=a[o];l[e[r]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[r]]=u[e[f]];o=o+d;e=a[o];l[e[h]]=l[e[U]][e[N]];o=o+d;e=a[o];l[e[k]][e[U]]=l[e[N]];o=o+d;e=a[o];l[e[i]]=l[e[f]][e[D]];o=o+d;e=a[o];l[e[k]]=u[e[f]];o=o+d;e=a[o];l[e[c]]=l[e[t]][e[P]];o=o+d;e=a[o];l[e[k]][e[U]]=l[e[P]];o=o+d;e=a[o];l[e[c]]=l[e[f]][e[S]];o=o+d;e=a[o];l[e[i]][e[w]]=e[S];o=o+d;e=a[o];o=e[O];break;end while(n)/(((7359-0xe81)+-#[[if true then return your dad]]))==957 do n=(2142135)while(-#'zykem krul'+(-0x19+(288-0xb4)))<s do n-= n l[e[i]]=-l[e[U]];break end while(n)/((-#'get good use moonsec'+(117305/0x91)))==2715 do local o=e[b];local d=l[e[x]];l[o+1]=d;l[o]=d[e[P]];break end;break;end break;end while 2495==(n)/((0x48758/184))do n=(3620208)while s<=(-#"goofy ahh uncle productions"+(-0x28+142))do n-= n local h;local n;l[e[c]][e[f]]=l[e[D]];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];n=e[i];h=l[e[f]];l[n+1]=h;l[n]=h[e[C]];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[i]][e[x]]=e[P];o=o+d;e=a[o];l[e[i]][e[O]]=e[S];o=o+d;e=a[o];l[e[b]][e[t]]=e[S];o=o+d;e=a[o];l[e[r]][e[w]]=e[S];o=o+d;e=a[o];l[e[b]][e[t]]=e[_];o=o+d;e=a[o];l[e[c]][e[f]]=e[C];break;end while 1592==(n)/((-#[[paidlancer]]+(2312+(-7000/0xfa))))do n=(2305152)while s>(213-0x89)do n-= n l[e[b]]=l[e[U]]/l[e[C]];break end while 1856==(n)/((2559-0x525))do if(e[h]<=l[e[_]])then o=e[w];else o=o+M;end;break end;break;end break;end break;end while 1279==(n)/(((-85+0x1b6)+-#"false"))do n=(3992256)while s<=(241-0xa1)do n-= n n=(5429196)while s<=((-0x70+12670)/0xa1)do n-= n local h;local n;l[e[i]][e[x]]=l[e[_]];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];n=e[k];h=l[e[w]];l[n+1]=h;l[n]=h[e[C]];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[r]][e[w]]=e[S];o=o+d;e=a[o];l[e[c]][e[w]]=e[C];o=o+d;e=a[o];l[e[i]][e[f]]=e[C];break;end while 2844==(n)/((3872-0x7ab))do n=(1622060)while(0x4d75/251)<s do n-= n local n;l[e[i]]=e[t];o=o+d;e=a[o];l[e[h]]=l[e[O]];o=o+d;e=a[o];l[e[h]]=l[e[U]][e[N]];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];l[e[c]]=l[e[w]];break end while 2222==(n)/((0x5f4-794))do local n;l[e[b]][e[f]]=e[S];o=o+d;e=a[o];n=e[c]l[n](B(l,n+M,e[O]))o=o+d;e=a[o];l[e[c]]=u[e[t]];o=o+d;e=a[o];l[e[c]]=l[e[f]][e[P]];o=o+d;e=a[o];if l[e[i]]then o=o+d;else o=e[t];end;break end;break;end break;end while 1434==(n)/((0x370e0/81))do n=(293580)while((17423/0x83)+-#"If LocalPlayer equals Dumbass then while true do end")>=s do n-= n local r;local n;l[e[i]][e[U]]=l[e[S]];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];n=e[b];r=l[e[O]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[b]][e[x]]=e[N];o=o+d;e=a[o];l[e[c]][e[O]]=e[S];break;end while 126==(n)/((0x851c4/234))do n=(1326924)while s>(0x2528/116)do n-= n local i;local x,k;local b;local n;n=e[c]l[n]=l[n](B(l,n+d,e[t]))o=o+d;e=a[o];l[e[c]]=m[e[t]];o=o+d;e=a[o];n=e[h]l[n]=l[n]()o=o+d;e=a[o];l[e[r]][e[U]]=l[e[C]];o=o+d;e=a[o];l[e[c]]=m[e[w]];o=o+d;e=a[o];l[e[r]]=m[e[t]];o=o+d;e=a[o];n=e[r];b=l[e[f]];l[n+1]=b;l[n]=b[e[_]];o=o+d;e=a[o];l[e[c]]=e[U];o=o+d;e=a[o];n=e[c]x,k=p(l[n](B(l,n+1,e[O])))y=k+n-1 i=0;for e=n,y do i=i+d;l[e]=x[i];end;o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,y))break end while 2542==(n)/((-#[[sussy]]+(116994/0xde)))do local U;local n;n=e[r]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];n=e[c];U=l[e[O]];l[n+1]=U;l[n]=U[e[N]];o=o+d;e=a[o];l[e[h]]=e[x];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];n=e[h];U=l[e[O]];l[n+1]=U;l[n]=U[e[C]];o=o+d;e=a[o];l[e[k]]=e[x];o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];n=e[c];U=l[e[O]];l[n+1]=U;l[n]=U[e[N]];o=o+d;e=a[o];l[e[i]]=e[f];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[f]))break end;break;end break;end break;end break;end while(n)/((((0xb3a9c/223)+-0x47)+-#'Impulse youtube real'))==1826 do n=(443664)while s<=(121+-0x20)do n-= n n=(5365830)while s<=(238-0x98)do n-= n n=(1484936)while s<=(15120/0xb4)do n-= n local i;local n;l[e[k]][e[x]]=l[e[P]];o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];n=e[r];i=l[e[f]];l[n+1]=i;l[n]=i[e[P]];o=o+d;e=a[o];l[e[r]]=e[w];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];n=e[r];i=l[e[x]];l[n+1]=i;l[n]=i[e[P]];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[h]][e[O]]=e[C];o=o+d;e=a[o];l[e[h]][e[t]]=e[D];o=o+d;e=a[o];l[e[r]][e[w]]=e[S];break;end while 838==(n)/(((413770/(0x1f3-269))+-#[[Nsrds GAYYYYAIAHAKAJAVAHAUA]]))do n=(3624295)while(14280/0xa8)<s do n-= n if(l[e[h]]<e[D])then o=o+M;else o=e[x];end;break end while 1049==(n)/((815380/0xec))do local n;local s;l[e[h]][e[x]]=e[D];o=o+d;e=a[o];s=e[c]l[s](B(l,s+M,e[w]))o=o+d;e=a[o];l[e[k]]=u[e[x]];o=o+d;e=a[o];l[e[i]]=u[e[U]];o=o+d;e=a[o];l[e[i]]=e[w];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[i]]=u[e[f]];o=o+d;e=a[o];l[e[h]]=l[e[t]][e[_]];o=o+d;e=a[o];l[e[h]][e[t]]=l[e[N]];o=o+d;e=a[o];l[e[b]]=u[e[x]];o=o+d;e=a[o];l[e[h]]=l[e[t]][e[N]];o=o+d;e=a[o];l[e[k]][e[O]]=l[e[_]];o=o+d;e=a[o];l[e[k]]=u[e[f]];o=o+d;e=a[o];l[e[i]]=u[e[U]];o=o+d;e=a[o];l[e[i]]=l[e[x]][e[C]];o=o+d;e=a[o];l[e[k]]=u[e[U]];o=o+d;e=a[o];l[e[b]]=l[e[U]][e[N]];o=o+d;e=a[o];n={l,e};n[M][n[g][r]]=n[d][n[g][D]]+n[M][n[g][w]];o=o+d;e=a[o];l[e[i]]=u[e[f]];o=o+d;e=a[o];l[e[k]]=l[e[w]][e[_]];o=o+d;e=a[o];n={l,e};n[M][n[g][k]]=n[d][n[g][_]]+n[M][n[g][x]];o=o+d;e=a[o];n={e,l};n[g][n[M][r]]=n[g][n[d][U]]+n[M][N];o=o+d;e=a[o];l[e[b]]=u[e[x]];o=o+d;e=a[o];l[e[k]]=l[e[f]][e[N]];o=o+d;e=a[o];s=e[r]l[s]=l[s](B(l,s+d,e[U]))o=o+d;e=a[o];l[e[r]][e[O]]=l[e[C]];o=o+d;e=a[o];l[e[k]]=u[e[U]];o=o+d;e=a[o];l[e[h]]=u[e[t]];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[S]];o=o+d;e=a[o];l[e[b]]=u[e[f]];o=o+d;e=a[o];l[e[k]]=l[e[w]][e[P]];o=o+d;e=a[o];n={l,e};n[M][n[g][k]]=n[d][n[g][D]]+n[M][n[g][x]];o=o+d;e=a[o];n={e,l};n[g][n[M][i]]=n[g][n[d][t]]+n[M][S];o=o+d;e=a[o];l[e[k]]=u[e[U]];o=o+d;e=a[o];l[e[b]]=l[e[t]][e[N]];o=o+d;e=a[o];s=e[k]l[s]=l[s](B(l,s+d,e[f]))o=o+d;e=a[o];l[e[c]][e[t]]=l[e[S]];o=o+d;e=a[o];l[e[i]]=u[e[w]];o=o+d;e=a[o];l[e[k]]=l[e[w]][e[_]];o=o+d;e=a[o];if not l[e[h]]then o=o+M;else o=e[t];end;break end;break;end break;end while(n)/((4757-0x976))==2298 do n=(1135640)while(-#[[impulse was here pastebin reel]]+(292-0xaf))>=s do n-= n local n;l[e[k]]=u[e[U]];o=o+d;e=a[o];l[e[c]]=l[e[x]][e[P]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[r]]=u[e[w]];o=o+d;e=a[o];l[e[k]]=l[e[t]][e[S]];o=o+d;e=a[o];l[e[k]]=e[t];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[k]]=u[e[x]];o=o+d;e=a[o];l[e[k]]=e[x];o=o+d;e=a[o];l[e[h]]=e[x];o=o+d;e=a[o];l[e[r]]=e[f];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];l[e[r]][e[U]]=l[e[N]];o=o+d;e=a[o];l[e[r]][e[w]]=e[_];o=o+d;e=a[o];l[e[h]][e[O]]=e[D];o=o+d;e=a[o];l[e[b]][e[w]]=e[_];o=o+d;e=a[o];l[e[i]][e[x]]=e[N];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];l[e[k]][e[U]]=l[e[P]];o=o+d;e=a[o];l[e[c]]=u[e[x]];o=o+d;e=a[o];l[e[h]]=l[e[t]][e[D]];o=o+d;e=a[o];l[e[r]]=e[x];o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];l[e[b]]=u[e[w]];o=o+d;e=a[o];l[e[c]]=e[t];o=o+d;e=a[o];l[e[h]]=e[t];o=o+d;e=a[o];l[e[c]]=e[f];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];l[e[h]][e[x]]=l[e[P]];o=o+d;e=a[o];l[e[c]][e[O]]=e[S];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];l[e[i]][e[U]]=l[e[P]];o=o+d;e=a[o];l[e[k]]=u[e[w]];o=o+d;e=a[o];l[e[r]]=l[e[x]][e[_]];o=o+d;e=a[o];l[e[c]]=e[w];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[i]]=u[e[O]];o=o+d;e=a[o];l[e[i]]=e[U];o=o+d;e=a[o];l[e[i]]=e[U];o=o+d;e=a[o];l[e[k]]=e[w];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];l[e[i]][e[t]]=l[e[D]];o=o+d;e=a[o];l[e[r]][e[U]]=e[S];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];l[e[c]][e[t]]=l[e[_]];o=o+d;e=a[o];l[e[c]]=u[e[x]];o=o+d;e=a[o];l[e[r]]=l[e[w]][e[N]];o=o+d;e=a[o];l[e[c]]=e[U];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[c]]=u[e[t]];o=o+d;e=a[o];l[e[b]]=e[O];o=o+d;e=a[o];l[e[c]]=e[x];o=o+d;e=a[o];l[e[r]]=e[U];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[t]))o=o+d;e=a[o];l[e[r]][e[w]]=l[e[_]];o=o+d;e=a[o];l[e[k]][e[x]]=e[S];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];l[e[h]][e[w]]=l[e[C]];o=o+d;e=a[o];l[e[k]]=u[e[w]];o=o+d;e=a[o];l[e[h]]=l[e[t]][e[C]];o=o+d;e=a[o];l[e[b]]=e[x];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[i]]=u[e[U]];o=o+d;e=a[o];l[e[b]]=e[f];o=o+d;e=a[o];l[e[c]]=e[x];o=o+d;e=a[o];l[e[k]]=e[t];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];l[e[c]][e[w]]=l[e[P]];o=o+d;e=a[o];l[e[c]][e[U]]=e[S];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];l[e[c]][e[w]]=l[e[P]];o=o+d;e=a[o];l[e[r]]=u[e[U]];o=o+d;e=a[o];l[e[c]]=l[e[t]][e[C]];o=o+d;e=a[o];l[e[c]]=e[w];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[b]]=u[e[w]];o=o+d;e=a[o];l[e[r]]=e[x];o=o+d;e=a[o];l[e[b]]=e[x];o=o+d;e=a[o];l[e[k]]=e[w];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[f]))break;end while(n)/((-110+0x4f6))==979 do n=(2475929)while((-#[[hypeblox likes sucking big black cock]]+(-67+0x196))-0xd6)<s do n-= n for e=e[h],e[U]do l[e]=nil;end;break end while 1097==(n)/((392718/0xae))do local g;local s;local m;local n;l[e[i]]=l[e[w]][e[_]];o=o+d;e=a[o];l[e[h]]=l[e[x]][e[N]];o=o+d;e=a[o];l[e[c]]=l[e[x]]/e[P];o=o+d;e=a[o];l[e[r]]=u[e[w]];o=o+d;e=a[o];l[e[k]]=l[e[x]][e[S]];o=o+d;e=a[o];l[e[b]]=l[e[U]][e[S]];o=o+d;e=a[o];l[e[b]]=u[e[O]];o=o+d;e=a[o];l[e[h]]=e[U];o=o+d;e=a[o];l[e[b]]=l[e[O]];o=o+d;e=a[o];l[e[h]]=e[t];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];l[e[r]]=l[e[U]]*l[e[P]];o=o+d;e=a[o];l[e[k]]=l[e[w]][e[P]];o=o+d;e=a[o];n=e[r]m={l[n](l[n+1])};s=0;for e=n,e[P]do s=s+d;l[e]=m[s];end o=o+d;e=a[o];l[e[b]]=u[e[U]];o=o+d;e=a[o];l[e[b]]=l[e[t]][e[P]];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[N]];o=o+d;e=a[o];l[e[k]]=u[e[U]];o=o+d;e=a[o];l[e[h]]=e[f];o=o+d;e=a[o];l[e[c]]=-l[e[x]];o=o+d;e=a[o];l[e[i]]=e[O];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];l[e[r]]=l[e[O]]*l[e[D]];o=o+d;e=a[o];l[e[r]]=l[e[x]][e[C]];o=o+d;e=a[o];n=e[k]m={l[n](l[n+1])};s=0;for e=n,e[S]do s=s+d;l[e]=m[s];end o=o+d;e=a[o];l[e[k]]=l[e[w]]-l[e[P]];o=o+d;e=a[o];l[e[h]]=l[e[x]][e[N]];o=o+d;e=a[o];l[e[b]]=-l[e[f]];o=o+d;e=a[o];l[e[b]]=u[e[f]];o=o+d;e=a[o];l[e[c]]=u[e[U]];o=o+d;e=a[o];l[e[c]]=e[U];o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];g=l[e[S]];if g then o=o+M;else l[e[h]]=g;o=e[t];end;break end;break;end break;end break;end while 316==(n)/(((-0x27+1448)+-#'false'))do n=(1499553)while(-93+0xb9)>=s do n-= n n=(6269967)while s<=(213-0x7b)do n-= n l[e[r]]=u[e[w]];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[N]];o=o+d;e=a[o];l[e[k]]=l[e[x]][e[C]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[C]];o=o+d;e=a[o];l[e[h]][e[O]]=l[e[S]];o=o+d;e=a[o];l[e[r]]=l[e[x]][e[P]];o=o+d;e=a[o];l[e[b]]=u[e[x]];o=o+d;e=a[o];l[e[c]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[i]]=l[e[O]][e[D]];o=o+d;e=a[o];l[e[i]]=l[e[O]][e[C]];o=o+d;e=a[o];l[e[k]][e[x]]=l[e[N]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[C]];o=o+d;e=a[o];l[e[b]]=u[e[O]];o=o+d;e=a[o];l[e[c]]=l[e[f]][e[D]];o=o+d;e=a[o];l[e[r]]=l[e[f]][e[P]];o=o+d;e=a[o];l[e[r]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[h]][e[w]]=l[e[P]];o=o+d;e=a[o];l[e[r]]=l[e[U]][e[_]];o=o+d;e=a[o];l[e[k]]=u[e[x]];o=o+d;e=a[o];l[e[i]]=l[e[t]][e[S]];o=o+d;e=a[o];l[e[b]]=l[e[O]][e[S]];o=o+d;e=a[o];l[e[c]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[k]][e[t]]=l[e[C]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[D]];o=o+d;e=a[o];l[e[b]]=u[e[O]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[P]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[C]];o=o+d;e=a[o];l[e[k]]=l[e[t]][e[P]];o=o+d;e=a[o];l[e[h]][e[w]]=l[e[P]];o=o+d;e=a[o];o=e[O];break;end while(n)/((-0x54+2127))==3069 do n=(403466)while((-2040/0x3c)+0x7d)<s do n-= n local d=l[e[C]];if d then o=o+M;else l[e[i]]=d;o=e[w];end;break end while(n)/((0x2f5-435))==1253 do local w;local n;l[e[k]][e[O]]=l[e[C]];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];n=e[b];w=l[e[f]];l[n+1]=w;l[n]=w[e[N]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[i]]=m[e[f]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[r]]=e[x];o=o+d;e=a[o];l[e[b]]=e[O];o=o+d;e=a[o];l[e[h]]=e[x];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[t]))break end;break;end break;end while(n)/(((4279-0x891)+-#'use luraph if want lost money'))==729 do n=(4204665)while s<=(-#'W4rboy was here'+(7236/(-#[[kys nigga]]+(183-0x6b))))do n-= n local b;local n;l[e[h]][e[w]]=l[e[N]];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];l[e[r]][e[O]]=l[e[D]];o=o+d;e=a[o];n=e[i];b=l[e[w]];l[n+1]=b;l[n]=b[e[N]];o=o+d;e=a[o];l[e[c]]=e[w];o=o+d;e=a[o];n=e[c]l[n](B(l,n+M,e[w]))o=o+d;e=a[o];n=e[r];b=l[e[w]];l[n+1]=b;l[n]=b[e[N]];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[i]][e[x]]=e[S];o=o+d;e=a[o];l[e[r]][e[w]]=e[C];break;end while(n)/((0xfea-2067))==2095 do n=(4123392)while s>((0x11a-184)+-#[[nerd]])do n-= n l[e[k]]=l[e[U]]%l[e[_]];break end while 3068==(n)/((0xaa7-1383))do l[e[i]]=l[e[O]][l[e[D]]];break end;break;end break;end break;end break;end break;end break;end break;end while 951==(n)/((4453-0x8d7))do n=(11934834)while(0xb4+-37)>=s do n-= n n=(4927187)while s<=(0x4367/145)do n-= n n=(997056)while(4708/0x2c)>=s do n-= n n=(10239346)while s<=(-#'If no father return milk end'+(2451/0x13))do n-= n n=(1368090)while(301-0xcb)>=s do n-= n n=(111726)while s<=(0xc6+-102)do n-= n local b;local x;local n;l[e[c]]=l[e[O]];o=o+d;e=a[o];n=e[h]l[n](l[n+M])o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[r]]=u[e[O]];o=o+d;e=a[o];l[e[c]]=l[e[O]];o=o+d;e=a[o];n=e[i]x={l[n](l[n+1])};b=0;for e=n,e[_]do b=b+d;l[e]=x[b];end o=o+d;e=a[o];o=e[t];break;end while 54==(n)/((-#"If LocalPlayer equals Dumbass then while true do end"+(0x10d4-2187)))do n=(506088)while s>(0x89+-40)do n-= n local b;local n;l[e[i]]=u[e[U]];o=o+d;e=a[o];l[e[r]]=l[e[w]][e[C]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[P]];o=o+d;e=a[o];n=e[i];b=l[e[w]];l[n+1]=b;l[n]=b[e[_]];o=o+d;e=a[o];l[e[r]]=e[f]/e[_];o=o+d;e=a[o];n=e[i]l[n](B(l,n+M,e[x]))o=o+d;e=a[o];l[e[i]]=u[e[U]];o=o+d;e=a[o];l[e[r]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[k]]=l[e[t]][e[D]];o=o+d;e=a[o];n=e[i];b=l[e[U]];l[n+1]=b;l[n]=b[e[P]];o=o+d;e=a[o];l[e[k]]=e[O];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];n=e[r];b=l[e[t]];l[n+1]=b;l[n]=b[e[D]];break end while(n)/((248+-0x32))==2556 do local i;local n;l[e[r]]=u[e[O]];o=o+d;e=a[o];n=e[b];i=l[e[O]];l[n+1]=i;l[n]=i[e[S]];o=o+d;e=a[o];l[e[r]]=e[f];o=o+d;e=a[o];l[e[b]]=l[e[U]];o=o+d;e=a[o];n=e[b]l[n](B(l,n+M,e[U]))o=o+d;e=a[o];do return end;break end;break;end break;end while(n)/((0x358-451))==3378 do n=(6301152)while(325-0xe2)>=s do n-= n local O;local n;n=e[b]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];n=e[h];O=l[e[x]];l[n+1]=O;l[n]=O[e[C]];o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];l[e[k]][e[f]]=e[P];o=o+d;e=a[o];l[e[r]][e[U]]=e[_];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];n=e[c];O=l[e[x]];l[n+1]=O;l[n]=O[e[S]];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[r]][e[w]]=e[N];o=o+d;e=a[o];l[e[r]][e[x]]=e[S];break;end while(n)/(((3312-0x687)+-#"kys nigga"))==3861 do n=(5505835)while(0x3390/132)<s do n-= n l[e[r]]=(e[f]~=0);o=o+M;break end while 3805==(n)/((1541+-0x5e))do local b;local n;l[e[r]]=u[e[O]];o=o+d;e=a[o];n=e[r];b=l[e[t]];l[n+1]=b;l[n]=b[e[N]];o=o+d;e=a[o];l[e[i]]=u[e[x]];o=o+d;e=a[o];l[e[c]]=l[e[t]][e[C]];o=o+d;e=a[o];l[e[h]]=l[e[U]][e[N]];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];if not l[e[c]]then o=o+M;else o=e[f];end;break end;break;end break;end break;end while 2587==(n)/((-#[[Bush Did 9 11]]+(0xe3d41/235)))do n=(5930176)while s<=(0xd00/32)do n-= n n=(10083557)while s<=((-70+0x139)-0x8d)do n-= n if not l[e[i]]then o=o+M;else o=e[x];end;break;end while 4003==(n)/((((-120+0x148d)+-#"send nudes")-2612))do n=(122019)while(249-0x92)<s do n-= n if(e[h]<l[e[S]])then o=o+M;else o=e[w];end;break end while 89==(n)/((0x5a5+-74))do local h;local n;l[e[c]][e[x]]=l[e[D]];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];n=e[b];h=l[e[x]];l[n+1]=h;l[n]=h[e[C]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[k]][e[x]]=e[S];o=o+d;e=a[o];l[e[r]][e[O]]=e[_];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[t]))o=o+d;e=a[o];n=e[i];h=l[e[w]];l[n+1]=h;l[n]=h[e[C]];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[i]][e[t]]=e[_];break end;break;end break;end while 1708==(n)/((0x9cd10/185))do n=(5966)while s<=((0x11729a/90)/0x79)do n-= n local u;local s;local n;l[e[h]]=l[e[w]][e[P]];o=o+d;e=a[o];l[e[b]]=e[w];o=o+d;e=a[o];n=e[k]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[k]]=m[e[O]];o=o+d;e=a[o];n=e[r];s=l[e[U]];l[n+1]=s;l[n]=s[e[N]];o=o+d;e=a[o];l[e[h]]=e[O];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[t]))o=o+d;e=a[o];l[e[b]][e[U]]=l[e[N]];o=o+d;e=a[o];l[e[r]]=e[U];o=o+d;e=a[o];l[e[h]]=m[e[w]];o=o+d;e=a[o];s=e[f];u=l[s]for e=s+1,e[C]do u=u..l[e];end;l[e[b]]=u;o=o+d;e=a[o];l[e[c]][e[U]]=l[e[N]];o=o+d;e=a[o];l[e[b]][e[x]]=e[N];o=o+d;e=a[o];n=e[i];s=l[e[f]];l[n+1]=s;l[n]=s[e[N]];o=o+d;e=a[o];n=e[h]l[n](l[n+M])break;end while 314==(n)/((-0x22+53))do n=(212480)while s>(23744/0xe0)do n-= n local a=e[i]local n={l[a](l[a+1])};local o=0;for e=a,e[S]do o=o+d;l[e]=n[o];end break end while 664==(n)/((-0x27+359))do local n;l[e[k]]=l[e[O]];o=o+d;e=a[o];l[e[r]]=l[e[O]][e[C]];o=o+d;e=a[o];n=e[i];do return l[n](B(l,n+1,e[O]))end;o=o+d;e=a[o];n=e[c];do return B(l,n,y)end;o=o+d;e=a[o];do return end;break end;break;end break;end break;end break;end while 1154==(n)/((0x269a0/183))do n=(8854704)while((-0x6d+236)+-#"impulse is hot")>=s do n-= n n=(8132421)while s<=(0x3c96/141)do n-= n n=(5345244)while(-#[[0nly 1337]]+(0x123-(-65+0xef)))>=s do n-= n local U;local t;local h;local f,s;local n;l[e[i]]=u[e[O]];o=o+d;e=a[o];l[e[r]]=u[e[x]];o=o+d;e=a[o];l[e[b]]=e[w];o=o+d;e=a[o];l[e[i]]=e[w];o=o+d;e=a[o];n=e[c]f,s=p(l[n](B(l,n+1,e[x])))y=s+n-1 h=0;for e=n,y do h=h+d;l[e]=f[h];end;o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,y))o=o+d;e=a[o];t=e[x];U=l[t]for e=t+1,e[_]do U=U..l[e];end;l[e[c]]=U;break;end while(n)/((4698-0x95c))==2322 do n=(13660407)while(337-0xe4)<s do n-= n local n=e[r];local r=e[_];local a=n+2 local n={l[n](l[n+1],l[a])};for e=1,r do l[a+e]=n[e];end;local n=n[1]if n then l[a]=n o=e[U];else o=o+d;end;break end while 3693==(n)/((739800/0xc8))do local n;l[e[i]]=u[e[t]];o=o+d;e=a[o];l[e[r]]=l[e[t]][e[P]];o=o+d;e=a[o];l[e[r]]=l[e[x]]-l[e[N]];o=o+d;e=a[o];l[e[i]]=l[e[t]]^e[N];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[C]];o=o+d;e=a[o];l[e[h]]=u[e[t]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[k]]=l[e[O]]-l[e[_]];o=o+d;e=a[o];l[e[i]]=l[e[U]]^e[P];o=o+d;e=a[o];n={l,e};n[M][n[g][b]]=n[d][n[g][N]]+n[M][n[g][U]];o=o+d;e=a[o];l[e[k]]=u[e[w]];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[S]];o=o+d;e=a[o];l[e[k]]=l[e[U]]^e[C];o=o+d;e=a[o];if(l[e[i]]<=l[e[N]])then o=o+M;else o=e[t];end;break end;break;end break;end while 3091==(n)/(((5343-0xa8f)+-#"arab porn"))do n=(10935760)while((0x5d00/(238+-0x2e))+-#'ur mom is hot')>=s do n-= n local n;local r;local h,t;local O;local n;n=e[b]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];l[e[c]][e[w]]=l[e[_]];o=o+d;e=a[o];l[e[k]]=u[e[x]];o=o+d;e=a[o];l[e[b]]=u[e[U]];o=o+d;e=a[o];n=e[k];O=l[e[x]];l[n+1]=O;l[n]=O[e[P]];o=o+d;e=a[o];n=e[b]h,t=p(l[n](l[n+M]))y=t+n-d r=0;for e=n,y do r=r+d;l[e]=h[r];end;o=o+d;e=a[o];n=e[i]h={l[n](B(l,n+1,y))};r=0;for e=n,e[C]do r=r+d;l[e]=h[r];end o=o+d;e=a[o];o=e[U];break;end while(n)/((-0x29+((0x19b0-3334)+-#[[I FUCKING HATE FEMBOYS]])))==3440 do n=(1764396)while((0x1df-((-38+0x15b)+-#[[Impulse real 2022]]))+-#"brawl stars hard gay porn shelly nsked minecraft gay porn roblox rule34 hot")<s do n-= n local b;local r;local n;l[e[i]]=e[O];o=o+d;e=a[o];l[e[h]]=e[f];o=o+d;e=a[o];l[e[h]]=#l[e[w]];o=o+d;e=a[o];l[e[h]]=e[U];o=o+d;e=a[o];n=e[i];r=l[n]b=l[n+2];if(b>0)then if(r>l[n+1])then o=e[U];else l[n+3]=r;end elseif(r<l[n+1])then o=e[w];else l[n+3]=r;end break end while 3844==(n)/((-#"Lana Rhoades"+(5181/0xb)))do local n;l[e[r]]=u[e[f]];o=o+d;e=a[o];l[e[c]]=u[e[x]];o=o+d;e=a[o];l[e[h]]=l[e[t]];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[k]][e[f]]=e[N];o=o+d;e=a[o];l[e[c]][e[O]]=e[N];o=o+d;e=a[o];n=e[r]l[n](B(l,n+M,e[O]))o=o+d;e=a[o];l[e[r]]=u[e[t]];o=o+d;e=a[o];l[e[h]]=u[e[U]];o=o+d;e=a[o];l[e[b]]=l[e[t]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[k]][e[O]]=e[D];o=o+d;e=a[o];l[e[c]][e[x]]=e[D];o=o+d;e=a[o];n=e[c]l[n](B(l,n+M,e[w]))o=o+d;e=a[o];l[e[i]]=u[e[t]];o=o+d;e=a[o];l[e[r]]=u[e[x]];o=o+d;e=a[o];l[e[r]]=l[e[f]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[b]][e[f]]=e[C];o=o+d;e=a[o];l[e[r]][e[U]]=e[D];o=o+d;e=a[o];n=e[h]l[n](B(l,n+M,e[t]))o=o+d;e=a[o];l[e[k]]=u[e[t]];o=o+d;e=a[o];l[e[h]]=u[e[x]];o=o+d;e=a[o];l[e[k]]=l[e[U]];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[i]][e[f]]=e[C];o=o+d;e=a[o];l[e[r]][e[x]]=e[_];o=o+d;e=a[o];n=e[c]l[n](B(l,n+M,e[t]))o=o+d;e=a[o];do return end;break end;break;end break;end break;end while(n)/(((0xea61c-480040)/0xc9))==3708 do n=(5363532)while((-27+0x98)+-#"Crackzzzz")>=s do n-= n n=(1195212)while s<=(0x148-214)do n-= n local c;local n;l[e[r]][e[f]]=l[e[_]];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];n=e[i];c=l[e[U]];l[n+1]=c;l[n]=c[e[P]];o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];l[e[i]][e[w]]=e[N];o=o+d;e=a[o];l[e[r]]=m[e[t]];o=o+d;e=a[o];l[e[r]]=l[e[x]][e[C]];o=o+d;e=a[o];l[e[r]]=l[e[w]][e[N]];o=o+d;e=a[o];l[e[i]][e[w]]=l[e[P]];o=o+d;e=a[o];l[e[r]]={};break;end while(n)/((-#"0nly 1337 smashed ur wap"+(((0x455320b/165)+-#"0nly segc")/225)))==618 do n=(2128070)while s>(-#"meme strings be like"+(-70+0xcd))do n-= n local e=e[c]local a,o=p(l[e]())y=o+e-d local o=0;for e=e,y do o=o+M;l[e]=a[o];end;break end while 1010==(n)/((0x6d917/213))do local a=e[i];local r=e[D];local n=a+2 local a={l[a](l[a+1],l[n])};for e=1,r do l[n+e]=a[e];end;local a=a[1]if a then l[n]=a o=e[x];else o=o+d;end;break end;break;end break;end while 1556==(n)/((-40+0xd9f))do n=(4108740)while(-0x6b+224)>=s do n-= n local b;local n;l[e[r]]=u[e[w]];o=o+d;e=a[o];n=e[k];b=l[e[t]];l[n+1]=b;l[n]=b[e[C]];o=o+d;e=a[o];l[e[h]]=e[x];o=o+d;e=a[o];l[e[i]]=l[e[U]];o=o+d;e=a[o];n=e[r]l[n](B(l,n+M,e[U]))o=o+d;e=a[o];do return end;break;end while 1410==(n)/((0x1e976/43))do n=(8508787)while(-#'Ur mom'+((54064/0x6d)/0x4))<s do n-= n l[e[h]][l[e[U]]]=e[C];break end while(n)/((0x1376-2553))==3503 do local n;l[e[h]][e[x]]=e[D];o=o+d;e=a[o];n=e[k]l[n](B(l,n+M,e[f]))o=o+d;e=a[o];l[e[r]]=u[e[w]];o=o+d;e=a[o];l[e[b]]=u[e[O]];o=o+d;e=a[o];l[e[i]]=e[t];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[r]]=u[e[f]];o=o+d;e=a[o];l[e[b]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[i]][e[w]]=l[e[N]];o=o+d;e=a[o];l[e[r]]=u[e[x]];break end;break;end break;end break;end break;end break;end while 2059==(n)/((0x500a1/137))do n=(358050)while s<=((337-0xc0)+-#[[FranzJPresents]])do n-= n n=(9739856)while(-29+0x9a)>=s do n-= n n=(7229458)while s<=(0xf4/2)do n-= n n=(52380)while s<=(26280/0xdb)do n-= n local n;l[e[k]]=l[e[f]][e[S]];o=o+d;e=a[o];l[e[b]]=l[e[t]][e[S]];o=o+d;e=a[o];l[e[i]]=l[e[f]]*l[e[P]];o=o+d;e=a[o];n={l,e};n[M][n[g][c]]=n[d][n[g][N]]+n[M][n[g][t]];o=o+d;e=a[o];l[e[i]]=u[e[f]];o=o+d;e=a[o];l[e[c]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[c]]=l[e[O]][e[S]];o=o+d;e=a[o];l[e[b]]=l[e[f]]-l[e[C]];o=o+d;e=a[o];l[e[h]]=l[e[U]][e[_]];o=o+d;e=a[o];l[e[h]][l[e[x]]]=l[e[S]];o=o+d;e=a[o];o=e[f];break;end while 270==(n)/((0x1dc-282))do n=(1149540)while(-#[[yeet]]+(274-0x95))<s do n-= n local s;local n;m[e[w]]=l[e[i]];o=o+d;e=a[o];l[e[i]]=m[e[t]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[S]];o=o+d;e=a[o];l[e[r]]=m[e[f]];o=o+d;e=a[o];l[e[c]]=l[e[w]][e[N]];o=o+d;e=a[o];l[e[i]]=m[e[f]];o=o+d;e=a[o];n=e[c];s=l[e[O]];l[n+1]=s;l[n]=s[e[C]];o=o+d;e=a[o];l[e[h]]=e[w];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];l[e[b]]=m[e[x]];o=o+d;e=a[o];n=e[b];s=l[e[U]];l[n+1]=s;l[n]=s[e[S]];o=o+d;e=a[o];l[e[h]]=e[O];o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];l[e[h]]=m[e[f]];o=o+d;e=a[o];n=e[k];s=l[e[w]];l[n+1]=s;l[n]=s[e[N]];o=o+d;e=a[o];l[e[r]]=e[O];o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];l[e[k]]=m[e[w]];o=o+d;e=a[o];n=e[r];s=l[e[f]];l[n+1]=s;l[n]=s[e[D]];o=o+d;e=a[o];l[e[r]]=e[w];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];l[e[k]]=m[e[f]];o=o+d;e=a[o];n=e[i];s=l[e[U]];l[n+1]=s;l[n]=s[e[N]];o=o+d;e=a[o];l[e[h]]=e[w];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];l[e[h]]=m[e[f]];o=o+d;e=a[o];n=e[h];s=l[e[x]];l[n+1]=s;l[n]=s[e[P]];o=o+d;e=a[o];l[e[h]]=e[w];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];l[e[h]]=m[e[U]];o=o+d;e=a[o];n=e[r];s=l[e[x]];l[n+1]=s;l[n]=s[e[N]];o=o+d;e=a[o];l[e[i]]=e[f];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];l[e[c]]=l[e[x]][e[_]];o=o+d;e=a[o];n=e[b];s=l[e[f]];l[n+1]=s;l[n]=s[e[_]];o=o+d;e=a[o];n=e[r]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[h]]=m[e[w]];o=o+d;e=a[o];l[e[r]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[b]]=l[e[t]][e[_]];o=o+d;e=a[o];n=e[b];s=l[e[t]];l[n+1]=s;l[n]=s[e[S]];o=o+d;e=a[o];n=e[k]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[b]]=m[e[t]];o=o+d;e=a[o];l[e[r]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[r]]=l[e[f]][e[D]];o=o+d;e=a[o];l[e[k]]=m[e[x]];o=o+d;e=a[o];l[e[h]]=l[e[O]][e[S]];o=o+d;e=a[o];l[e[i]]=e[f];o=o+d;e=a[o];l[e[b]]=m[e[t]];o=o+d;e=a[o];l[e[i]]=l[e[O]][e[N]];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];l[e[h]]=m[e[U]];o=o+d;e=a[o];l[e[c]]=l[e[t]][e[N]];o=o+d;e=a[o];l[e[c]]=e[w];o=o+d;e=a[o];l[e[r]]=m[e[O]];o=o+d;e=a[o];l[e[c]]=l[e[f]][e[S]];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];l[e[h]]=m[e[O]];o=o+d;e=a[o];l[e[r]]=l[e[O]][e[C]];o=o+d;e=a[o];l[e[i]]=e[f];o=o+d;e=a[o];l[e[b]]=m[e[f]];o=o+d;e=a[o];l[e[i]]=l[e[f]][e[C]];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];l[e[c]]=m[e[U]];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[b]]=e[t];o=o+d;e=a[o];l[e[h]]=m[e[t]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[P]];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];l[e[b]][e[U]]=e[P];o=o+d;e=a[o];l[e[b]][e[t]]=e[S];o=o+d;e=a[o];l[e[c]]=m[e[t]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[C]];o=o+d;e=a[o];l[e[k]]=m[e[U]];o=o+d;e=a[o];l[e[r]]=l[e[x]][e[S]];o=o+d;e=a[o];l[e[r]]=m[e[t]];o=o+d;e=a[o];l[e[i]]=l[e[f]][e[_]];o=o+d;e=a[o];l[e[k]]=m[e[w]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[P]];o=o+d;e=a[o];l[e[b]]=m[e[t]];o=o+d;e=a[o];l[e[r]]=l[e[x]][e[S]];break end while(n)/(((766+-0x2f)+-#[[Fucking losed 027728272728271]]))==1666 do o=e[U];break end;break;end break;end while 3793==(n)/((0x60ca0/208))do n=(162620)while s<=(23370/((0x167+-123)+-#[[real roblox omg builderman caught playing real]]))do n-= n local t;local n;l[e[r]][e[w]]=l[e[P]];o=o+d;e=a[o];n=e[c]l[n](B(l,n+M,e[O]))o=o+d;e=a[o];n=e[k];t=l[e[f]];l[n+1]=t;l[n]=t[e[P]];o=o+d;e=a[o];l[e[h]]=e[x];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];n=e[b];t=l[e[U]];l[n+1]=t;l[n]=t[e[D]];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[k]][e[U]]=e[C];o=o+d;e=a[o];l[e[i]][e[O]]=e[D];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[w]))break;end while(n)/((-#[[Bush Did 9 11]]+(-39+0x11f)))==692 do n=(8642710)while s>((0x8880/208)+-#"MoonsecV2 deobfuscator 2020 free 100 percent")do n-= n l[e[h]][e[t]]=e[C];break end while 2438==(n)/((7205-0xe4c))do local O;local n;l[e[h]]=u[e[f]];o=o+d;e=a[o];n=e[b];O=l[e[f]];l[n+1]=O;l[n]=O[e[C]];o=o+d;e=a[o];l[e[r]]=l[e[f]][e[C]];o=o+d;e=a[o];l[e[k]]=u[e[U]];o=o+d;e=a[o];l[e[c]]=e[f];o=o+d;e=a[o];l[e[h]]=e[x];o=o+d;e=a[o];l[e[c]]=e[x];o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];l[e[i]]=l[e[w]]-l[e[S]];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[f]))break end;break;end break;end break;end while 3781==(n)/((-#"i love minors"+((0x147c+-18)-2637)))do n=(6344610)while s<=(26112/0xcc)do n-= n n=(8298912)while(-#'free bobux no skem'+(-27+0xab))>=s do n-= n l[e[k]][e[f]]=l[e[S]];o=o+d;e=a[o];l[e[r]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[c]][e[U]]=l[e[C]];o=o+d;e=a[o];l[e[h]]=l[e[t]][e[_]];o=o+d;e=a[o];l[e[k]]=u[e[f]];o=o+d;e=a[o];l[e[c]]=l[e[w]][e[N]];o=o+d;e=a[o];l[e[k]]=l[e[w]][e[N]];o=o+d;e=a[o];l[e[r]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[c]][e[w]]=l[e[S]];o=o+d;e=a[o];l[e[k]]=l[e[x]][e[_]];o=o+d;e=a[o];l[e[c]]=u[e[w]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[S]];o=o+d;e=a[o];l[e[h]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[P]];o=o+d;e=a[o];l[e[h]][e[x]]=l[e[C]];o=o+d;e=a[o];l[e[k]]=l[e[t]][e[S]];o=o+d;e=a[o];l[e[c]][e[f]]=l[e[C]];o=o+d;e=a[o];l[e[h]]=l[e[t]][e[C]];o=o+d;e=a[o];l[e[k]][e[f]]=l[e[D]];o=o+d;e=a[o];l[e[c]]=l[e[t]][e[_]];o=o+d;e=a[o];l[e[h]]=u[e[x]];o=o+d;e=a[o];l[e[i]]=l[e[O]][e[C]];o=o+d;e=a[o];l[e[r]]=l[e[t]][e[C]];o=o+d;e=a[o];l[e[r]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[i]][e[U]]=l[e[D]];o=o+d;e=a[o];l[e[h]]=l[e[x]][e[N]];o=o+d;e=a[o];l[e[i]][e[t]]=e[N];o=o+d;e=a[o];o=e[O];break;end while 3786==(n)/(((-#'Daddy fuck me'+(197411-0x181c6))/45))do n=(165228)while s>(-#'anime is for fags'+(389-0xf5))do n-= n local c;local n;l[e[h]][e[U]]=l[e[_]];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];n=e[i];c=l[e[w]];l[n+1]=c;l[n]=c[e[N]];o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];l[e[h]]=m[e[x]];o=o+d;e=a[o];l[e[h]]=l[e[w]][e[C]];o=o+d;e=a[o];l[e[r]]=e[x];o=o+d;e=a[o];l[e[k]]=e[O];o=o+d;e=a[o];l[e[b]]=e[f];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[U]))break end while(n)/((0x74-67))==3372 do m[e[O]]=l[e[i]];break end;break;end break;end while 1830==(n)/((0xbe72b/(0x1df-254)))do n=(241434)while s<=(0x169-232)do n-= n local n;l[e[h]]=u[e[O]];o=o+d;e=a[o];l[e[c]]=e[f];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[r]][e[x]]=e[C];o=o+d;e=a[o];l[e[r]][e[x]]=e[C];o=o+d;e=a[o];n=e[r]l[n](B(l,n+M,e[O]))o=o+d;e=a[o];do return end;break;end while(n)/((0x4c47c/198))==153 do n=(760410)while(-#"impulse loves moonsex"+(32918/0xda))<s do n-= n local b;local O;local n;l[e[c]]=u[e[x]];o=o+d;e=a[o];n=e[h];O=l[e[f]];l[n+1]=O;l[n]=O[e[S]];o=o+d;e=a[o];l[e[c]]=l[e[x]][e[N]];o=o+d;e=a[o];l[e[h]]=u[e[x]];o=o+d;e=a[o];l[e[r]]=e[U];o=o+d;e=a[o];l[e[k]]=e[t];o=o+d;e=a[o];l[e[r]]=e[w];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];b={l,e};b[M][b[g][r]]=b[d][b[g][D]]+b[M][b[g][f]];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[w]))break end while 510==(n)/((0x650+-125))do l[e[c]]=u[e[O]];o=o+d;e=a[o];l[e[b]]=#l[e[U]];o=o+d;e=a[o];u[e[x]]=l[e[i]];o=o+d;e=a[o];l[e[k]]=u[e[U]];o=o+d;e=a[o];l[e[h]]=#l[e[w]];o=o+d;e=a[o];u[e[O]]=l[e[c]];o=o+d;e=a[o];do return end;break end;break;end break;end break;end break;end while 150==(n)/((0x130e-2491))do n=(2444141)while(-78+0xd7)>=s do n-= n n=(2078355)while s<=(0x7b02/235)do n-= n n=(7424822)while s<=((0x1db-256)+-#'when the he went where when he where where when the he when ther wher he then here went')do n-= n local i;local n;n=e[k];i=l[e[t]];l[n+1]=i;l[n]=i[e[C]];o=o+d;e=a[o];l[e[c]]=e[w];o=o+d;e=a[o];n=e[h]l[n](B(l,n+M,e[w]))o=o+d;e=a[o];n=e[r];i=l[e[x]];l[n+1]=i;l[n]=i[e[S]];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[b]][e[w]]=e[N];break;end while(n)/((3574+-0x23))==2098 do n=(8501688)while(-#[[goofy ahh uncle productions]]+(414-0xfe))<s do n-= n local n;l[e[r]]=l[e[f]][e[C]];o=o+d;e=a[o];l[e[k]]=u[e[w]];o=o+d;e=a[o];l[e[i]]=e[O];o=o+d;e=a[o];l[e[h]]=e[w];o=o+d;e=a[o];l[e[b]]=e[f];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];l[e[b]]=l[e[U]]*l[e[S]];o=o+d;e=a[o];l[e[r]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[b]]=u[e[U]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[S]];o=o+d;e=a[o];l[e[r]]=-l[e[x]];o=o+d;e=a[o];l[e[b]]=l[e[t]][e[P]];o=o+d;e=a[o];l[e[k]]=-l[e[t]];o=o+d;e=a[o];l[e[i]]=e[U];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];l[e[i]]=l[e[O]]*l[e[S]];o=o+d;e=a[o];l[e[i]]=l[e[f]][e[D]];o=o+d;e=a[o];l[e[h]][e[U]]=l[e[_]];o=o+d;e=a[o];l[e[h]]=u[e[t]];o=o+d;e=a[o];l[e[c]]=l[e[t]][e[S]];o=o+d;e=a[o];l[e[r]]=-l[e[w]];o=o+d;e=a[o];l[e[h]]=l[e[x]][e[_]];o=o+d;e=a[o];l[e[i]]=e[x];o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];l[e[h]]=l[e[x]]*l[e[D]];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[C]];o=o+d;e=a[o];l[e[c]][e[w]]=l[e[N]];o=o+d;e=a[o];l[e[i]]=u[e[O]];o=o+d;e=a[o];l[e[b]]=l[e[f]][e[P]];o=o+d;e=a[o];l[e[h]]=l[e[t]][e[N]];o=o+d;e=a[o];l[e[k]]=-l[e[x]];o=o+d;e=a[o];l[e[c]]=e[f];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];l[e[h]]=l[e[x]]*l[e[C]];o=o+d;e=a[o];l[e[i]]=l[e[t]][e[C]];o=o+d;e=a[o];l[e[b]][e[w]]=l[e[D]];o=o+d;e=a[o];l[e[c]]=u[e[O]];o=o+d;e=a[o];l[e[r]]=l[e[x]][e[S]];o=o+d;e=a[o];l[e[r]]=l[e[O]][e[_]];o=o+d;e=a[o];l[e[k]]=e[f];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[t]))o=o+d;e=a[o];l[e[b]]=l[e[x]]*l[e[S]];o=o+d;e=a[o];l[e[r]]=l[e[x]][e[_]];o=o+d;e=a[o];l[e[c]][e[t]]=l[e[P]];o=o+d;e=a[o];do return l[e[r]]end o=o+d;e=a[o];do return end;break end while 2418==(n)/((0x1bb0-3572))do local r;local n;l[e[h]][e[O]]=l[e[D]];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];n=e[k];r=l[e[x]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[h]][e[f]]=e[P];o=o+d;e=a[o];l[e[k]][e[U]]=e[D];break end;break;end break;end while 635==(n)/((((-0x4608/249)+3357)+-#[[Suck Sus0587]]))do n=(1073896)while(30915/0xe5)>=s do n-= n local b;local n;l[e[c]][e[f]]=l[e[D]];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];n=e[h];b=l[e[O]];l[n+1]=b;l[n]=b[e[P]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[h]]=m[e[x]];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[_]];o=o+d;e=a[o];l[e[r]]=e[w];o=o+d;e=a[o];l[e[i]]=e[U];o=o+d;e=a[o];l[e[k]]=e[O];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[f]))break;end while 557==(n)/((((-127+0x6d3da)+-#'Nsrds GAYYYYAIAHAKAJAVAHAUA')/0xe8))do n=(2734592)while s>(-110+0xf6)do n-= n local O;local n;l[e[r]][e[U]]=l[e[N]];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];l[e[k]][e[f]]=l[e[D]];o=o+d;e=a[o];n=e[k];O=l[e[x]];l[n+1]=O;l[n]=O[e[_]];o=o+d;e=a[o];l[e[h]]=e[U];o=o+d;e=a[o];n=e[r]l[n](B(l,n+M,e[w]))o=o+d;e=a[o];n=e[b];O=l[e[t]];l[n+1]=O;l[n]=O[e[C]];o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];l[e[c]][e[f]]=e[C];o=o+d;e=a[o];l[e[h]]=l[e[x]][e[C]];break end while 1792==(n)/((-#'W4rboy was here'+(0x4f01a/210)))do l[e[k]]=(not l[e[x]]);break end;break;end break;end break;end while(n)/((-#'yeet'+(2212-0x467)))==2261 do n=(3066932)while s<=(0x156-202)do n-= n n=(36875)while s<=(0x124-154)do n-= n local n;l[e[h]]=e[t];o=o+d;e=a[o];l[e[c]]=e[f];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];l[e[b]]=u[e[U]];o=o+d;e=a[o];l[e[r]]=l[e[x]][e[C]];o=o+d;e=a[o];if(l[e[c]]<=l[e[N]])then o=e[t];else o=o+M;end;break;end while 625==(n)/((0xce8/56))do n=(1028147)while s>((-105+0x1ee)-250)do n-= n local t;local n;l[e[k]][e[x]]=l[e[_]];o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];n=e[c];t=l[e[f]];l[n+1]=t;l[n]=t[e[_]];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[i]][e[w]]=e[_];o=o+d;e=a[o];l[e[h]][e[O]]=e[P];o=o+d;e=a[o];l[e[b]][e[x]]=e[P];break end while(n)/(((2123-0x455)+-#'niggers'))==1021 do local r;local n;n=e[k]l[n](B(l,n+M,e[x]))o=o+d;e=a[o];n=e[c];r=l[e[x]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[b]]=m[e[t]];o=o+d;e=a[o];l[e[i]]=e[w];o=o+d;e=a[o];l[e[b]]=l[e[f]];o=o+d;e=a[o];n=e[k]l[n](B(l,n+M,e[w]))o=o+d;e=a[o];l[e[i]]=l[e[U]];o=o+d;e=a[o];n=e[h]l[n]=l[n]()break end;break;end break;end while 1892==(n)/((3335-0x6b2))do n=(3816332)while s<=((0x42b8+-19)/121)do n-= n local e=e[i];do return B(l,e,y)end;break;end while 1858==(n)/(((0x1037-2092)+-#"sussy"))do n=(1248524)while(-#[[Ur mom]]+(207+-0x3b))<s do n-= n if(e[c]<=l[e[N]])then o=o+M;else o=e[x];end;break end while(n)/((111329/0xa3))==1828 do local h;local n;l[e[r]]=l[e[O]][e[S]];o=o+d;e=a[o];l[e[b]]=l[e[U]][e[_]];o=o+d;e=a[o];l[e[k]]=m[e[U]];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[N]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[S]];o=o+d;e=a[o];n=e[r];h=l[n];for e=n+1,e[O]do I(h,l[e])end;break end;break;end break;end break;end break;end break;end break;end while 3277==(n)/((0x1cc8-3726))do n=(7572758)while(-0x5e+261)>=s do n-= n n=(316934)while s<=(417-0x106)do n-= n n=(1645392)while s<=((0x2b2f/67)+-#[[warboy hates you]])do n-= n n=(3626841)while s<=(370-0xe0)do n-= n n=(8844072)while s<=(((748-0x1aa)-171)+-#"elbicho")do n-= n local e=e[b]local a,o=p(l[e]())y=o+e-d local o=0;for e=e,y do o=o+M;l[e]=a[o];end;break;end while 2813==(n)/(((0x1915-3265)+-#[[Suck Sus0587]]))do n=(1991086)while(8700/0x3c)<s do n-= n if(e[i]<l[e[S]])then o=e[x];else o=o+M;end;break end while 694==(n)/((0xba8+-115))do l[e[h]]=l[e[t]]-l[e[S]];break end;break;end break;end while 1329==(n)/((682250/0xfa))do n=(13469525)while s<=(322-0xaf)do n-= n l[e[h]]=e[U];break;end while(n)/((-#[[panzerfaust]]+(7050-((0x1c4b-3675)+-#[[FranzJPresents]]))))==3865 do n=(115680)while s>(348-0xc8)do n-= n local n;n=e[i]l[n](B(l,n+M,e[x]))o=o+d;e=a[o];l[e[i]]=u[e[w]];o=o+d;e=a[o];l[e[k]]=u[e[U]];o=o+d;e=a[o];l[e[h]]=e[x];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[c]][e[O]]=e[D];o=o+d;e=a[o];l[e[r]][e[f]]=e[C];o=o+d;e=a[o];n=e[k]l[n](B(l,n+M,e[t]))o=o+d;e=a[o];l[e[k]]=u[e[x]];break end while 30==(n)/((0x1e30-(7761-0xf31)))do local n;local r;local h,b;local n;l[e[i]]=u[e[t]];o=o+d;e=a[o];l[e[c]]=u[e[U]];o=o+d;e=a[o];l[e[c]]=l[e[O]][e[_]];o=o+d;e=a[o];l[e[k]]=l[e[U]][e[N]];o=o+d;e=a[o];n=e[c]h,b=p(l[n](l[n+M]))y=b+n-d r=0;for e=n,y do r=r+d;l[e]=h[r];end;o=o+d;e=a[o];n=e[i]h={l[n](B(l,n+1,y))};r=0;for e=n,e[P]do r=r+d;l[e]=h[r];end o=o+d;e=a[o];o=e[t];break end;break;end break;end break;end while(n)/((0xec08/52))==1416 do n=(6442327)while((215+-0x2e)+-#[[anime is for fags]])>=s do n-= n n=(13672800)while s<=(10350/(-88+0x9d))do n-= n local n;l[e[b]]=u[e[O]];o=o+d;e=a[o];n={l,e};n[M][n[g][i]]=n[d][n[g][S]]+n[M][n[g][x]];o=o+d;e=a[o];l[e[i]][e[U]]=l[e[P]];o=o+d;e=a[o];l[e[c]]=u[e[U]];o=o+d;e=a[o];l[e[h]][e[U]]=l[e[_]];o=o+d;e=a[o];l[e[c]]=u[e[f]];o=o+d;e=a[o];l[e[r]]=l[e[t]][e[D]];o=o+d;e=a[o];if l[e[c]]then o=o+d;else o=e[U];end;break;end while(n)/(((0x1c98-3708)+-#[[cilertedcool]]))==3798 do n=(7628328)while(0x60bc/164)<s do n-= n local d=e[w];local o=l[d]for e=d+1,e[P]do o=o..l[e];end;l[e[r]]=o;break end while(n)/((0x9bb6/19))==3636 do l[e[b]]=l[e[U]][l[e[S]]];break end;break;end break;end while(n)/((0x11a3-2314))==2927 do n=(125280)while s<=((0xb4+-20)+-#"mama mo")do n-= n local r;local n;l[e[c]]=l[e[U]];o=o+d;e=a[o];n=e[c]l[n]=l[n]()o=o+d;e=a[o];l[e[k]]=l[e[O]][e[D]];o=o+d;e=a[o];n=e[c];r=l[e[w]];l[n+1]=r;l[n]=r[e[S]];o=o+d;e=a[o];l[e[k]]=l[e[w]];break;end while(n)/((0x1fc8/113))==1740 do n=(5452220)while((0x8b38/216)+-#'monkey mode')<s do n-= n local h;local n;l[e[r]][e[w]]=l[e[P]];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];l[e[r]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[r]]=l[e[f]][e[S]];o=o+d;e=a[o];l[e[r]]=l[e[O]][e[C]];o=o+d;e=a[o];n=e[b];h=l[e[O]];l[n+1]=h;l[n]=h[e[P]];break end while 2081==(n)/(((0x14c9-2681)+-#[[meme strings be like]]))do if(l[e[b]]~=e[P])then o=o+M;else o=e[O];end;break end;break;end break;end break;end break;end while 2962==(n)/((-#"negus"+(0xf9-137)))do n=(299506)while s<=(33488/0xd0)do n-= n n=(3927357)while(-0x53+241)>=s do n-= n n=(1363725)while(406-0xfa)>=s do n-= n local b;local n;local r;l[e[k]]=m[e[U]];o=o+d;e=a[o];l[e[h]]=e[t];o=o+d;e=a[o];l[e[i]]=l[e[U]];o=o+d;e=a[o];r=e[O];n=l[r]for e=r+1,e[C]do n=n..l[e];end;l[e[h]]=n;o=o+d;e=a[o];b=e[i]l[b](l[b+M])o=o+d;e=a[o];do return end;break;end while 825==(n)/((-#[[MoonsecV2 deobfuscator 2020 free 100 percent]]+(3430-(0xdca-1797))))do n=(1408564)while s>(383-0xe2)do n-= n l[e[c]]=u[e[U]];o=o+d;e=a[o];l[e[i]]=l[e[f]][e[D]];o=o+d;e=a[o];l[e[i]]=l[e[f]][e[C]];o=o+d;e=a[o];l[e[i]][e[t]]=l[e[P]];o=o+d;e=a[o];do return end;break end while 698==(n)/((-0x49+2091))do local b;local i;local n;l[e[k]]=e[U];o=o+d;e=a[o];l[e[r]]=e[t];o=o+d;e=a[o];l[e[c]]=l[e[f]];o=o+d;e=a[o];l[e[r]]=e[w];o=o+d;e=a[o];n=e[h];i=l[n]b=l[n+2];if(b>0)then if(i>l[n+1])then o=e[w];else l[n+3]=i;end elseif(i<l[n+1])then o=e[O];else l[n+3]=i;end break end;break;end break;end while(n)/((-#'monkey mode'+(739278/0xc9)))==1071 do n=(387040)while(0x72e7/185)>=s do n-= n l[e[i]]=l[e[w]]^e[C];break;end while(n)/((582979/0xf1))==160 do n=(9377022)while s>(-#"balls"+(-0x3d+(0x53de/95)))do n-= n local t;local n;l[e[i]][e[w]]=l[e[S]];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];n=e[h];t=l[e[f]];l[n+1]=t;l[n]=t[e[S]];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[c]]=m[e[w]];o=o+d;e=a[o];l[e[b]]=l[e[f]][e[D]];o=o+d;e=a[o];l[e[r]]=e[O];o=o+d;e=a[o];l[e[h]]=e[U];o=o+d;e=a[o];l[e[k]]=e[w];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[x]))break end while 2974==(n)/((545469/0xad))do l[e[i]]=l[e[w]]/l[e[N]];break end;break;end break;end break;end while(n)/((481+-0x5a))==766 do n=(3580124)while s<=(358-0xc2)do n-= n n=(6359040)while s<=(-#"Negro"+(3841/0x17))do n-= n local n;l[e[c]]=u[e[t]];o=o+d;e=a[o];l[e[r]]=u[e[w]];o=o+d;e=a[o];n=e[c]l[n]=l[n]()o=o+d;e=a[o];l[e[i]]=u[e[O]];o=o+d;e=a[o];l[e[h]]=l[e[O]][e[D]];o=o+d;e=a[o];l[e[b]]=l[e[t]]%l[e[S]];o=o+d;e=a[o];l[e[h]]=u[e[t]];o=o+d;e=a[o];l[e[r]]=l[e[t]][e[D]];o=o+d;e=a[o];l[e[c]]=l[e[x]]/l[e[C]];o=o+d;e=a[o];l[e[h]]=e[U];o=o+d;e=a[o];l[e[c]]=e[O];o=o+d;e=a[o];n=e[r];do return l[n](B(l,n+1,e[x]))end;o=o+d;e=a[o];n=e[c];do return B(l,n,y)end;o=o+d;e=a[o];do return end;break;end while 1920==(n)/((831312/0xfb))do n=(8336582)while s>(8150/0x32)do n-= n local x;local c;local n;l[e[i]]=u[e[t]];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[r]]=l[e[f]]*e[_];o=o+d;e=a[o];l[e[h]]=e[U];o=o+d;e=a[o];n=e[h];c=l[n]x=l[n+2];if(x>0)then if(c>l[n+1])then o=e[t];else l[n+3]=c;end elseif(c<l[n+1])then o=e[t];else l[n+3]=c;end break end while 2666==(n)/((-#[[Deezbutts]]+(3181+-0x2d)))do local n;l[e[b]]=u[e[U]];o=o+d;e=a[o];l[e[r]]=l[e[O]][e[_]];o=o+d;e=a[o];l[e[h]]=l[e[t]];o=o+d;e=a[o];n=e[k]l[n](l[n+M])o=o+d;e=a[o];do return end;break end;break;end break;end while 2246==(n)/((3255-0x67d))do n=(6012864)while(0x6ced/169)>=s do n-= n local d=e[i];local a=l[d]local n=l[d+2];if(n>0)then if(a>l[d+1])then o=e[x];else l[d+3]=a;end elseif(a<l[d+1])then o=e[t];else l[d+3]=a;end break;end while(n)/((-#"Russian letters"+(0x61f8f/155)))==2336 do n=(1403358)while s>(247+-0x51)do n-= n local h;local n;l[e[b]][e[f]]=l[e[C]];o=o+d;e=a[o];n=e[i]l[n](B(l,n+M,e[x]))o=o+d;e=a[o];n=e[r];h=l[e[x]];l[n+1]=h;l[n]=h[e[C]];o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];l[e[k]][e[U]]=e[N];break end while(n)/((81312/0x70))==1933 do local e=e[c];do return B(l,e,y)end;break end;break;end break;end break;end break;end break;end while(n)/((0x3ca0a/(207-0x70)))==2897 do n=(5448288)while(-0x30+227)>=s do n-= n n=(2941770)while s<=(0x180-(334+-0x7b))do n-= n n=(3670380)while(245+-0x4b)>=s do n-= n n=(11205440)while s<=(0x6270/150)do n-= n if(l[e[k]]<=l[e[_]])then o=o+M;else o=e[f];end;break;end while 3880==(n)/(((-0x2d+2947)+-#"dies of cringe"))do n=(5908758)while((((88453/0xc5)+-#'ur mom is hot')-229)+-#"i still cannot find who the fuck asked")<s do n-= n local n;l[e[r]]=u[e[O]];o=o+d;e=a[o];l[e[c]]=u[e[O]];o=o+d;e=a[o];l[e[i]]=l[e[f]][e[D]];o=o+d;e=a[o];l[e[r]]=l[e[U]][e[N]];o=o+d;e=a[o];l[e[i]]=l[e[O]][e[_]];o=o+d;e=a[o];l[e[h]]=l[e[x]][e[_]];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];l[e[i]][e[O]]=l[e[C]];break end while(n)/((1899+-0x61))==3279 do local r;local n;l[e[b]][e[O]]=l[e[S]];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];n=e[b];r=l[e[f]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];l[e[k]][e[x]]=e[S];o=o+d;e=a[o];l[e[h]][e[t]]=e[S];o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];n=e[k];r=l[e[f]];l[n+1]=r;l[n]=r[e[D]];o=o+d;e=a[o];l[e[b]]=e[f];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[f]))break end;break;end break;end while(n)/((-#"FranzJPresents"+(0x3d527/255)))==3780 do n=(7596666)while s<=((-0x64+300)+-#[[Fucking losed 027728272728271]])do n-= n local n;local t;local f,s;local n;l[e[b]]=u[e[U]];o=o+d;e=a[o];l[e[k]]=u[e[w]];o=o+d;e=a[o];l[e[r]]=u[e[w]];o=o+d;e=a[o];l[e[c]]=l[e[O]][e[_]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[_]];o=o+d;e=a[o];n=e[h]f,s=p(l[n](l[n+M]))y=s+n-d t=0;for e=n,y do t=t+d;l[e]=f[t];end;o=o+d;e=a[o];n=e[k]f={l[n](B(l,n+1,y))};t=0;for e=n,e[D]do t=t+d;l[e]=f[t];end o=o+d;e=a[o];o=e[x];break;end while 1914==(n)/((7978-0xfa9))do n=(7353704)while s>(-#'go kys go kys go kys'+(24192/0x7e))do n-= n local h;local n;l[e[c]][e[U]]=l[e[D]];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];n=e[b];h=l[e[f]];l[n+1]=h;l[n]=h[e[S]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[i]][e[w]]=e[D];o=o+d;e=a[o];l[e[k]]=m[e[t]];o=o+d;e=a[o];l[e[r]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[r]]=e[O];o=o+d;e=a[o];l[e[i]]=e[x];o=o+d;e=a[o];l[e[k]]=e[w];break end while 2186==(n)/((6786-0xd5e))do if l[e[k]]then o=o+d;else o=e[f];end;break end;break;end break;end break;end while(n)/(((-46+0x510)+-#'Russian letters'))==2382 do n=(4293593)while s<=(235+-0x3b)do n-= n n=(3925000)while s<=(465-0x123)do n-= n if(l[e[b]]==l[e[C]])then o=o+M;else o=e[t];end;break;end while 1570==(n)/((-#"cilerteddoesntlikeburgers"+(-0x26+2563)))do n=(2471800)while s>(-#"made by kim jong un"+(486-0x124))do n-= n local o=e[k]local n={l[o](B(l,o+1,y))};local a=0;for e=o,e[N]do a=a+d;l[e]=n[a];end break end while(n)/(((174604+-0x7c)/120))==1700 do l[e[r]]=l[e[O]][e[C]];o=o+d;e=a[o];l[e[r]][e[x]]=l[e[S]];o=o+d;e=a[o];l[e[c]]=u[e[f]];o=o+d;e=a[o];l[e[k]]=l[e[w]][e[N]];o=o+d;e=a[o];if not l[e[b]]then o=o+M;else o=e[f];end;break end;break;end break;end while(n)/((((-#[[i fucked your dad]]+(283868/0x67))-0x56e)+-#"atakan der nigga"))==3221 do n=(5098299)while s<=(0x104+-83)do n-= n local i;local n;l[e[b]][e[O]]=l[e[D]];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[t]))o=o+d;e=a[o];n=e[k];i=l[e[O]];l[n+1]=i;l[n]=i[e[_]];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[b]][e[f]]=e[_];o=o+d;e=a[o];l[e[b]][e[f]]=e[_];o=o+d;e=a[o];l[e[r]][e[t]]=e[D];o=o+d;e=a[o];l[e[r]][e[w]]=e[S];o=o+d;e=a[o];l[e[k]][e[U]]=e[D];o=o+d;e=a[o];l[e[r]][e[x]]=e[_];break;end while 3943==(n)/(((0x165ee/70)+-#[[cruz pp is large]]))do n=(3828510)while(-#"jtoh is cringe ngl"+(((30-0x22)+-#'if syn request then print your mom then end and then kill yourself')+266))<s do n-= n local o=e[r];do return B(l,o,o+e[w])end;break end while 2065==(n)/(((0xb2594-365278)/0xc5))do l[e[h]][e[x]]=e[C];o=o+d;e=a[o];l[e[r]]=l[e[w]][e[N]];o=o+d;e=a[o];l[e[r]][e[x]]=e[C];o=o+d;e=a[o];l[e[r]]=l[e[x]][e[S]];o=o+d;e=a[o];l[e[b]][e[f]]=e[C];o=o+d;e=a[o];l[e[i]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[k]][e[w]]=e[S];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[i]][e[x]]=e[S];o=o+d;e=a[o];l[e[c]]=l[e[w]][e[D]];break end;break;end break;end break;end break;end while 3306==(n)/((0xd11-1697))do n=(830640)while s<=(-34+0xdb)do n-= n n=(5332956)while(1638/0x9)>=s do n-= n n=(2107890)while s<=((0x2968/53)+-#"Impulse youtube real")do n-= n if(e[k]<=l[e[P]])then o=o+M;else o=e[x];end;break;end while 1899==(n)/((1197+-0x57))do n=(10141184)while(0x95e4/212)<s do n-= n l[e[h]]=l[e[O]];break end while(n)/((0x69200/116))==2732 do l[e[r]]=l[e[f]];break end;break;end break;end while 1563==(n)/((-#'nicowashere'+(0xdc7+-104)))do n=(1865206)while s<=((0x68a0/96)+-96)do n-= n local i=v[e[t]];local r;local d={};r=K({},{__index=function(o,e)local e=d[e];return e[1][e[2]];end,__newindex=function(l,e,o)local e=d[e]e[1][e[2]]=o;end;});for n=1,e[D]do o=o+M;local e=a[o];if e[(0x4f/79)]==182 then d[n-1]={l,e[O]};else d[n-1]={u,e[U]};end;z[#z+1]=d;end;l[e[k]]=A(i,r,m);break;end while(n)/((0x1815e/107))==2023 do n=(1566845)while s>(0x1e6-302)do n-= n local k;local n;l[e[c]][e[U]]=l[e[_]];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[t]))o=o+d;e=a[o];l[e[c]][e[t]]=l[e[P]];o=o+d;e=a[o];n=e[i];k=l[e[x]];l[n+1]=k;l[n]=k[e[P]];o=o+d;e=a[o];l[e[r]]=e[f];o=o+d;e=a[o];n=e[b]l[n](B(l,n+M,e[f]))o=o+d;e=a[o];n=e[r];k=l[e[w]];l[n+1]=k;l[n]=k[e[D]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[h]][e[f]]=e[S];o=o+d;e=a[o];l[e[b]]=l[e[t]][e[P]];break end while(n)/((-63+0xc6a))==503 do local u;local s;local n;l[e[i]]=l[e[x]][e[S]];o=o+d;e=a[o];l[e[i]]=e[x];o=o+d;e=a[o];n=e[k]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[h]]=m[e[x]];o=o+d;e=a[o];n=e[c];s=l[e[x]];l[n+1]=s;l[n]=s[e[C]];o=o+d;e=a[o];l[e[r]]=e[O];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];l[e[r]][e[x]]=l[e[C]];o=o+d;e=a[o];l[e[k]]=e[x];o=o+d;e=a[o];l[e[h]]=m[e[x]];o=o+d;e=a[o];s=e[U];u=l[s]for e=s+1,e[N]do u=u..l[e];end;l[e[b]]=u;o=o+d;e=a[o];l[e[c]][e[f]]=l[e[D]];o=o+d;e=a[o];l[e[c]][e[t]]=e[P];o=o+d;e=a[o];n=e[r];s=l[e[t]];l[n+1]=s;l[n]=s[e[P]];o=o+d;e=a[o];n=e[h]l[n](l[n+M])break end;break;end break;end break;end while 240==(n)/((-0x4c+(127332/0x24)))do n=(70950)while(-70+(-0x6f+369))>=s do n-= n n=(7373101)while s<=(0x19f-229)do n-= n l[e[r]]=(e[t]~=0);break;end while 1973==(n)/((0xef6+-93))do n=(51219)while s>(7854/0x2a)do n-= n l[e[k]]=u[e[t]];o=o+d;e=a[o];l[e[i]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[c]]=l[e[O]][e[C]];o=o+d;e=a[o];l[e[i]][e[t]]=e[C];o=o+d;e=a[o];do return end;break end while(n)/((156096/0x40))==21 do local n;l[e[i]]=l[e[t]][e[S]];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];l[e[h]][e[U]]=l[e[_]];o=o+d;e=a[o];l[e[r]]=u[e[f]];o=o+d;e=a[o];l[e[h]]=u[e[t]];o=o+d;e=a[o];l[e[h]]=l[e[x]][e[S]];o=o+d;e=a[o];l[e[r]]=u[e[f]];o=o+d;e=a[o];l[e[r]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[i]]=l[e[t]]-l[e[C]];o=o+d;e=a[o];l[e[c]]=u[e[w]];break end;break;end break;end while 825==(n)/(((17066/0xa1)+-#"impulse was here omg"))do n=(84480)while s<=((1-0x3c)+249)do n-= n n=(884619)while s>(-0x7c+313)do n-= n local u;local i;local s;local n;l[e[k]]=m[e[f]];o=o+d;e=a[o];l[e[b]]=l[e[O]][e[S]];o=o+d;e=a[o];n=e[h];s=l[e[x]];l[n+1]=s;l[n]=s[e[S]];o=o+d;e=a[o];l[e[b]]=l[e[w]];o=o+d;e=a[o];l[e[c]]=l[e[f]];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];n=e[b];s=l[e[x]];l[n+1]=s;l[n]=s[e[S]];o=o+d;e=a[o];n=e[h]l[n]=l[n](l[n+M])o=o+d;e=a[o];i={l,e};i[M][i[g][b]]=i[d][i[g][C]]+i[M][i[g][x]];o=o+d;e=a[o];l[e[r]]=l[e[O]]%e[D];o=o+d;e=a[o];n=e[c]l[n]=l[n](l[n+M])o=o+d;e=a[o];s=e[f];u=l[s]for e=s+1,e[P]do u=u..l[e];end;l[e[c]]=u;o=o+d;e=a[o];i={l,e};i[M][i[g][h]]=i[d][i[g][N]]+i[M][i[g][U]];o=o+d;e=a[o];l[e[r]]=l[e[t]]%e[N];break end while 3897==(n)/((266+-0x27))do local n;n=e[h]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];l[e[h]][e[t]]=l[e[S]];o=o+d;e=a[o];l[e[r]]=u[e[x]];o=o+d;e=a[o];l[e[h]]=l[e[w]][e[_]];o=o+d;e=a[o];if l[e[r]]then o=o+d;else o=e[x];end;break end;break;end while 1920==(n)/((-0x27+83))do n=(11150928)while(0x7a5c/164)<s do n-= n local o=e[c]l[o]=l[o](B(l,o+d,e[t]))break end while(n)/((0x2b8ba/54))==3376 do local n;u[e[x]]=l[e[r]];o=o+d;e=a[o];l[e[i]]=u[e[w]];o=o+d;e=a[o];l[e[k]]=u[e[O]];o=o+d;e=a[o];n=e[r];do return l[n](B(l,n+1,e[U]))end;o=o+d;e=a[o];n=e[h];do return B(l,n,y)end;o=o+d;e=a[o];do return end;break end;break;end break;end break;end break;end break;end break;end break;end break;end while 3776==(n)/((289429/0xef))do n=(7573382)while(32079/0x6f)>=s do n-= n n=(4518066)while s<=(45600/0xbe)do n-= n n=(97728)while s<=((-0x63+353)+-#"i still cannot find who the fuck asked")do n-= n n=(5068734)while(0x1e9-285)>=s do n-= n n=(678456)while s<=((568-(-#"warboy hates you"+(71829/0xcf)))+-#[[psx real dupe steal all ur pets no joke]])do n-= n n=(9573488)while s<=((0x429-556)-0x13a)do n-= n n=(4887435)while((520-0x12e)+-#[[cilerteddoesntlikeburgers]])>=s do n-= n local e=e[i]l[e]=l[e]()break;end while 1569==(n)/(((0xcaa+-101)+-#"You are an absolute baboon"))do n=(102850)while s>(0x6100/128)do n-= n local o=e[i]l[o](B(l,o+M,e[x]))break end while(n)/((665-0x186))==374 do if(l[e[b]]<=l[e[S]])then o=e[t];else o=o+M;end;break end;break;end break;end while(n)/((0x86500/224))==3898 do n=(4356072)while s<=((589-0x152)+-0x37)do n-= n local r;local n;l[e[c]]=u[e[t]];o=o+d;e=a[o];n=e[b];r=l[e[w]];l[n+1]=r;l[n]=r[e[D]];o=o+d;e=a[o];l[e[i]]=e[w];o=o+d;e=a[o];l[e[k]]=l[e[x]];o=o+d;e=a[o];n=e[i]l[n](B(l,n+M,e[O]))o=o+d;e=a[o];do return end;break;end while(n)/((0x8db94/250))==1876 do n=(7852713)while s>(9062/0x2e)do n-= n l[e[k]]=l[e[t]][e[C]];break end while(n)/((0xffb-2078))==3901 do l[e[i]]=u[e[t]];o=o+d;e=a[o];l[e[r]]=e[x];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[k]]=u[e[f]];o=o+d;e=a[o];l[e[b]]=l[e[O]][e[D]];o=o+d;e=a[o];l[e[h]][e[f]]=l[e[_]];o=o+d;e=a[o];l[e[h]]=u[e[f]];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[_]];o=o+d;e=a[o];l[e[r]][e[O]]=l[e[D]];o=o+d;e=a[o];l[e[k]]=u[e[U]];break end;break;end break;end break;end while 698==(n)/((-#[[go kys go kys go kys]]+(0x839-(2333-0x4c4))))do n=(1053795)while s<=(0x1ef-294)do n-= n n=(59444)while s<=(-0x1d+228)do n-= n if(l[e[i]]==e[S])then o=o+M;else o=e[w];end;break;end while 386==(n)/((((-29+0x1c5)-0x109)+-#"Negro"))do n=(214656)while s>(-60+0x104)do n-= n l[e[c]]=u[e[x]];o=o+d;e=a[o];l[e[r]]=l[e[U]][e[_]];o=o+d;e=a[o];l[e[h]]=l[e[U]][e[N]];o=o+d;e=a[o];l[e[b]][e[w]]=l[e[D]];o=o+d;e=a[o];do return end;break end while(n)/((-21+0x1b5))==516 do l[e[k]]=m[e[O]];break end;break;end break;end while(n)/(((40719/0x31)+-#[[Fucking Retarted]]))==1293 do n=(1233312)while(0x1af-229)>=s do n-= n local h;local n;l[e[i]][e[x]]=l[e[N]];o=o+d;e=a[o];n=e[r]l[n](B(l,n+M,e[U]))o=o+d;e=a[o];n=e[k];h=l[e[x]];l[n+1]=h;l[n]=h[e[_]];o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];l[e[r]][e[w]]=e[_];o=o+d;e=a[o];l[e[r]][e[f]]=e[P];break;end while(n)/(((518+-0x29)+-#[[Bush Did 9 11]]))==2658 do n=(2549862)while s>((0xff+-36)+-#"Fucking Retarted")do n-= n l[e[r]]=l[e[x]]*l[e[C]];break end while 826==(n)/((734706/0xee))do local r;local n;l[e[c]]=u[e[w]];o=o+d;e=a[o];n=e[c];r=l[e[w]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[b]]=e[U];o=o+d;e=a[o];l[e[k]]=l[e[w]];o=o+d;e=a[o];n=e[i]l[n](B(l,n+M,e[w]))o=o+d;e=a[o];do return end;break end;break;end break;end break;end break;end while 1342==(n)/((-0x2f+3824))do n=(2831741)while(271+-0x3d)>=s do n-= n n=(2820829)while s<=(-#"testpsx dupe no scam legit 2022 free no virus"+(0x12d+-49))do n-= n n=(2239050)while s<=((0x26425b/81)/151)do n-= n local o=e[c]local a,e=p(l[o](B(l,o+1,e[w])))y=e+o-1 local e=0;for o=o,y do e=e+d;l[o]=a[e];end;break;end while 1518==(n)/((-#[[free pornhub premium]]+(3022-0x5f7)))do n=(10592857)while s>(-#'Only a to Z 0 to 9 is allowed'+(0x200-277))do n-= n l[e[i]]=A(v[e[w]],nil,m);break end while 3091==(n)/(((0xd8b+-16)+-#'moonsec got deobfuscated'))do local n;l[e[h]]=l[e[U]][e[N]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[r]][e[w]]=l[e[P]];o=o+d;e=a[o];l[e[i]][e[O]]=e[_];o=o+d;e=a[o];l[e[b]][e[x]]=e[C];o=o+d;e=a[o];l[e[r]][e[U]]=e[P];o=o+d;e=a[o];l[e[k]][e[t]]=e[D];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[c]][e[U]]=e[N];o=o+d;e=a[o];l[e[c]][e[t]]=e[N];o=o+d;e=a[o];l[e[c]]=l[e[U]];o=o+d;e=a[o];l[e[i]]=e[f];o=o+d;e=a[o];l[e[r]]=e[O];o=o+d;e=a[o];l[e[b]]=e[f];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];l[e[b]][e[f]]=l[e[N]];o=o+d;e=a[o];l[e[r]]=l[e[O]];o=o+d;e=a[o];l[e[c]]=e[t];o=o+d;e=a[o];l[e[h]]=e[O];o=o+d;e=a[o];l[e[b]]=e[x];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];l[e[i]][e[w]]=l[e[N]];o=o+d;e=a[o];l[e[k]][e[t]]=l[e[C]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[h]][e[t]]=e[D];o=o+d;e=a[o];l[e[i]][e[x]]=e[D];o=o+d;e=a[o];l[e[i]]=l[e[U]];o=o+d;e=a[o];l[e[r]]=e[f];o=o+d;e=a[o];l[e[h]]=e[O];o=o+d;e=a[o];l[e[k]]=e[x];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[t]))o=o+d;e=a[o];l[e[b]][e[U]]=l[e[D]];o=o+d;e=a[o];l[e[r]]=l[e[x]];o=o+d;e=a[o];l[e[b]]=e[f];o=o+d;e=a[o];l[e[i]]=e[t];o=o+d;e=a[o];l[e[h]]=e[O];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];l[e[b]][e[O]]=l[e[D]];o=o+d;e=a[o];l[e[i]][e[O]]=l[e[_]];o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];l[e[r]][e[w]]=e[C];o=o+d;e=a[o];l[e[i]][e[x]]=e[S];o=o+d;e=a[o];l[e[k]]=l[e[w]];o=o+d;e=a[o];l[e[r]]=e[U];o=o+d;e=a[o];l[e[i]]=e[O];o=o+d;e=a[o];l[e[i]]=e[f];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];l[e[h]][e[U]]=l[e[D]];o=o+d;e=a[o];l[e[r]]=l[e[w]];o=o+d;e=a[o];l[e[i]]=e[O];o=o+d;e=a[o];l[e[k]]=e[w];o=o+d;e=a[o];l[e[h]]=e[w];o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];l[e[k]][e[U]]=l[e[_]];o=o+d;e=a[o];l[e[k]][e[t]]=l[e[N]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[r]][e[w]]=e[_];o=o+d;e=a[o];l[e[k]][e[x]]=e[P];o=o+d;e=a[o];l[e[r]]=l[e[x]];o=o+d;e=a[o];l[e[h]]=e[w];o=o+d;e=a[o];l[e[i]]=e[U];o=o+d;e=a[o];l[e[c]]=e[f];o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];l[e[k]][e[x]]=l[e[_]];o=o+d;e=a[o];l[e[r]]=l[e[t]];o=o+d;e=a[o];l[e[r]]=e[x];o=o+d;e=a[o];l[e[r]]=e[U];o=o+d;e=a[o];l[e[k]]=e[t];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];l[e[h]][e[w]]=l[e[P]];o=o+d;e=a[o];l[e[k]][e[f]]=l[e[C]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[h]][e[x]]=e[D];o=o+d;e=a[o];l[e[b]][e[x]]=e[S];o=o+d;e=a[o];l[e[c]]=l[e[U]];o=o+d;e=a[o];l[e[r]]=e[w];o=o+d;e=a[o];l[e[h]]=e[t];o=o+d;e=a[o];l[e[r]]=e[t];break end;break;end break;end while 2539==(n)/((6666/0x6))do n=(5252290)while(0x3260/((233-0x9d)+-#'FranzJPresents'))>=s do n-= n local w;local n;l[e[b]][e[x]]=l[e[_]];o=o+d;e=a[o];n=e[c]l[n](B(l,n+M,e[x]))o=o+d;e=a[o];n=e[r];w=l[e[f]];l[n+1]=w;l[n]=w[e[N]];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[k]][e[O]]=e[S];o=o+d;e=a[o];l[e[b]][e[t]]=e[C];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];n=e[h];w=l[e[x]];l[n+1]=w;l[n]=w[e[P]];o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];l[e[r]][e[t]]=e[N];break;end while(n)/((4411-0x8c6))==2426 do n=(4720260)while((28462/0x85)+-#'false')<s do n-= n if l[e[i]]then o=o+d;else o=e[O];end;break end while 2084==(n)/((-#[[hypeblox likes sucking big black cock]]+(0x5ddb2/167)))do local r;local n;l[e[c]][e[f]]=l[e[_]];o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];l[e[c]][e[t]]=l[e[P]];o=o+d;e=a[o];n=e[c];r=l[e[t]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[b]]=e[f];o=o+d;e=a[o];n=e[k]l[n](B(l,n+M,e[f]))o=o+d;e=a[o];n=e[k];r=l[e[f]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];l[e[c]][e[U]]=e[D];o=o+d;e=a[o];l[e[i]]=l[e[t]][e[C]];break end;break;end break;end break;end while(n)/((-#[[real roblox omg builderman caught playing real]]+(0x1c30-3617)))==797 do n=(1802080)while s<=(2982/0xe)do n-= n n=(1780884)while s<=(0x903d/175)do n-= n local n;n=e[r]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];l[e[i]][e[t]]=l[e[D]];o=o+d;e=a[o];l[e[b]]=l[e[f]];o=o+d;e=a[o];l[e[r]]=e[f];o=o+d;e=a[o];l[e[h]]=e[O];o=o+d;e=a[o];l[e[r]]=e[f];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];l[e[b]][e[f]]=l[e[D]];o=o+d;e=a[o];l[e[c]][e[f]]=l[e[P]];o=o+d;e=a[o];l[e[k]][e[U]]=l[e[C]];break;end while(n)/((0x9acb0/(0xa758/210)))==573 do n=(1580260)while s>(-0x18+236)do n-= n local n;l[e[h]]=u[e[t]];o=o+d;e=a[o];l[e[i]]=l[e[x]][e[P]];o=o+d;e=a[o];n=e[h]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[b]]=l[e[t]][e[P]];o=o+d;e=a[o];l[e[i]][l[e[U]]]=l[e[S]];break end while(n)/(((84968/0xac)+-#'send nudes'))==3265 do local n;l[e[h]]=u[e[U]];o=o+d;e=a[o];l[e[i]]=l[e[f]][e[S]];o=o+d;e=a[o];n=e[i]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[h]]=l[e[U]][e[C]];o=o+d;e=a[o];l[e[k]][l[e[f]]]=l[e[N]];break end;break;end break;end while(n)/((1235+-0x73))==1609 do n=(7854760)while s<=(0x23f2/43)do n-= n local d=e[h];local n=l[d+2];local a=l[d]+n;l[d]=a;if(n>0)then if(a<=l[d+1])then o=e[f];l[d+3]=a;end elseif(a>=l[d+1])then o=e[w];l[d+3]=a;end break;end while(n)/((0x44cd4/(0x2a3a/115)))==2620 do n=(4050657)while s>(-#[[0nly segc]]+(284+-0x3c))do n-= n if(l[e[c]]~=l[e[S]])then o=o+M;else o=e[f];end;break end while(n)/((-#"real roblox omg builderman caught playing real"+(0x9d8-1307)))==3471 do local r;local n;l[e[h]][e[O]]=l[e[N]];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];l[e[c]][e[O]]=l[e[P]];o=o+d;e=a[o];n=e[h];r=l[e[t]];l[n+1]=r;l[n]=r[e[P]];o=o+d;e=a[o];l[e[b]]=e[O];o=o+d;e=a[o];n=e[i]l[n](B(l,n+M,e[O]))o=o+d;e=a[o];n=e[c];r=l[e[t]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];l[e[c]][e[t]]=e[C];o=o+d;e=a[o];l[e[i]]=l[e[t]][e[S]];break end;break;end break;end break;end break;end break;end while 4072==(n)/((0x74-92))do n=(10364952)while((-0x63+352)+-#[[cilerteddoesntlikeburgers]])>=s do n-= n n=(697242)while s<=(0x20b-301)do n-= n n=(1672076)while(8760/0x28)>=s do n-= n n=(8773792)while s<=(32984/0x98)do n-= n local d=e[w];local o=l[d]for e=d+1,e[S]do o=o..l[e];end;l[e[h]]=o;break;end while(n)/((0xcc808/215))==2252 do n=(7269849)while s>(0x22d-339)do n-= n local r;local h,w;local n;l[e[c]]=l[e[x]];o=o+d;e=a[o];l[e[i]]=e[f];o=o+d;e=a[o];l[e[b]]=e[x];o=o+d;e=a[o];n=e[k]h,w=p(l[n](B(l,n+1,e[O])))y=w+n-1 r=0;for e=n,y do r=r+d;l[e]=h[r];end;o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,y))break end while(n)/((0x807+(-0x4d-19)))==3711 do do return l[e[c]]end break end;break;end break;end while 931==(n)/((0x75f+-91))do n=(408480)while s<=((0x23d-333)+-#"go kys go kys go kys")do n-= n l[e[k]]=u[e[U]];break;end while 736==(n)/((0x4b4-649))do n=(129129)while s>(0x106+-41)do n-= n local d=l[e[_]];if not d then o=o+M;else l[e[b]]=d;o=e[x];end;break end while(n)/((171-0x80))==3003 do local r;local n;local h;l[e[b]]=m[e[t]];o=o+d;e=a[o];l[e[k]]=e[w];o=o+d;e=a[o];l[e[b]]=l[e[x]];o=o+d;e=a[o];h=e[t];n=l[h]for e=h+1,e[C]do n=n..l[e];end;l[e[i]]=n;o=o+d;e=a[o];r=e[i]l[r](l[r+M])o=o+d;e=a[o];do return end;break end;break;end break;end break;end while 273==(n)/((5169-(0x69573/165)))do n=(3940330)while(-#"0nly was here mf"+(0x4b50/80))>=s do n-= n n=(800280)while(-#"Obfuscated By Obamas Left Nut"+(0x15c+-96))>=s do n-= n local n;l[e[c]]=l[e[U]][e[_]];o=o+d;e=a[o];l[e[r]]=m[e[x]];o=o+d;e=a[o];l[e[i]]=l[e[x]][e[N]];o=o+d;e=a[o];l[e[h]]=m[e[t]];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[S]];o=o+d;e=a[o];l[e[h]]=m[e[x]];o=o+d;e=a[o];l[e[r]]=l[e[U]][e[N]];o=o+d;e=a[o];l[e[c]]=m[e[x]];o=o+d;e=a[o];l[e[c]]=l[e[O]][e[S]];o=o+d;e=a[o];l[e[r]]=m[e[O]];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[C]];o=o+d;e=a[o];l[e[k]]=m[e[U]];o=o+d;e=a[o];l[e[c]]=l[e[t]][e[N]];o=o+d;e=a[o];l[e[k]]=m[e[U]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[P]];o=o+d;e=a[o];l[e[i]]=m[e[t]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[P]];o=o+d;e=a[o];l[e[k]]=m[e[w]];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[C]];o=o+d;e=a[o];l[e[k]]=m[e[x]];o=o+d;e=a[o];l[e[c]]=l[e[x]][e[P]];o=o+d;e=a[o];l[e[h]]=m[e[x]];o=o+d;e=a[o];l[e[r]]=l[e[f]][e[P]];o=o+d;e=a[o];l[e[i]]=m[e[f]];o=o+d;e=a[o];l[e[h]]=l[e[U]][e[_]];o=o+d;e=a[o];l[e[b]]=m[e[O]];o=o+d;e=a[o];l[e[i]]=l[e[O]][e[C]];o=o+d;e=a[o];l[e[i]]=m[e[O]];o=o+d;e=a[o];l[e[c]]=l[e[f]][e[D]];o=o+d;e=a[o];l[e[i]]=m[e[x]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[k]]=m[e[f]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[D]];o=o+d;e=a[o];l[e[c]]=m[e[t]];o=o+d;e=a[o];l[e[r]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[h]]=m[e[t]];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[S]];o=o+d;e=a[o];l[e[c]]=m[e[O]];o=o+d;e=a[o];l[e[r]]=l[e[t]][e[P]];o=o+d;e=a[o];l[e[i]]=m[e[x]];o=o+d;e=a[o];l[e[i]]=l[e[f]][e[P]];o=o+d;e=a[o];l[e[c]]=m[e[O]];o=o+d;e=a[o];l[e[b]]=l[e[O]][e[S]];o=o+d;e=a[o];l[e[b]]=m[e[O]];o=o+d;e=a[o];l[e[r]]=l[e[f]][e[_]];o=o+d;e=a[o];l[e[i]]=m[e[t]];o=o+d;e=a[o];l[e[k]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[i]]=m[e[f]];o=o+d;e=a[o];l[e[b]]=l[e[f]][e[N]];o=o+d;e=a[o];l[e[h]]=m[e[w]];o=o+d;e=a[o];l[e[h]]=l[e[U]][e[N]];o=o+d;e=a[o];l[e[r]]=m[e[x]];o=o+d;e=a[o];l[e[h]]=l[e[O]][e[_]];o=o+d;e=a[o];l[e[b]]=l[e[t]];o=o+d;e=a[o];l[e[b]]=m[e[U]];o=o+d;e=a[o];l[e[c]]=e[x];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];l[e[k]]=l[e[t]][e[D]];o=o+d;e=a[o];l[e[k]]=l[e[t]];o=o+d;e=a[o];n=e[b]l[n]=l[n]()o=o+d;e=a[o];l[e[c]]=l[e[x]][e[N]];o=o+d;e=a[o];l[e[k]]=l[e[O]];o=o+d;e=a[o];n=e[k]l[n]=l[n]()o=o+d;e=a[o];l[e[r]]=l[e[O]][e[C]];o=o+d;e=a[o];l[e[b]]=l[e[O]];o=o+d;e=a[o];n=e[c]l[n]=l[n]()o=o+d;e=a[o];l[e[r]]=l[e[t]][e[P]];o=o+d;e=a[o];l[e[i]]=m[e[x]];o=o+d;e=a[o];l[e[b]]=l[e[O]][e[D]];o=o+d;e=a[o];l[e[k]]=m[e[U]];o=o+d;e=a[o];l[e[k]]=m[e[w]];o=o+d;e=a[o];l[e[c]]=m[e[w]];o=o+d;e=a[o];l[e[b]]=m[e[t]];o=o+d;e=a[o];l[e[k]]=m[e[U]];o=o+d;e=a[o];l[e[b]]=m[e[w]];o=o+d;e=a[o];l[e[k]]=m[e[x]];o=o+d;e=a[o];l[e[r]]=m[e[O]];o=o+d;e=a[o];l[e[h]]=m[e[U]];o=o+d;e=a[o];l[e[r]]=l[e[U]];o=o+d;e=a[o];l[e[i]]=l[e[O]];break;end while 570==(n)/((1432+-0x1c))do n=(3237696)while s>(0x5cc0/106)do n-= n local c;local n;l[e[k]][e[O]]=l[e[N]];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];n=e[r];c=l[e[U]];l[n+1]=c;l[n]=c[e[N]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[k]][e[O]]=e[D];o=o+d;e=a[o];l[e[h]][e[f]]=e[S];o=o+d;e=a[o];l[e[i]][e[U]]=e[_];o=o+d;e=a[o];l[e[b]][e[O]]=e[S];o=o+d;e=a[o];l[e[b]][e[f]]=e[D];o=o+d;e=a[o];l[e[h]][e[f]]=e[S];break end while(n)/((0x31ee0/83))==1314 do local h;local n;n=e[c];h=l[e[x]];l[n+1]=h;l[n]=h[e[D]];o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];l[e[c]][e[f]]=e[N];o=o+d;e=a[o];l[e[i]]=l[e[x]][e[P]];o=o+d;e=a[o];l[e[i]][e[t]]=l[e[P]];o=o+d;e=a[o];n=e[i];h=l[e[f]];l[n+1]=h;l[n]=h[e[C]];o=o+d;e=a[o];n=e[b]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[i]][e[O]]=l[e[N]];o=o+d;e=a[o];l[e[r]][e[w]]=e[P];break end;break;end break;end while 2063==(n)/(((410895/0xcf)+-#'brawl stars hard gay porn shelly nsked minecraft gay porn roblox rule34 hot'))do n=(2609561)while(0x128+(-88+0x12))>=s do n-= n l[e[h]][e[f]]=e[P];o=o+d;e=a[o];l[e[k]]=l[e[U]][e[N]];o=o+d;e=a[o];l[e[i]][e[t]]=e[N];o=o+d;e=a[o];l[e[h]]=l[e[t]][e[_]];o=o+d;e=a[o];l[e[r]][e[w]]=e[N];o=o+d;e=a[o];l[e[k]]=l[e[f]][e[S]];o=o+d;e=a[o];l[e[i]][e[x]]=e[D];o=o+d;e=a[o];l[e[h]]=l[e[U]][e[N]];o=o+d;e=a[o];l[e[c]][e[U]]=e[C];o=o+d;e=a[o];l[e[r]]=l[e[f]][e[P]];o=o+d;e=a[o];l[e[c]][e[U]]=e[C];o=o+d;e=a[o];l[e[i]]=l[e[t]][e[P]];o=o+d;e=a[o];l[e[c]][e[O]]=e[N];o=o+d;e=a[o];o=e[x];break;end while 2809==(n)/((982+-0x35))do n=(540904)while(0x11bc/20)<s do n-= n local i;local n;l[e[c]][e[O]]=l[e[D]];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[t]))o=o+d;e=a[o];n=e[c];i=l[e[x]];l[n+1]=i;l[n]=i[e[S]];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[r]][e[t]]=e[N];o=o+d;e=a[o];l[e[r]][e[U]]=e[C];break end while(n)/((0x102c8/182))==1486 do local w;local n;l[e[h]][e[x]]=l[e[D]];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[t]))o=o+d;e=a[o];n=e[i];w=l[e[t]];l[n+1]=w;l[n]=w[e[D]];o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];l[e[c]]=m[e[t]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[C]];o=o+d;e=a[o];l[e[k]]=e[t];o=o+d;e=a[o];l[e[r]]=e[O];o=o+d;e=a[o];l[e[c]]=e[x];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[U]))break end;break;end break;end break;end break;end while 3336==(n)/((((915675/0x91)+-#"W4rboy was here")-0xc79))do n=(231609)while(-#[[nicowashere]]+(0x113a/18))>=s do n-= n n=(7061376)while(-#[[Crackzzzz]]+(0x1fe-270))>=s do n-= n n=(5732425)while s<=((0x109b3/237)+-#'papier der afghaner wurde von nice dem bombenleger gefickt')do n-= n local b;local U,t;local n;l[e[k]]=e[x];o=o+d;e=a[o];l[e[r]]=l[e[w]];o=o+d;e=a[o];l[e[c]]=u[e[w]];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[N]];o=o+d;e=a[o];n=e[h]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[k]]=u[e[O]];o=o+d;e=a[o];l[e[k]]=l[e[w]][e[P]];o=o+d;e=a[o];n=e[k]U,t=p(l[n](l[n+M]))y=t+n-d b=0;for e=n,y do b=b+d;l[e]=U[b];end;o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,y))o=o+d;e=a[o];l[e[i]]=l[e[f]];break;end while(n)/((-#'Shrimps was here'+(5037-0xa06)))==2335 do n=(4354428)while s>(10120/0x2c)do n-= n local n;l[e[b]]=u[e[x]];o=o+d;e=a[o];l[e[h]]=u[e[O]];o=o+d;e=a[o];l[e[i]]=l[e[x]][e[_]];o=o+d;e=a[o];l[e[k]]=l[e[x]][e[S]];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[k]]=l[e[U]][e[D]];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];l[e[r]][e[w]]=l[e[P]];o=o+d;e=a[o];o=e[U];break end while(n)/(((2632-0x535)+-#"Luraph v13 has been released changed absolutely fucking nothing"))==3523 do local b;local n;n=e[i];b=l[e[x]];l[n+1]=b;l[n]=b[e[N]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[i]][e[t]]=e[S];o=o+d;e=a[o];n=e[r];b=l[e[O]];l[n+1]=b;l[n]=b[e[S]];o=o+d;e=a[o];n=e[i]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[i]][e[x]]=l[e[P]];o=o+d;e=a[o];l[e[k]][e[f]]=e[P];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];n=e[r];b=l[e[f]];l[n+1]=b;l[n]=b[e[P]];o=o+d;e=a[o];l[e[i]]=e[f];break end;break;end break;end while 3552==(n)/((0x78da4/((398+-0x77)+-#"impulse was here pastebin reel")))do n=(5181498)while s<=((0xb520/184)+-#"sex in fortnite real")do n-= n l[e[h]][l[e[x]]]=l[e[C]];break;end while 2142==(n)/((-#"if true then return your dad"+(0x9be+-47)))do n=(2176584)while s>(0xd328/232)do n-= n local r;local n;l[e[b]][e[w]]=l[e[S]];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];n=e[c];r=l[e[O]];l[n+1]=r;l[n]=r[e[P]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[h]][e[t]]=e[P];o=o+d;e=a[o];l[e[k]][e[x]]=e[_];o=o+d;e=a[o];l[e[h]][e[x]]=e[S];o=o+d;e=a[o];l[e[h]][e[f]]=e[S];o=o+d;e=a[o];l[e[h]][e[U]]=e[C];o=o+d;e=a[o];l[e[i]][e[f]]=e[_];break end while 2038==(n)/((0x2a3d8/162))do local s;local n;l[e[b]]=u[e[t]];o=o+d;e=a[o];l[e[k]]=l[e[x]][e[P]];o=o+d;e=a[o];l[e[b]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[h]]=l[e[U]][e[P]];o=o+d;e=a[o];l[e[h]]=u[e[O]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[_]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[D]];o=o+d;e=a[o];l[e[k]]=m[e[f]];o=o+d;e=a[o];l[e[b]]=l[e[O]][e[D]];o=o+d;e=a[o];l[e[i]]=e[w];o=o+d;e=a[o];l[e[h]]=e[U];o=o+d;e=a[o];l[e[b]]=e[x];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[t]))o=o+d;e=a[o];l[e[c]][e[t]]=l[e[P]];o=o+d;e=a[o];l[e[h]]=u[e[t]];o=o+d;e=a[o];l[e[k]]=l[e[t]][e[C]];o=o+d;e=a[o];l[e[r]]=l[e[U]][e[_]];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[_]];o=o+d;e=a[o];n=e[r];s=l[e[O]];l[n+1]=s;l[n]=s[e[S]];o=o+d;e=a[o];n=e[i]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[i]]=u[e[U]];o=o+d;e=a[o];l[e[c]]=l[e[x]][e[S]];o=o+d;e=a[o];l[e[c]]=l[e[w]][e[S]];o=o+d;e=a[o];l[e[r]]=l[e[O]][e[S]];o=o+d;e=a[o];n=e[r];s=l[e[U]];l[n+1]=s;l[n]=s[e[S]];o=o+d;e=a[o];n=e[h]l[n](l[n+M])o=o+d;e=a[o];l[e[h]]=u[e[U]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[h]]=l[e[O]][e[D]];o=o+d;e=a[o];l[e[b]][e[x]]=l[e[D]];o=o+d;e=a[o];l[e[i]]=m[e[x]];o=o+d;e=a[o];l[e[i]]();o=o+d;e=a[o];l[e[r]]=u[e[O]];o=o+d;e=a[o];l[e[k]]=l[e[x]][e[C]];o=o+d;e=a[o];l[e[r]]=l[e[U]][e[_]];o=o+d;e=a[o];l[e[b]][e[U]]=l[e[P]];o=o+d;e=a[o];do return end;break end;break;end break;end break;end while(n)/((-#"made by kim jong un"+(0xa6+-24)))==1883 do n=(970140)while((575-0x14e)+-#[[null]])>=s do n-= n n=(3721056)while((0xe88f/(0x1b87/29))+-#'paidlancer')>=s do n-= n local h;local n;l[e[r]][e[f]]=l[e[_]];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];l[e[k]][e[x]]=l[e[N]];o=o+d;e=a[o];n=e[b];h=l[e[t]];l[n+1]=h;l[n]=h[e[D]];o=o+d;e=a[o];l[e[k]]=e[w];o=o+d;e=a[o];n=e[b]l[n](B(l,n+M,e[w]))o=o+d;e=a[o];n=e[k];h=l[e[O]];l[n+1]=h;l[n]=h[e[N]];o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];l[e[k]][e[O]]=e[_];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[S]];break;end while(n)/(((0x1632-2852)+-#[[10 black dicks in your mouth]]))==1328 do n=(1219768)while s>((-#[[freerobuxphone]]+(-0x1f+20577))/0x57)do n-= n local e={l,e};e[M][e[g][b]]=e[d][e[g][N]]+e[M][e[g][f]];break end while(n)/((-#"If LocalPlayer equals Dumbass then while true do end"+(-0x38+776)))==1826 do l[e[h]][e[w]]=e[_];o=o+d;e=a[o];l[e[h]]=l[e[w]][e[C]];o=o+d;e=a[o];l[e[r]][e[x]]=e[C];o=o+d;e=a[o];l[e[c]]=l[e[t]][e[P]];o=o+d;e=a[o];l[e[c]][e[U]]=e[C];o=o+d;e=a[o];l[e[k]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[c]][e[f]]=e[S];o=o+d;e=a[o];l[e[r]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[c]][e[w]]=e[D];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[S]];o=o+d;e=a[o];l[e[i]][e[x]]=e[C];o=o+d;e=a[o];l[e[c]]=l[e[f]][e[D]];o=o+d;e=a[o];l[e[c]][e[t]]=e[N];o=o+d;e=a[o];o=e[x];break end;break;end break;end while 1406==(n)/(((0x58d-721)+-#"zykem krul"))do n=(183816)while s<=(0x4a60/80)do n-= n l[e[k]]=u[e[f]];break;end while 184==(n)/((53946/0x36))do n=(26048)while s>(-#"0nly 1337"+(41912/0xa9))do n-= n l[e[c]]=u[e[O]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[P]];o=o+d;e=a[o];l[e[h]][e[U]]=l[e[P]];o=o+d;e=a[o];do return end;break end while 37==(n)/((-#[[bigchungus]]+(0xfdce/91)))do local n;l[e[h]]=u[e[f]];o=o+d;e=a[o];l[e[i]]=l[e[O]];o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];l[e[r]][e[O]]=e[P];o=o+d;e=a[o];l[e[b]][e[O]]=e[S];o=o+d;e=a[o];n=e[b]l[n](B(l,n+M,e[f]))break end;break;end break;end break;end break;end break;end break;end while(n)/((2341+(-139+0x10)))==2037 do n=(4285710)while(25872/0x62)>=s do n-= n n=(377024)while s<=((0x9773/137)+-#[[Boosted moonsec for meme string]])do n-= n n=(10183917)while s<=(560-0x13a)do n-= n n=(2539547)while(17982/0x4a)>=s do n-= n n=(138810)while s<=((0x4d9-657)-0x157)do n-= n local n;l[e[h]]=l[e[t]]-l[e[_]];o=o+d;e=a[o];l[e[h]][e[w]]=l[e[C]];o=o+d;e=a[o];l[e[i]][e[x]]=l[e[C]];o=o+d;e=a[o];l[e[b]][e[f]]=l[e[S]];o=o+d;e=a[o];l[e[k]][e[f]]=e[N];o=o+d;e=a[o];n=e[i]l[n](B(l,n+M,e[x]))o=o+d;e=a[o];o=e[w];break;end while(n)/(((0x1030+-71)-2090))==70 do n=(681360)while s>(61226/0xfd)do n-= n local w;local n;l[e[k]][e[O]]=l[e[S]];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];l[e[i]][e[O]]=l[e[S]];o=o+d;e=a[o];n=e[c];w=l[e[x]];l[n+1]=w;l[n]=w[e[P]];o=o+d;e=a[o];l[e[h]]=e[U];o=o+d;e=a[o];n=e[h]l[n](B(l,n+M,e[O]))o=o+d;e=a[o];n=e[b];w=l[e[O]];l[n+1]=w;l[n]=w[e[_]];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[r]][e[O]]=e[P];o=o+d;e=a[o];l[e[b]]=l[e[f]][e[S]];break end while 408==(n)/((-#[[paidlancer]]+(-31+0x6af)))do local e=e[k]l[e]=l[e]()break end;break;end break;end while(n)/((3930-0x7bd))==1303 do n=(5848240)while(-19+0x107)>=s do n-= n local b;local n;l[e[r]]=u[e[O]];o=o+d;e=a[o];n=e[r];b=l[e[U]];l[n+1]=b;l[n]=b[e[N]];o=o+d;e=a[o];l[e[i]]=e[x];o=o+d;e=a[o];l[e[h]]=l[e[x]];o=o+d;e=a[o];n=e[c]l[n](B(l,n+M,e[t]))o=o+d;e=a[o];do return end;break;end while(n)/(((228438/0x7e)+-#"impulse was here pastebin reel"))==3280 do n=(8664033)while s>(((1282-0x28a)-370)+-#'anime is for fags')do n-= n local c;local n;n=e[i];c=l[e[U]];l[n+1]=c;l[n]=c[e[D]];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[r]][e[f]]=e[_];o=o+d;e=a[o];l[e[i]][e[w]]=e[S];o=o+d;e=a[o];l[e[b]][e[w]]=e[P];o=o+d;e=a[o];l[e[b]][e[U]]=e[P];o=o+d;e=a[o];l[e[h]][e[x]]=e[C];o=o+d;e=a[o];l[e[r]][e[f]]=e[N];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[t]))o=o+d;e=a[o];n=e[b];c=l[e[O]];l[n+1]=c;l[n]=c[e[D]];break end while(n)/((0x41481/107))==3467 do do return end;break end;break;end break;end break;end while 2553==(n)/(((0xd5a2c/218)+-#"cilerteddoesntlikeburgers"))do n=(14172955)while(-85+0x14e)>=s do n-= n n=(4816680)while s<=(0x244-333)do n-= n local x;local n;l[e[r]][e[O]]=l[e[D]];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];n=e[i];x=l[e[O]];l[n+1]=x;l[n]=x[e[C]];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[h]][e[w]]=e[S];o=o+d;e=a[o];l[e[c]][e[U]]=e[N];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[t]))o=o+d;e=a[o];n=e[b];x=l[e[O]];l[n+1]=x;l[n]=x[e[N]];o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];l[e[i]][e[w]]=e[S];break;end while 1230==(n)/((0xf8f+-67))do n=(1618412)while s>(0x10a+((0x6b-93)+-#"i bought a boost for this string"))do n-= n l[e[b]]=l[e[w]]-e[S];break end while 2986==(n)/((17886/0x21))do local x;local b;local n;l[e[h]]=u[e[t]];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[_]];o=o+d;e=a[o];l[e[r]]=l[e[f]]*e[P];o=o+d;e=a[o];l[e[c]]=e[t];o=o+d;e=a[o];n=e[h];b=l[n]x=l[n+2];if(x>0)then if(b>l[n+1])then o=e[w];else l[n+3]=b;end elseif(b<l[n+1])then o=e[f];else l[n+3]=b;end break end;break;end break;end while(n)/((-107+(0x1f50-4044)))==3667 do n=(13634304)while(-31+0x119)>=s do n-= n local c;local n;n=e[r];c=l[e[U]];l[n+1]=c;l[n]=c[e[P]];o=o+d;e=a[o];n=e[h]l[n](l[n+M])o=o+d;e=a[o];l[e[r]]=m[e[O]];o=o+d;e=a[o];n=e[b];c=l[e[f]];l[n+1]=c;l[n]=c[e[P]];o=o+d;e=a[o];n=e[r]l[n](l[n+M])o=o+d;e=a[o];l[e[k]]=m[e[t]];o=o+d;e=a[o];n=e[i];c=l[e[U]];l[n+1]=c;l[n]=c[e[C]];o=o+d;e=a[o];n=e[h]l[n](l[n+M])o=o+d;e=a[o];l[e[k]]=m[e[x]];o=o+d;e=a[o];n=e[h];c=l[e[w]];l[n+1]=c;l[n]=c[e[N]];break;end while(n)/((7980-0xfcc))==3464 do n=(2591073)while s>((386+-0x72)+-#"impulse loves moonsex")do n-= n local n;local s;l[e[k]]=u[e[f]];o=o+d;e=a[o];l[e[r]]=l[e[x]][e[P]];o=o+d;e=a[o];l[e[i]]=l[e[t]]/e[N];o=o+d;e=a[o];l[e[k]]=l[e[U]][e[C]];o=o+d;e=a[o];l[e[b]]=l[e[t]][e[P]];o=o+d;e=a[o];l[e[c]]=u[e[O]];o=o+d;e=a[o];l[e[b]]=l[e[t]][e[N]];o=o+d;e=a[o];s={e,l};s[g][s[M][h]]=s[g][s[d][O]]+s[M][_];o=o+d;e=a[o];l[e[r]]=l[e[w]]-l[e[P]];o=o+d;e=a[o];l[e[k]]=u[e[w]];o=o+d;e=a[o];l[e[i]]=u[e[U]];o=o+d;e=a[o];l[e[k]]=l[e[t]][e[C]];o=o+d;e=a[o];n=e[k]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[h]]=l[e[U]]*l[e[N]];o=o+d;e=a[o];n=e[h]l[n](B(l,n+M,e[U]))o=o+d;e=a[o];o=e[w];break end while 753==(n)/((7004-0xdeb))do local w;local n;l[e[h]][e[O]]=l[e[_]];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[t]))o=o+d;e=a[o];n=e[r];w=l[e[t]];l[n+1]=w;l[n]=w[e[S]];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[i]][e[U]]=e[C];o=o+d;e=a[o];l[e[i]][e[x]]=e[N];o=o+d;e=a[o];l[e[h]][e[U]]=e[N];o=o+d;e=a[o];l[e[h]][e[O]]=e[_];o=o+d;e=a[o];l[e[c]][e[f]]=e[S];o=o+d;e=a[o];l[e[b]][e[O]]=e[P];break end;break;end break;end break;end break;end while 548==(n)/((-0x6c+796))do n=(2770086)while(0x880e/135)>=s do n-= n n=(9347250)while s<=(0x241-(12558/0x27))do n-= n n=(3903752)while(550-0x129)>=s do n-= n local o=e[b]local n={l[o](B(l,o+1,e[O]))};local a=0;for e=o,e[C]do a=a+d;l[e]=n[a];end break;end while 2477==(n)/((0xc97-1647))do n=(5018601)while(-0x62+352)<s do n-= n local r;local n;n=e[b]l[n](B(l,n+M,e[t]))o=o+d;e=a[o];l[e[k]]=l[e[U]][e[N]];o=o+d;e=a[o];l[e[c]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[k]]=l[e[t]][e[S]];o=o+d;e=a[o];n=e[b];r=l[e[x]];l[n+1]=r;l[n]=r[e[_]];break end while(n)/((5004-0x9e5))==2031 do local b;local n;l[e[h]][e[f]]=l[e[S]];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[t]))o=o+d;e=a[o];l[e[r]][e[w]]=l[e[_]];o=o+d;e=a[o];n=e[k];b=l[e[f]];l[n+1]=b;l[n]=b[e[C]];o=o+d;e=a[o];l[e[h]]=e[w];o=o+d;e=a[o];n=e[h]l[n](B(l,n+M,e[U]))o=o+d;e=a[o];n=e[r];b=l[e[t]];l[n+1]=b;l[n]=b[e[_]];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[r]][e[w]]=e[D];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[_]];break end;break;end break;end while(n)/((-97+0xa70))==3630 do n=(2987937)while(43776/0xab)>=s do n-= n local n;local h;local r;l[e[k]]=m[e[x]];o=o+d;e=a[o];l[e[i]]=u[e[x]];o=o+d;e=a[o];l[e[b]]=l[e[t]][e[P]];o=o+d;e=a[o];r=e[b]h={l[r](l[r+1])};n=0;for e=r,e[D]do n=n+d;l[e]=h[n];end o=o+d;e=a[o];o=e[f];break;end while(n)/((-#[[psx real dupe steal all ur pets no joke]]+(0x17cb-3073)))==1003 do n=(3480800)while s>(0x4848/(-#"windows xp startup sfx"+(214-0x78)))do n-= n local i;local n;l[e[c]]=l[e[t]][e[N]];o=o+d;e=a[o];l[e[h]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[b]]=u[e[x]];o=o+d;e=a[o];l[e[r]]=l[e[t]][e[D]];o=o+d;e=a[o];l[e[k]]=l[e[w]]-l[e[D]];o=o+d;e=a[o];l[e[h]]=l[e[t]]/l[e[C]];o=o+d;e=a[o];l[e[h]]=l[e[O]][e[_]];o=o+d;e=a[o];l[e[c]]=l[e[t]][e[S]];o=o+d;e=a[o];l[e[b]]=u[e[t]];o=o+d;e=a[o];l[e[h]]=l[e[t]][e[P]];o=o+d;e=a[o];n={e,l};n[g][n[M][c]]=n[g][n[d][x]]+n[M][N];o=o+d;e=a[o];l[e[b]]=l[e[f]]-l[e[C]];o=o+d;e=a[o];l[e[r]]=l[e[f]]/l[e[N]];o=o+d;e=a[o];i=e[b]l[i](B(l,i+M,e[U]))o=o+d;e=a[o];o=e[w];break end while(n)/((0x7d2+-102))==1832 do local a=e[k]local n={l[a](B(l,a+1,y))};local o=0;for e=a,e[S]do o=o+d;l[e]=n[o];end break end;break;end break;end break;end while(n)/((305406/0x72))==1034 do n=(8465150)while s<=(42804/0xa4)do n-= n n=(3493125)while((0x128+-16)+-#[[impulse loves moonsex]])>=s do n-= n l[e[r]]=u[e[O]];o=o+d;e=a[o];l[e[b]]=l[e[O]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[i]]=u[e[U]];o=o+d;e=a[o];l[e[c]]=l[e[O]][e[D]];o=o+d;e=a[o];l[e[k]][e[U]]=l[e[D]];o=o+d;e=a[o];l[e[c]]=u[e[t]];o=o+d;e=a[o];l[e[i]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[h]][e[f]]=l[e[S]];o=o+d;e=a[o];l[e[k]][e[t]]=l[e[S]];o=o+d;e=a[o];l[e[c]][e[O]]=l[e[S]];o=o+d;e=a[o];l[e[i]]=u[e[w]];o=o+d;e=a[o];l[e[i]]=l[e[O]][e[S]];o=o+d;e=a[o];if not l[e[i]]then o=o+M;else o=e[x];end;break;end while(n)/((3791-0x77c))==1863 do n=(2797609)while(0xb4c8/178)<s do n-= n l[e[r]]=u[e[w]];o=o+d;e=a[o];l[e[b]]=e[U];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[r]]=u[e[t]];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[P]];o=o+d;e=a[o];l[e[k]][e[f]]=l[e[P]];o=o+d;e=a[o];l[e[b]]=u[e[U]];o=o+d;e=a[o];l[e[b]]=l[e[O]][e[P]];o=o+d;e=a[o];l[e[i]][e[O]]=l[e[P]];o=o+d;e=a[o];l[e[k]]=u[e[f]];break end while 1481==(n)/((0x1536e/46))do if(l[e[b]]<=l[e[P]])then o=e[w];else o=o+M;end;break end;break;end break;end while 3910==(n)/((-#[[If no father return milk end]]+((-0x3e+-43)+0x8fa)))do n=(216140)while s<=(-#'MoonsecV2 deobfuscator 2020 free 100 percent'+(641-(-0x71+448)))do n-= n local n;l[e[b]]=u[e[U]];o=o+d;e=a[o];l[e[c]]=u[e[O]];o=o+d;e=a[o];l[e[r]]=l[e[w]][e[P]];o=o+d;e=a[o];n=e[i]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[h]]=l[e[w]][e[P]];o=o+d;e=a[o];l[e[k]]=l[e[x]][e[C]];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];if not l[e[h]]then o=o+M;else o=e[O];end;break;end while 2140==(n)/((-#"I hate black people"+((-0x58+25168)/0xd1)))do n=(1448901)while s>(616-0x161)do n-= n local n;l[e[r]]=u[e[U]];o=o+d;e=a[o];l[e[i]]=l[e[f]];o=o+d;e=a[o];l[e[h]]=e[f];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];if not l[e[b]]then o=o+M;else o=e[U];end;break end while(n)/((-#[[fix vg hub dekudimz]]+(-0x16+1604)))==927 do local n;l[e[c]]=e[x];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[b]][e[t]]=e[S];o=o+d;e=a[o];l[e[b]][e[U]]=e[D];o=o+d;e=a[o];n=e[h]l[n](B(l,n+M,e[w]))o=o+d;e=a[o];l[e[h]]=u[e[t]];o=o+d;e=a[o];l[e[h]]=u[e[f]];o=o+d;e=a[o];l[e[h]]=e[O];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[r]][e[U]]=e[_];break end;break;end break;end break;end break;end break;end while 1287==(n)/((619380/0xba))do n=(1574592)while s<=(68724/0xf9)do n-= n n=(426855)while s<=(0x251-323)do n-= n n=(2593584)while s<=((0xd79e/193)+-#[[how to join the kkk]])do n-= n n=(1340773)while(608-0x157)>=s do n-= n local f;local n;l[e[b]]=m[e[U]];o=o+d;e=a[o];n=e[r]l[n](B(l,n+M,e[U]))o=o+d;e=a[o];n=e[h];f=l[e[x]];l[n+1]=f;l[n]=f[e[C]];o=o+d;e=a[o];l[e[c]]=m[e[w]];o=o+d;e=a[o];n=e[k]l[n](B(l,n+M,e[O]))o=o+d;e=a[o];l[e[h]]=l[e[t]];o=o+d;e=a[o];l[e[c]]();o=o+d;e=a[o];l[e[c]]=m[e[w]];o=o+d;e=a[o];l[e[b]]();o=o+d;e=a[o];l[e[i]]=m[e[U]];o=o+d;e=a[o];if not l[e[b]]then o=o+M;else o=e[x];end;break;end while 2261==(n)/(((1308-0x2b5)+-#'legend says i was here'))do n=(1998275)while s>(0x238-302)do n-= n for e=e[c],e[O]do l[e]=nil;end;break end while 1193==(n)/((-#[[zykem krul]]+(244325/0x91)))do l[e[h]][l[e[f]]]=l[e[P]];break end;break;end break;end while(n)/((148176/0x93))==2573 do n=(11350701)while s<=(0x28e-386)do n-= n local r;local n;l[e[b]]=u[e[O]];o=o+d;e=a[o];n=e[i];r=l[e[w]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[b]]=e[O];o=o+d;e=a[o];l[e[h]]=l[e[f]];o=o+d;e=a[o];n=e[k]l[n](B(l,n+M,e[w]))o=o+d;e=a[o];do return end;break;end while(n)/((0x1e82-3961))==2949 do n=(786096)while s>((0x13a20/224)+-90)do n-= n local b;local n;l[e[i]]={};o=o+d;e=a[o];l[e[k]][e[O]]=e[D];o=o+d;e=a[o];l[e[c]][e[x]]=e[_];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];n=e[h];b=l[e[U]];l[n+1]=b;l[n]=b[e[S]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[h]][e[w]]=e[P];o=o+d;e=a[o];l[e[i]][e[w]]=e[_];o=o+d;e=a[o];l[e[r]][e[w]]=e[_];break end while(n)/(((0x560-745)+-#"Big black men"))==1272 do local e=e[b]l[e](B(l,e+M,y))break end;break;end break;end break;end while 195==(n)/((-0x1d+2218))do n=(6202748)while(339+-0x42)>=s do n-= n n=(4568328)while(610-0x153)>=s do n-= n l[e[k]]=l[e[f]]%e[D];break;end while 2841==(n)/((8040/0x5))do n=(7043484)while(-65+0x151)<s do n-= n local n;n=e[k]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[c]]=u[e[f]];o=o+d;e=a[o];l[e[r]]=u[e[t]];o=o+d;e=a[o];l[e[c]]=l[e[t]][e[C]];o=o+d;e=a[o];if l[e[r]]then o=o+d;else o=e[t];end;break end while 2982==(n)/((-82+0x98c))do local o=e[i]local n={l[o](B(l,o+1,e[t]))};local a=0;for e=o,e[N]do a=a+d;l[e]=n[a];end break end;break;end break;end while 3194==(n)/((3959-0x7e1))do n=(1953390)while s<=(327+(-0x68+51))do n-= n l[e[k]]=e[x]/l[e[C]];break;end while(n)/(((167504/0xe8)+-#"Me be like at 5am in the morning"))==2831 do n=(2439856)while s>(-0x49+348)do n-= n local h=v[e[t]];local r;local d={};r=K({},{__index=function(o,e)local e=d[e];return e[1][e[2]];end,__newindex=function(l,e,o)local e=d[e]e[1][e[2]]=o;end;});for n=1,e[C]do o=o+M;local e=a[o];if e[(-#"MSC 793z487nhvcgsdfgsudfza9889jgvz56gz56z547684z5g54z948g56z74j56475jzg645z6456 oh wait bitch"+(0xf1-147))]==182 then d[n-1]={l,e[f]};else d[n-1]={u,e[t]};end;z[#z+1]=d;end;l[e[i]]=A(h,r,m);break end while(n)/(((0x7b49a/89)-0xb3c))==872 do l[e[r]]=u[e[f]];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[S]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[D]];o=o+d;e=a[o];l[e[h]][e[O]]=l[e[C]];o=o+d;e=a[o];do return end;break end;break;end break;end break;end break;end while(n)/((-0x75+1061))==1668 do n=(4325100)while s<=(326+-0x2c)do n-= n n=(1135056)while s<=(347+(-0x25b8/142))do n-= n n=(4502880)while(-#[[Nsrds GAYYYYAIAHAKAJAVAHAUA]]+(((0x17a+-46)+-#[[null]])+-24))>=s do n-= n l[e[b]]=(not l[e[f]]);break;end while 2385==(n)/((-#"fix vg hub dekudimz"+((0x1e67-3907)-1969)))do n=(8329466)while(44480/0xa0)<s do n-= n local o=e[k];do return B(l,o,o+e[w])end;break end while(n)/((0xbcf+-45))==2797 do local n;l[e[r]]=u[e[f]];o=o+d;e=a[o];l[e[h]]=e[O];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];u[e[f]]=l[e[k]];o=o+d;e=a[o];l[e[c]]=u[e[U]];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[_]];o=o+d;e=a[o];u[e[w]]=l[e[c]];break end;break;end break;end while(n)/((0xaae+-82))==428 do n=(10707200)while(604-0x144)>=s do n-= n local r;local i;local n;l[e[b]][e[f]]=e[N];o=o+d;e=a[o];n=e[h]l[n](B(l,n+M,e[w]))o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[c]]=u[e[x]];o=o+d;e=a[o];l[e[h]]=u[e[f]];o=o+d;e=a[o];n=e[c]i={l[n](l[n+1])};r=0;for e=n,e[S]do r=r+d;l[e]=i[r];end o=o+d;e=a[o];o=e[w];break;end while(n)/(((-59+0xcca)+-#"W4rboy was here"))==3346 do n=(4580275)while s>(-#'Ur mom'+(42763/0x95))do n-= n if(e[i]<=l[e[D]])then o=e[w];else o=o+M;end;break end while(n)/((7561-0xeee))==1225 do local b;local n;local h;l[e[c]]=m[e[O]];o=o+d;e=a[o];l[e[r]]=e[t];o=o+d;e=a[o];l[e[i]]=l[e[U]];o=o+d;e=a[o];h=e[w];n=l[h]for e=h+1,e[S]do n=n..l[e];end;l[e[c]]=n;o=o+d;e=a[o];b=e[r]l[b](l[b+M])o=o+d;e=a[o];do return end;break end;break;end break;end break;end while(n)/((0xf8c+-80))==1109 do n=(137850)while(4845/0x11)>=s do n-= n n=(1119594)while s<=(595-0x138)do n-= n if(l[e[b]]~=e[D])then o=o+M;else o=e[t];end;break;end while(n)/((-0x6e+3587))==322 do n=(64113)while(607-0x143)<s do n-= n l[e[h]]=e[t];break end while(n)/((7826/0xb6))==1491 do local r;local n;l[e[i]][e[O]]=l[e[D]];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];n=e[c];r=l[e[O]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];l[e[h]][e[U]]=e[C];o=o+d;e=a[o];l[e[c]][e[w]]=e[N];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];n=e[k];r=l[e[t]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[k]][e[f]]=e[N];break end;break;end break;end while(n)/((-0x29+2798))==50 do n=(4044027)while s<=(0x4225/59)do n-= n n=(1126471)while s>((0x170+-47)+-0x23)do n-= n local r;local n;l[e[h]][e[t]]=l[e[D]];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];n=e[k];r=l[e[f]];l[n+1]=r;l[n]=r[e[P]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[c]]=m[e[U]];o=o+d;e=a[o];l[e[c]]=l[e[U]][e[_]];o=o+d;e=a[o];l[e[c]]=e[t];o=o+d;e=a[o];l[e[i]]=e[f];o=o+d;e=a[o];l[e[h]]=e[U];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[t]))break end while(n)/((0x5f0-789))==1541 do u[e[w]]=l[e[i]];break end;break;end while(n)/(((0x1943-3251)+-#'0nly 1337'))==1261 do n=(637032)while s>((-0x7e+480)+-#'if syn request then print your mom then end and then kill yourself')do n-= n local r;local n;l[e[h]]=u[e[t]];o=o+d;e=a[o];n=e[h];r=l[e[x]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[b]]=e[U];o=o+d;e=a[o];l[e[c]]=l[e[U]];o=o+d;e=a[o];n=e[i]l[n](B(l,n+M,e[t]))o=o+d;e=a[o];do return end;break end while(n)/((0x214-(-#"Bwomp"+(0xfd27/229))))==2508 do local b;local n;l[e[h]]=u[e[O]];o=o+d;e=a[o];n=e[k];b=l[e[f]];l[n+1]=b;l[n]=b[e[P]];o=o+d;e=a[o];l[e[k]]=e[O];o=o+d;e=a[o];l[e[i]]=l[e[U]];o=o+d;e=a[o];n=e[r]l[n](B(l,n+M,e[w]))o=o+d;e=a[o];do return end;break end;break;end break;end break;end break;end break;end break;end break;end while 1961==(n)/((0x8e5fa/(0x842/14)))do n=(8030616)while(2022/0x6)>=s do n-= n n=(634632)while s<=(401+(-8536/0x61))do n-= n n=(12306176)while s<=((0x369-479)+-#"MSC 793z487nhvcgsdfgsudfza9889jgvz56gz56z547684z5g54z948g56z74j56475jzg645z6456 oh wait bitch")do n-= n n=(345800)while s<=(-106+0x191)do n-= n n=(8251200)while s<=(-#"elbicho"+(-0x2c+343))do n-= n n=(8386800)while s<=(0xb662/((43250/0xfa)+-#'Lana Rhoades'))do n-= n local n;l[e[c]]={};o=o+d;e=a[o];l[e[i]]=l[e[x]];o=o+d;e=a[o];n=e[r]l[n]=l[n]()o=o+d;e=a[o];l[e[c]][e[O]]=l[e[S]];o=o+d;e=a[o];l[e[i]][e[U]]=e[D];break;end while 2410==(n)/((-#"waste of sperm"+((-#"Ur mom"+(0xc510b+-59))/0xe7)))do n=(253368)while s>(-50+0x155)do n-= n local r;local n;l[e[c]][e[U]]=l[e[P]];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];n=e[k];r=l[e[t]];l[n+1]=r;l[n]=r[e[P]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[b]][e[U]]=e[_];break end while(n)/((1417-0x301))==391 do l[e[i]]=e[w]*l[e[N]];break end;break;end break;end while 3056==(n)/((5455-0xac3))do n=(1315902)while(0xe3c3/199)>=s do n-= n local h;local n;l[e[b]][e[O]]=l[e[N]];o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];l[e[i]][e[x]]=l[e[_]];o=o+d;e=a[o];n=e[b];h=l[e[w]];l[n+1]=h;l[n]=h[e[D]];o=o+d;e=a[o];l[e[r]]=e[x];o=o+d;e=a[o];n=e[c]l[n](B(l,n+M,e[t]))o=o+d;e=a[o];n=e[i];h=l[e[x]];l[n+1]=h;l[n]=h[e[P]];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[i]][e[t]]=e[D];o=o+d;e=a[o];l[e[b]]=l[e[U]][e[C]];break;end while 798==(n)/(((765207-0x5d6af)/0xe8))do n=(2144628)while s>(-#[[false]]+(55315/0xb9))do n-= n local t;local s,S;local i;local n;l[e[b]]=u[e[U]];o=o+d;e=a[o];n=e[r];i=l[e[f]];l[n+1]=i;l[n]=i[e[C]];o=o+d;e=a[o];l[e[r]]=u[e[w]];o=o+d;e=a[o];l[e[c]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[r]]=l[e[x]][e[N]];o=o+d;e=a[o];n=e[c]l[n](B(l,n+M,e[U]))o=o+d;e=a[o];l[e[r]]=u[e[O]];o=o+d;e=a[o];n=e[k];i=l[e[w]];l[n+1]=i;l[n]=i[e[N]];o=o+d;e=a[o];l[e[h]]=u[e[U]];o=o+d;e=a[o];n=e[k];i=l[e[w]];l[n+1]=i;l[n]=i[e[P]];o=o+d;e=a[o];n=e[c]s,S=p(l[n](l[n+M]))y=S+n-d t=0;for e=n,y do t=t+d;l[e]=s[t];end;o=o+d;e=a[o];n=e[c]l[n](B(l,n+M,y))o=o+d;e=a[o];do return end;break end while 1453==(n)/((0xc02-1598))do l[e[h]]=l[e[f]]%e[_];break end;break;end break;end break;end while 3800==(n)/((-#"Faggot"+(286-0xbd)))do n=(6622967)while(0x283-345)>=s do n-= n n=(359352)while s<=(-#"if syn request then print your mom then end and then kill yourself"+(0x18b+-33))do n-= n local i;local r;local n;l[e[b]]=u[e[w]];o=o+d;e=a[o];l[e[b]]=l[e[f]][e[P]];o=o+d;e=a[o];l[e[h]]=l[e[U]]*e[_];o=o+d;e=a[o];l[e[h]]=e[U];o=o+d;e=a[o];n=e[h];r=l[n]i=l[n+2];if(i>0)then if(r>l[n+1])then o=e[x];else l[n+3]=r;end elseif(r<l[n+1])then o=e[U];else l[n+3]=r;end break;end while(n)/((0x270d8/215))==483 do n=(12011928)while s>(-#"Nsrds GAYYYYAIAHAKAJAVAHAUA"+(0x15f+-27))do n-= n local d=e[b];local a=l[d]local n=l[d+2];if(n>0)then if(a>l[d+1])then o=e[w];else l[d+3]=a;end elseif(a<l[d+1])then o=e[f];else l[d+3]=a;end break end while 2994==(n)/((-118+0x1022))do l[e[k]]=A(v[e[U]],nil,m);break end;break;end break;end while(n)/((7799-0xf46))==1703 do n=(147400)while(-0x77+418)>=s do n-= n local d=e[c];local n=l[d+2];local a=l[d]+n;l[d]=a;if(n>0)then if(a<=l[d+1])then o=e[x];l[d+3]=a;end elseif(a>=l[d+1])then o=e[x];l[d+3]=a;end break;end while 2680==(n)/(((4510/0x37)+-#'Nsrds GAYYYYAIAHAKAJAVAHAUA'))do n=(6161474)while(0x275-329)<s do n-= n local b;local n;n={l,e};n[M][n[g][r]]=n[d][n[g][P]]+n[M][n[g][f]];o=o+d;e=a[o];n={e,l};n[g][n[M][r]]=n[g][n[d][U]]+n[M][S];o=o+d;e=a[o];b=e[i]l[b]=l[b](B(l,b+d,e[U]))o=o+d;e=a[o];l[e[i]][e[O]]=l[e[S]];o=o+d;e=a[o];l[e[h]]=u[e[t]];o=o+d;e=a[o];l[e[r]]=l[e[w]][e[C]];o=o+d;e=a[o];if not l[e[k]]then o=o+M;else o=e[w];end;break end while 2446==(n)/((0x4a69f/121))do local s;local n;l[e[r]]=u[e[x]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[_]];o=o+d;e=a[o];l[e[i]]=l[e[t]]-e[D];o=o+d;e=a[o];l[e[i]]=l[e[f]][e[S]];o=o+d;e=a[o];l[e[r]]=l[e[x]][e[C]];o=o+d;e=a[o];n={l,e};n[M][n[g][c]]=n[d][n[g][C]]+n[M][n[g][U]];o=o+d;e=a[o];s=e[r]l[s]=l[s](B(l,s+d,e[f]))o=o+d;e=a[o];l[e[k]][e[t]]=l[e[P]];o=o+d;e=a[o];l[e[r]]=l[e[f]][e[N]];o=o+d;e=a[o];l[e[i]]=u[e[t]];o=o+d;e=a[o];l[e[i]]=l[e[O]][e[S]];o=o+d;e=a[o];l[e[r]]=l[e[w]][e[S]];o=o+d;e=a[o];l[e[b]]=l[e[O]][e[D]];o=o+d;e=a[o];l[e[h]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[h]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[_]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[i]]=l[e[x]]/l[e[P]];o=o+d;e=a[o];l[e[i]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[r]]=l[e[t]]*l[e[P]];o=o+d;e=a[o];l[e[h]]=l[e[w]]-l[e[S]];o=o+d;e=a[o];s=e[c]l[s]=l[s](B(l,s+d,e[w]))o=o+d;e=a[o];l[e[r]][e[U]]=l[e[P]];o=o+d;e=a[o];l[e[h]]=l[e[U]][e[S]];o=o+d;e=a[o];l[e[i]]=u[e[O]];o=o+d;e=a[o];l[e[k]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[i]]=l[e[t]][e[N]];o=o+d;e=a[o];l[e[b]][e[w]]=l[e[N]];o=o+d;e=a[o];l[e[c]]=l[e[x]][e[P]];o=o+d;e=a[o];l[e[c]][e[O]]=e[S];o=o+d;e=a[o];l[e[i]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[c]]=u[e[O]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[P]];o=o+d;e=a[o];l[e[h]]=l[e[w]][e[N]];o=o+d;e=a[o];l[e[i]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[h]]=l[e[w]][e[C]];o=o+d;e=a[o];n={l,e};n[M][n[g][r]]=n[d][n[g][_]]+n[M][n[g][U]];o=o+d;e=a[o];n={e,l};n[g][n[M][k]]=n[g][n[d][O]]+n[M][P];o=o+d;e=a[o];s=e[b]l[s]=l[s](B(l,s+d,e[t]))o=o+d;e=a[o];l[e[k]][e[f]]=l[e[S]];o=o+d;e=a[o];l[e[c]]=l[e[t]][e[_]];o=o+d;e=a[o];l[e[r]]=u[e[f]];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[S]];o=o+d;e=a[o];l[e[c]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[c]]=l[e[f]][e[P]];o=o+d;e=a[o];l[e[c]]=l[e[f]][e[S]];o=o+d;e=a[o];l[e[h]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[P]];o=o+d;e=a[o];l[e[h]]=l[e[t]][e[S]];o=o+d;e=a[o];l[e[b]]=e[f]*l[e[P]];o=o+d;e=a[o];l[e[b]]=l[e[w]]-l[e[C]];o=o+d;e=a[o];l[e[r]]=l[e[f]]-e[_];o=o+d;e=a[o];s=e[b]l[s]=l[s](B(l,s+d,e[t]))o=o+d;e=a[o];l[e[i]][e[x]]=l[e[N]];o=o+d;e=a[o];l[e[h]]=l[e[x]][e[P]];o=o+d;e=a[o];l[e[r]]=u[e[w]];o=o+d;e=a[o];l[e[k]]=l[e[x]][e[P]];o=o+d;e=a[o];l[e[b]]=l[e[U]][e[S]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[N]];o=o+d;e=a[o];l[e[i]][e[t]]=l[e[D]];o=o+d;e=a[o];l[e[i]]=l[e[f]][e[P]];o=o+d;e=a[o];l[e[c]]=u[e[O]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[N]];o=o+d;e=a[o];l[e[k]]=l[e[t]][e[P]];o=o+d;e=a[o];l[e[r]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[i]][e[f]]=l[e[S]];o=o+d;e=a[o];o=e[w];break end;break;end break;end break;end break;end while(n)/((769984/0xe3))==3628 do n=(38750)while s<=(-0x72+(-#"If LocalPlayer equals Dumbass then while true do end"+(0x3ee-533)))do n-= n n=(6315228)while s<=((0x17c+-49)+-#"if syn then haxor alert end")do n-= n n=(7277532)while(-0x51+383)>=s do n-= n local s;local n;l[e[b]][e[f]]=l[e[D]];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];n=e[k];s=l[e[U]];l[n+1]=s;l[n]=s[e[P]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[i]][e[O]]=e[S];o=o+d;e=a[o];l[e[k]][e[U]]=e[P];o=o+d;e=a[o];l[e[c]][e[x]]=e[C];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[t]))o=o+d;e=a[o];n=e[k];s=l[e[U]];l[n+1]=s;l[n]=s[e[N]];o=o+d;e=a[o];l[e[h]]=e[w];break;end while 2164==(n)/((3443+-0x50))do n=(33615)while(-#'balls'+(0x28b-343))<s do n-= n local t;local n;l[e[k]][e[w]]=l[e[D]];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];l[e[r]][e[x]]=l[e[_]];o=o+d;e=a[o];n=e[c];t=l[e[f]];l[n+1]=t;l[n]=t[e[C]];o=o+d;e=a[o];l[e[c]]=e[U];o=o+d;e=a[o];n=e[i]l[n](B(l,n+M,e[U]))o=o+d;e=a[o];n=e[b];t=l[e[f]];l[n+1]=t;l[n]=t[e[_]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[h]][e[x]]=e[_];o=o+d;e=a[o];l[e[k]]=l[e[U]][e[N]];break end while(n)/((-71+0x1e6))==81 do l[e[i]]=l[e[U]]%l[e[P]];break end;break;end break;end while(n)/((-98+0xa8b))==2428 do n=(2974750)while s<=(61000/0xc8)do n-= n local r;local n;l[e[k]]=l[e[t]][e[P]];o=o+d;e=a[o];l[e[c]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[k]]=l[e[f]][e[P]];o=o+d;e=a[o];l[e[k]]=l[e[t]][e[_]];o=o+d;e=a[o];l[e[b]]=l[e[O]][e[S]];o=o+d;e=a[o];l[e[h]]=u[e[t]];o=o+d;e=a[o];n=e[k];r=l[e[t]];l[n+1]=r;l[n]=r[e[S]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[P]];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[b]]=l[e[O]][e[S]];break;end while(n)/((0x68b-(-#[[big niggers sucking cock]]+(0x17bd8/110))))==3650 do n=(3052660)while(64260/0xd2)<s do n-= n local h;local n;l[e[r]][e[x]]=l[e[S]];o=o+d;e=a[o];n=e[i]l[n](B(l,n+M,e[w]))o=o+d;e=a[o];n=e[r];h=l[e[f]];l[n+1]=h;l[n]=h[e[_]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[i]][e[U]]=e[_];break end while(n)/(((0xd63-1735)-0x380))==3835 do local m;local z,A;local s;local n;l[e[r]]=u[e[w]];o=o+d;e=a[o];l[e[c]]=l[e[x]][e[P]];o=o+d;e=a[o];l[e[h]]=u[e[x]];o=o+d;e=a[o];l[e[k]]=l[e[w]][e[_]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[P]];o=o+d;e=a[o];l[e[c]]=l[e[O]][e[C]];o=o+d;e=a[o];l[e[b]]=l[e[t]][e[C]];o=o+d;e=a[o];n={l,e};n[M][n[g][c]]=n[d][n[g][N]]+n[M][n[g][w]];o=o+d;e=a[o];l[e[k]]=l[e[U]]/e[C];o=o+d;e=a[o];l[e[b]]=l[e[t]][e[S]];o=o+d;e=a[o];l[e[c]]=l[e[w]][e[N]];o=o+d;e=a[o];l[e[i]]=l[e[O]][e[P]];o=o+d;e=a[o];l[e[i]]=l[e[x]][e[S]];o=o+d;e=a[o];n={l,e};n[M][n[g][i]]=n[d][n[g][S]]+n[M][n[g][f]];o=o+d;e=a[o];l[e[k]]=l[e[x]]/e[S];o=o+d;e=a[o];l[e[c]]=l[e[t]][e[P]];o=o+d;e=a[o];l[e[c]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[k]]=l[e[f]][e[N]];o=o+d;e=a[o];l[e[c]]=l[e[x]][e[D]];o=o+d;e=a[o];n={l,e};n[M][n[g][h]]=n[d][n[g][D]]+n[M][n[g][x]];o=o+d;e=a[o];l[e[b]]=l[e[t]]/e[N];o=o+d;e=a[o];s=e[c]z,A=p(l[s](B(l,s+1,e[w])))y=A+s-1 m=0;for e=s,y do m=m+d;l[e]=z[m];end;o=o+d;e=a[o];s=e[k]l[s]=l[s](B(l,s+d,y))o=o+d;e=a[o];l[e[b]]=l[e[U]][e[N]];o=o+d;e=a[o];if(l[e[r]]<e[S])then o=o+M;else o=e[w];end;break end;break;end break;end break;end while(n)/(((220-0x7c)+-#'real roblox omg builderman caught playing real'))==775 do n=(10694628)while(0xbf54/158)>=s do n-= n n=(10053732)while(-#'Suck Sus0587'+(0x10f40/217))>=s do n-= n l[e[r]]=e[x]/e[C];break;end while 3757==(n)/((((0x2ac3-5489)-2770)+-#"impulse 2022"))do n=(3370614)while(0x155+-32)<s do n-= n local n;l[e[c]]=u[e[t]];o=o+d;e=a[o];l[e[r]]=e[t];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[h]][e[f]]=e[D];o=o+d;e=a[o];l[e[c]][e[w]]=e[P];o=o+d;e=a[o];n=e[k]l[n](B(l,n+M,e[t]))o=o+d;e=a[o];l[e[i]]=u[e[x]];o=o+d;e=a[o];l[e[r]]=u[e[O]];o=o+d;e=a[o];l[e[c]]=e[t];o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];l[e[c]][e[U]]=e[P];o=o+d;e=a[o];l[e[i]][e[t]]=e[C];o=o+d;e=a[o];n=e[h]l[n](B(l,n+M,e[U]))o=o+d;e=a[o];l[e[b]]=u[e[f]];o=o+d;e=a[o];l[e[c]]=l[e[U]][e[D]];o=o+d;e=a[o];if l[e[r]]then o=o+d;else o=e[U];end;break end while(n)/((0xb7894/244))==1094 do local r;local c,h;local n;l[e[k]]=l[e[f]];o=o+d;e=a[o];l[e[k]]=e[U];o=o+d;e=a[o];l[e[b]]=e[t];o=o+d;e=a[o];n=e[i]c,h=p(l[n](B(l,n+1,e[t])))y=h+n-1 r=0;for e=n,y do r=r+d;l[e]=c[r];end;o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,y))break end;break;end break;end while 2738==(n)/(((-0x43+3978)+-#[[Negro]]))do n=(15429628)while s<=(4354/0xe)do n-= n local o=e[c]l[o]=l[o](B(l,o+d,e[x]))break;end while(n)/((-#"if syn request then print your mom then end and then kill yourself"+(548349/0x8d)))==4036 do n=(6134740)while((0x1bb+-101)+-#'If no milk then return ffather')<s do n-= n local x;local f,s;local n;l[e[r]]=l[e[t]]-l[e[D]];o=o+d;e=a[o];l[e[b]]=l[e[w]]/e[D];o=o+d;e=a[o];l[e[r]]=u[e[U]];o=o+d;e=a[o];l[e[k]]=u[e[O]];o=o+d;e=a[o];l[e[i]]=l[e[O]]*e[N];o=o+d;e=a[o];n=e[c]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[r]]=u[e[t]];o=o+d;e=a[o];l[e[h]]=l[e[w]]*e[P];o=o+d;e=a[o];n=e[c]f,s=p(l[n](l[n+M]))y=s+n-d x=0;for e=n,y do x=x+d;l[e]=f[x];end;o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,y))break end while 3037==(n)/((4136-0x844))do local n;l[e[h]][e[U]]=e[C];o=o+d;e=a[o];n=e[b]l[n](B(l,n+M,e[f]))o=o+d;e=a[o];l[e[r]]=u[e[t]];o=o+d;e=a[o];l[e[b]]=u[e[O]];o=o+d;e=a[o];l[e[r]]=e[x];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[i]][e[t]]=e[N];o=o+d;e=a[o];l[e[r]][e[t]]=e[N];o=o+d;e=a[o];n=e[i]l[n](B(l,n+M,e[w]))o=o+d;e=a[o];l[e[h]]=u[e[t]];break end;break;end break;end break;end break;end break;end while 853==(n)/((-#[[ur mom is hot]]+(-0x4a+831)))do n=(1099050)while(0x11891/221)>=s do n-= n n=(7686756)while(-0x47+390)>=s do n-= n n=(12534180)while s<=(0x8904/111)do n-= n n=(737442)while(695-0x17d)>=s do n-= n local U;local t,f;local r;local n;n=e[c];r=l[e[w]];l[n+1]=r;l[n]=r[e[P]];o=o+d;e=a[o];l[e[i]]=u[e[x]];o=o+d;e=a[o];n=e[c];r=l[e[x]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];n=e[k]t,f=p(l[n](l[n+M]))y=f+n-d U=0;for e=n,y do U=U+d;l[e]=t[U];end;o=o+d;e=a[o];n=e[i]l[n](B(l,n+M,y))o=o+d;e=a[o];l[e[b]]=u[e[x]];o=o+d;e=a[o];n=e[h];r=l[e[x]];l[n+1]=r;l[n]=r[e[D]];o=o+d;e=a[o];l[e[i]]=u[e[O]];o=o+d;e=a[o];l[e[k]]=l[e[w]][e[S]];o=o+d;e=a[o];l[e[k]]=l[e[w]][e[D]];break;end while(n)/((-#[[when the he went where when he where where when the he when ther wher he then here went]]+(1733+-0x64)))==477 do n=(3618189)while s>(-0x57+402)do n-= n l[e[k]]=l[e[x]]-e[_];break end while(n)/((-0x20+1571))==2351 do local f;local n;l[e[i]][e[x]]=l[e[N]];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];n=e[h];f=l[e[U]];l[n+1]=f;l[n]=f[e[N]];o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];l[e[r]][e[x]]=e[_];o=o+d;e=a[o];l[e[r]]=m[e[t]];o=o+d;e=a[o];l[e[i]]=l[e[t]][e[S]];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[k]][e[x]]=l[e[D]];o=o+d;e=a[o];l[e[k]]={};break end;break;end break;end while 3804==(n)/((0xcf2+-19))do n=(8559720)while(364+-0x2f)>=s do n-= n local n;local s;l[e[i]]=u[e[O]];o=o+d;e=a[o];l[e[b]]=l[e[U]][e[P]];o=o+d;e=a[o];l[e[h]]=l[e[w]]/e[D];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[S]];o=o+d;e=a[o];s={l,e};s[M][s[g][i]]=s[d][s[g][P]]+s[M][s[g][f]];o=o+d;e=a[o];l[e[b]]=l[e[f]][e[P]];o=o+d;e=a[o];l[e[k]]=l[e[f]]-e[D];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];l[e[k]][e[f]]=l[e[S]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[h]]=u[e[f]];o=o+d;e=a[o];l[e[c]]=l[e[f]][e[C]];o=o+d;e=a[o];l[e[c]]=l[e[t]][e[S]];o=o+d;e=a[o];l[e[c]]=l[e[O]][e[C]];o=o+d;e=a[o];l[e[k]][e[O]]=l[e[C]];o=o+d;e=a[o];l[e[r]]=l[e[t]][e[N]];o=o+d;e=a[o];l[e[b]]=m[e[f]];o=o+d;e=a[o];l[e[k]]=l[e[x]];o=o+d;e=a[o];n=e[k]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[b]][e[U]]=l[e[S]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[c]]=u[e[t]];o=o+d;e=a[o];l[e[i]]=l[e[O]][e[D]];o=o+d;e=a[o];l[e[i]]=l[e[x]][e[_]];o=o+d;e=a[o];l[e[r]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[c]][e[w]]=l[e[C]];o=o+d;e=a[o];l[e[r]]=l[e[t]][e[P]];o=o+d;e=a[o];l[e[r]]=u[e[f]];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[_]];o=o+d;e=a[o];l[e[c]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[c]]=l[e[t]][e[S]];o=o+d;e=a[o];l[e[r]][e[U]]=l[e[_]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[S]];o=o+d;e=a[o];l[e[k]]=u[e[w]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[P]];o=o+d;e=a[o];l[e[c]][e[w]]=l[e[_]];o=o+d;e=a[o];l[e[r]]=l[e[x]][e[_]];o=o+d;e=a[o];l[e[h]]=u[e[w]];o=o+d;e=a[o];l[e[c]]=l[e[U]][e[C]];o=o+d;e=a[o];l[e[r]][e[w]]=l[e[D]];o=o+d;e=a[o];l[e[r]]=l[e[O]][e[_]];o=o+d;e=a[o];l[e[c]][e[f]]=e[_];o=o+d;e=a[o];o=e[f];break;end while 2124==(n)/((-0x4a+(8331-0x1083)))do n=(4229535)while s>(0x2eb-429)do n-= n local b;local n;l[e[r]][e[w]]=l[e[_]];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];n=e[h];b=l[e[x]];l[n+1]=b;l[n]=b[e[S]];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[r]][e[w]]=e[_];o=o+d;e=a[o];l[e[r]][e[w]]=e[N];o=o+d;e=a[o];l[e[i]][e[f]]=e[C];o=o+d;e=a[o];l[e[i]][e[x]]=e[S];o=o+d;e=a[o];l[e[i]][e[x]]=e[C];o=o+d;e=a[o];l[e[i]][e[w]]=e[N];break end while(n)/((0xed4-1945))==2285 do local c;local n;l[e[b]][e[t]]=l[e[P]];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];n=e[h];c=l[e[U]];l[n+1]=c;l[n]=c[e[_]];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[k]]=m[e[U]];o=o+d;e=a[o];l[e[k]]=l[e[U]][e[N]];o=o+d;e=a[o];l[e[k]]=e[w];o=o+d;e=a[o];l[e[i]]=e[f];o=o+d;e=a[o];l[e[r]]=e[f];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[x]))break end;break;end break;end break;end while(n)/((738276/0xbb))==1947 do n=(9392355)while s<=(0x2ff-445)do n-= n n=(4689069)while s<=(((0x12629+-84)+-#'impulse loves moonsex')/235)do n-= n l[e[h]]=(e[t]~=0);break;end while(n)/(((-112+0x757)+-#'jtoh is cringe ngl'))==2681 do n=(1203000)while s>(22470/(149+-0x4f))do n-= n local n;local r;local b,c;local n;l[e[i]]=u[e[U]];o=o+d;e=a[o];l[e[i]]=u[e[O]];o=o+d;e=a[o];n=e[k]b,c=p(l[n](l[n+M]))y=c+n-d r=0;for e=n,y do r=r+d;l[e]=b[r];end;o=o+d;e=a[o];n=e[h]b={l[n](B(l,n+1,y))};r=0;for e=n,e[D]do r=r+d;l[e]=b[r];end o=o+d;e=a[o];o=e[f];break end while(n)/((-0x7c+874))==1604 do l[e[h]]=l[e[x]]/e[P];break end;break;end break;end while 2835==(n)/((3423+-0x6e))do n=(2091350)while(-0x63+422)>=s do n-= n if(e[i]<l[e[S]])then o=e[t];else o=o+M;end;break;end while(n)/((-#'MSC 793z487nhvcgsdfgsudfza9889jgvz56gz56z547684z5g54z948g56z74j56475jzg645z6456 oh wait'+(100198/0x77)))==2770 do n=(6308302)while s>((0x30a-434)+-#'33 cocks in my mouth')do n-= n local i;local n;n={l,e};n[M][n[g][k]]=n[d][n[g][N]]+n[M][n[g][w]];o=o+d;e=a[o];n={e,l};n[g][n[M][c]]=n[g][n[d][w]]+n[M][S];o=o+d;e=a[o];i=e[b]l[i]=l[i](B(l,i+d,e[x]))o=o+d;e=a[o];l[e[k]][e[f]]=l[e[N]];o=o+d;e=a[o];l[e[r]]=u[e[f]];o=o+d;e=a[o];l[e[c]]=u[e[U]];o=o+d;e=a[o];l[e[k]]=l[e[x]][e[P]];o=o+d;e=a[o];l[e[h]]=u[e[O]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[P]];o=o+d;e=a[o];l[e[h]]=u[e[t]];break end while(n)/(((0x1c6b-3700)+-#'i love minors'))==1771 do local i;local n;l[e[r]][e[x]]=l[e[P]];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];n=e[h];i=l[e[x]];l[n+1]=i;l[n]=i[e[N]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[b]][e[f]]=e[S];o=o+d;e=a[o];l[e[h]][e[f]]=e[N];break end;break;end break;end break;end break;end while(n)/((1791-0x3a1))==1275 do n=(693863)while((771-0x1a6)+-#[[jtoh is cringe ngl]])>=s do n-= n n=(3847585)while s<=(-#"why 6 hours cooldown to send a meme strings"+(-0x7f+498))do n-= n n=(8741070)while s<=(((-8050/0xa1)+-#'i still cannot find who the fuck asked')+0x19e)do n-= n local k;local n;n=e[c];k=l[e[U]];l[n+1]=k;l[n]=k[e[_]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[i]][e[w]]=e[_];o=o+d;e=a[o];l[e[i]][e[x]]=e[N];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];n=e[b];k=l[e[t]];l[n+1]=k;l[n]=k[e[_]];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[b]][e[t]]=e[D];o=o+d;e=a[o];l[e[c]][e[U]]=e[N];break;end while(n)/((0x5a848/92))==2169 do n=(4888419)while(-#"Only a to Z 0 to 9 is allowed"+(52332/0x93))<s do n-= n l[e[i]]=#l[e[U]];break end while 1451==(n)/((-0x23+3404))do local e={e,l};e[g][e[M][i]]=e[g][e[d][O]]+e[M][N];break end;break;end break;end while(n)/((-#'never gonna give you up never gonna let you down'+(((0x53bce15/197)+-#'Niggabyte')/168)))==1477 do n=(6229125)while s<=(0x108be/206)do n-= n if not l[e[c]]then o=o+M;else o=e[t];end;break;end while 2825==(n)/((4524-0x90f))do n=(6421470)while s>((0xd467/145)+-#'testpsx dupe no scam legit 2022 free no virus')do n-= n l[e[h]]=u[e[x]];o=o+d;e=a[o];l[e[c]]=l[e[U]][e[N]];o=o+d;e=a[o];l[e[h]][e[O]]=l[e[D]];o=o+d;e=a[o];l[e[b]]=l[e[O]]/e[P];o=o+d;e=a[o];l[e[h]][e[t]]=l[e[N]];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[_]];o=o+d;e=a[o];l[e[k]][e[O]]=l[e[_]];o=o+d;e=a[o];l[e[h]]=u[e[O]];o=o+d;e=a[o];l[e[b]]=l[e[U]][e[D]];o=o+d;e=a[o];if not l[e[i]]then o=o+M;else o=e[t];end;break end while(n)/((0x70c+-35))==3630 do if(l[e[r]]<l[e[D]])then o=e[O];else o=o+M;end;break end;break;end break;end break;end while 1031==(n)/(((54560/0x50)+-#'Crackzzzz'))do n=(10948294)while((18003/0x33)+-#[[I hate black people]])>=s do n-= n n=(522870)while((-#[[holy shit]]+(0x2c0f5/251))-0x17a)>=s do n-= n local r;local n;l[e[h]][e[O]]=l[e[N]];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];n=e[i];r=l[e[O]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[h]]=m[e[x]];o=o+d;e=a[o];l[e[b]]=l[e[t]][e[N]];o=o+d;e=a[o];l[e[i]]=e[t];o=o+d;e=a[o];l[e[i]]=e[w];o=o+d;e=a[o];l[e[b]]=e[U];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[O]))break;end while 3005==(n)/((0x1ad-255))do n=(10251528)while s>((0x2d5-383)+-#"ambatakum")do n-= n l[e[i]]={};o=o+d;e=a[o];l[e[i]][e[f]]=e[D];o=o+d;e=a[o];l[e[r]][e[w]]=e[_];o=o+d;e=a[o];l[e[b]][e[w]]=e[N];o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];l[e[r]][e[x]]=e[P];o=o+d;e=a[o];l[e[b]][e[U]]=e[S];o=o+d;e=a[o];l[e[h]][e[U]]=e[_];o=o+d;e=a[o];l[e[b]][e[O]]=e[_];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[i]]={};break end while 3073==(n)/(((6724-0xd37)+-#"sussy"))do local w;local c;local n;l[e[b]]=u[e[O]];o=o+d;e=a[o];l[e[r]]=l[e[t]][e[_]];o=o+d;e=a[o];l[e[k]]=l[e[x]]*e[_];o=o+d;e=a[o];l[e[h]]=e[O];o=o+d;e=a[o];n=e[i];c=l[n]w=l[n+2];if(w>0)then if(c>l[n+1])then o=e[x];else l[n+3]=c;end elseif(c<l[n+1])then o=e[U];else l[n+3]=c;end break end;break;end break;end while 3647==(n)/((0x861f6/183))do n=(558502)while(0xd2af/161)>=s do n-= n local s;local M;local n;l[e[c]]=u[e[x]];o=o+d;e=a[o];l[e[c]]=u[e[f]];o=o+d;e=a[o];l[e[r]]=l[e[w]];o=o+d;e=a[o];n=e[r]M={l[n](B(l,n+1,e[t]))};s=0;for e=n,e[_]do s=s+d;l[e]=M[s];end o=o+d;e=a[o];l[e[k]]=u[e[O]];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[N]];o=o+d;e=a[o];l[e[h]]=l[e[x]][e[C]];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];l[e[i]]=l[e[w]];o=o+d;e=a[o];l[e[b]]=l[e[U]];o=o+d;e=a[o];l[e[b]]=u[e[f]];o=o+d;e=a[o];l[e[r]]=l[e[f]][e[C]];o=o+d;e=a[o];n=e[i];do return B(l,n,n+e[U])end;o=o+d;e=a[o];do return end;break;end while(n)/((-#"impulse 2022"+(0x1fd6-4120)))==139 do n=(34104)while((407+-0x3b)+-#[[impulse 2022]])<s do n-= n l[e[r]]=l[e[x]]-l[e[C]];break end while 203==(n)/((0x167-191))do local e={l,e};e[M][e[g][b]]=e[d][e[g][P]]+e[M][e[g][x]];break end;break;end break;end break;end break;end break;end break;end while 2508==(n)/((0x1948-3270))do n=(3030714)while s<=(33212/0x5c)do n-= n n=(1096416)while(813-0x1d0)>=s do n-= n n=(939216)while(394+-0x33)>=s do n-= n n=(3006220)while(0x1c4+-112)>=s do n-= n n=(1736700)while s<=(0x2b6-356)do n-= n l[e[b]]();break;end while(n)/((0x472-613))==3308 do n=(202860)while(792-0x1c5)<s do n-= n l[e[r]][e[f]]=l[e[S]];break end while(n)/((1446+-0x42))==147 do l[e[b]][e[U]]=l[e[_]];o=o+d;e=a[o];l[e[r]]=u[e[w]];o=o+d;e=a[o];l[e[r]]=u[e[O]];o=o+d;e=a[o];l[e[h]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[r]]=u[e[U]];o=o+d;e=a[o];l[e[h]]=l[e[O]][e[_]];o=o+d;e=a[o];l[e[i]]=l[e[f]]-l[e[P]];o=o+d;e=a[o];l[e[b]]=u[e[U]];o=o+d;e=a[o];l[e[k]]=l[e[t]][e[_]];o=o+d;e=a[o];l[e[b]]=l[e[f]]-l[e[D]];break end;break;end break;end while 1379==(n)/((0x176b0/((-72+0x7b)+-#"elbicho")))do n=(583358)while(0x31b-454)>=s do n-= n local n;l[e[b]][e[f]]=e[S];o=o+d;e=a[o];n=e[r]l[n](B(l,n+M,e[x]))o=o+d;e=a[o];l[e[c]]=u[e[O]];o=o+d;e=a[o];l[e[k]]=u[e[x]];o=o+d;e=a[o];l[e[i]]=e[f];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[r]]=u[e[t]];o=o+d;e=a[o];l[e[k]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[b]][e[t]]=l[e[P]];o=o+d;e=a[o];l[e[h]]=u[e[O]];o=o+d;e=a[o];l[e[c]]=l[e[O]][e[_]];o=o+d;e=a[o];l[e[h]][e[U]]=l[e[S]];o=o+d;e=a[o];l[e[r]]=u[e[U]];o=o+d;e=a[o];l[e[c]]=u[e[t]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[k]]=u[e[O]];o=o+d;e=a[o];l[e[b]]=l[e[t]][e[S]];o=o+d;e=a[o];l[e[b]]=u[e[w]];o=o+d;e=a[o];l[e[r]]=l[e[x]][e[P]];o=o+d;e=a[o];l[e[h]]=l[e[O]]-l[e[C]];o=o+d;e=a[o];l[e[b]]=u[e[U]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[P]];o=o+d;e=a[o];l[e[c]]=l[e[U]]-l[e[P]];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];l[e[h]][e[f]]=l[e[P]];o=o+d;e=a[o];l[e[r]]=u[e[O]];o=o+d;e=a[o];l[e[b]]=u[e[U]];o=o+d;e=a[o];l[e[r]]=l[e[w]][e[S]];o=o+d;e=a[o];l[e[b]]=u[e[x]];o=o+d;e=a[o];l[e[i]]=l[e[f]][e[D]];o=o+d;e=a[o];l[e[h]]=u[e[U]];o=o+d;e=a[o];l[e[i]]=l[e[f]][e[N]];o=o+d;e=a[o];l[e[c]]=l[e[t]]-l[e[D]];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];l[e[r]][e[O]]=l[e[C]];o=o+d;e=a[o];l[e[i]]=u[e[U]];o=o+d;e=a[o];l[e[c]]=l[e[w]][e[D]];o=o+d;e=a[o];if l[e[b]]then o=o+d;else o=e[f];end;break;end while 194==(n)/(((226200/0x4b)+-#"0nly 1337"))do n=(2884355)while(45144/0x84)<s do n-= n if(l[e[r]]~=l[e[D]])then o=o+M;else o=e[U];end;break end while(n)/((-0x3f+796))==3935 do l[e[k]][e[x]]=l[e[_]];o=o+d;e=a[o];l[e[r]]=u[e[U]];o=o+d;e=a[o];l[e[i]]=u[e[U]];o=o+d;e=a[o];l[e[c]]=l[e[U]];o=o+d;e=a[o];l[e[h]]=l[e[U]][e[P]];o=o+d;e=a[o];l[e[c]]=l[e[O]]-l[e[C]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[D]];o=o+d;e=a[o];l[e[b]]=u[e[f]];o=o+d;e=a[o];l[e[k]]=l[e[x]][e[P]];o=o+d;e=a[o];l[e[k]]=l[e[U]]*l[e[C]];break end;break;end break;end break;end while(n)/((0x679-841))==1151 do n=(5498438)while(0x2f5-411)>=s do n-= n n=(7965492)while s<=(0x16b+-19)do n-= n local n;local b;local c,x;local r;r=e[i]c,x=p(l[r](l[r+M]))y=x+r-d b=0;for e=r,y do b=b+d;l[e]=c[b];end;o=o+d;e=a[o];r=e[k]l[r]=l[r](B(l,r+d,y))o=o+d;e=a[o];l[e[k]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[D]];o=o+d;e=a[o];n={l,e};n[M][n[g][k]]=n[d][n[g][S]]+n[M][n[g][O]];o=o+d;e=a[o];n={e,l};n[g][n[M][i]]=n[g][n[d][O]]+n[M][P];o=o+d;e=a[o];if not l[e[k]]then o=o+M;else o=e[f];end;break;end while 3698==(n)/((-#[[arab porn]]+(2262+-0x63)))do n=(7190022)while s>(-69+0x19e)do n-= n local s;local N,M;local n;l[e[h]]=u[e[w]];o=o+d;e=a[o];l[e[c]]=u[e[w]];o=o+d;e=a[o];l[e[b]]=l[e[t]][e[C]];o=o+d;e=a[o];l[e[k]]=l[e[w]];o=o+d;e=a[o];n=e[h]N,M=p(l[n](B(l,n+1,e[t])))y=M+n-1 s=0;for e=n,y do s=s+d;l[e]=N[s];end;o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,y))o=o+d;e=a[o];l[e[c]]=u[e[U]];o=o+d;e=a[o];l[e[r]]=u[e[f]];o=o+d;e=a[o];l[e[i]]=l[e[U]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[c]]=u[e[U]];o=o+d;e=a[o];l[e[r]]=l[e[f]][e[_]];o=o+d;e=a[o];l[e[r]][e[w]]=l[e[C]];o=o+d;e=a[o];l[e[h]]=u[e[w]];o=o+d;e=a[o];l[e[c]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[i]][e[x]]=l[e[D]];o=o+d;e=a[o];l[e[c]]=u[e[U]];o=o+d;e=a[o];l[e[k]]=u[e[O]];o=o+d;e=a[o];l[e[c]]=l[e[w]][e[P]];o=o+d;e=a[o];l[e[h]]=l[e[t]]/e[D];o=o+d;e=a[o];l[e[k]]=u[e[w]];o=o+d;e=a[o];l[e[i]]=l[e[t]][e[S]];o=o+d;e=a[o];l[e[i]]=l[e[w]]-e[S];o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];l[e[b]][e[x]]=l[e[S]];o=o+d;e=a[o];l[e[i]][e[O]]=l[e[_]];o=o+d;e=a[o];l[e[k]]=u[e[O]];o=o+d;e=a[o];l[e[h]]=l[e[U]][e[D]];o=o+d;e=a[o];if l[e[i]]then o=o+d;else o=e[t];end;break end while 2702==(n)/((0x3c6b1/93))do local r;local n;l[e[k]][e[w]]=l[e[N]];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];n=e[k];r=l[e[w]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];l[e[b]][e[t]]=e[N];o=o+d;e=a[o];l[e[h]][e[w]]=e[N];o=o+d;e=a[o];l[e[c]][e[t]]=e[C];o=o+d;e=a[o];l[e[c]][e[f]]=e[P];o=o+d;e=a[o];l[e[c]][e[t]]=e[_];o=o+d;e=a[o];l[e[i]][e[x]]=e[P];break end;break;end break;end while 3223==(n)/((0xda4-1786))do n=(971193)while(-#"impulse is hot"+(76893/0xd5))>=s do n-= n local k;local n;l[e[i]]=u[e[x]];o=o+d;e=a[o];n=e[c];k=l[e[t]];l[n+1]=k;l[n]=k[e[N]];o=o+d;e=a[o];l[e[h]]=u[e[t]];o=o+d;e=a[o];l[e[r]]=l[e[t]][e[N]];o=o+d;e=a[o];l[e[c]]=l[e[t]][e[N]];o=o+d;e=a[o];n=e[b]l[n](B(l,n+M,e[O]))o=o+d;e=a[o];do return end;break;end while(n)/((0x4cc2f/135))==417 do n=(7591992)while(3132/0x9)<s do n-= n local n;l[e[c]]=u[e[t]];o=o+d;e=a[o];n=e[b]l[n]=l[n]()o=o+d;e=a[o];l[e[k]]=u[e[t]];o=o+d;e=a[o];l[e[c]]=l[e[t]]-l[e[N]];o=o+d;e=a[o];l[e[i]]=u[e[O]];o=o+d;e=a[o];l[e[c]]=l[e[w]][e[N]];o=o+d;e=a[o];l[e[i]]=l[e[w]]/e[N];o=o+d;e=a[o];if(l[e[i]]<l[e[N]])then o=o+M;else o=e[f];end;break end while(n)/((-#[[ÑÑÑÑÑÑÑ]]+(458568/0xc6)))==3288 do local o=e[i];do return l[o](B(l,o+1,e[f]))end;break end;break;end break;end break;end break;end while(n)/((3904+-0x61))==288 do n=(8188000)while s<=((-100+0x1d0)+-#[[arab porn]])do n-= n n=(12248576)while s<=((12078/0x21)+-#'waste of sperm')do n-= n n=(4779852)while s<=(458+-0x6c)do n-= n l[e[h]]={};break;end while 1478==(n)/((6491-0xcb9))do n=(113606)while((442+((-1856/0x1d)+-#'get good use moonsec'))+-#[[ÑÑÑÑÑÑÑ]])<s do n-= n l[e[k]]=u[e[O]];o=o+d;e=a[o];l[e[c]]=l[e[t]][e[P]];o=o+d;e=a[o];l[e[r]]=l[e[f]][e[N]];o=o+d;e=a[o];l[e[k]][e[t]]=l[e[C]];o=o+d;e=a[o];do return end;break end while 2642==(n)/((-#'i shoved a whole bag of jellibeans up my ass'+(0xc1-106)))do local e=e[b]l[e](l[e+M])break end;break;end break;end while 4072==(n)/((3100+-0x5c))do n=(8009820)while s<=(0x134e0/224)do n-= n local b;local n;n=e[k]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];l[e[k]][e[t]]=l[e[D]];o=o+d;e=a[o];l[e[k]]=l[e[U]];o=o+d;e=a[o];n=e[i]l[n]=l[n]()o=o+d;e=a[o];l[e[h]]=l[e[f]][e[P]];o=o+d;e=a[o];n=e[r];b=l[e[w]];l[n+1]=b;l[n]=b[e[P]];break;end while(n)/((0xb248/14))==2457 do n=(2604646)while(-#[[Bwomp]]+(0x319-434))<s do n-= n local o=e[c]local a,e=p(l[o](B(l,o+1,e[x])))y=e+o-1 local e=0;for o=o,y do e=e+d;l[o]=a[e];end;break end while 2519==(n)/((-56+0x442))do local n;local h;local b,w;local c;local n;l[e[r]][e[t]]=l[e[D]];o=o+d;e=a[o];l[e[r]]=m[e[x]];o=o+d;e=a[o];n=e[r];c=l[e[t]];l[n+1]=c;l[n]=c[e[P]];o=o+d;e=a[o];n=e[k]b,w=p(l[n](l[n+M]))y=w+n-d h=0;for e=n,y do h=h+d;l[e]=b[h];end;o=o+d;e=a[o];n=e[i]b={l[n](B(l,n+1,y))};h=0;for e=n,e[P]do h=h+d;l[e]=b[h];end o=o+d;e=a[o];o=e[O];break end;break;end break;end break;end while 4094==(n)/((-91+0x82b))do n=(1186223)while((0x12368/200)+-#"Russian letters")>=s do n-= n n=(6350760)while(0xffe0/184)>=s do n-= n local e=e[h]l[e](B(l,e+M,y))break;end while(n)/((0x177f-3025))==2124 do n=(5551864)while s>(((-0x12+15270)/0x29)+-#'W4rboy was here')do n-= n local e=e[b]l[e](l[e+M])break end while 1432==(n)/((0x1e62-3901))do l[e[b]]={};break end;break;end break;end while 1013==(n)/((-64+0x4d3))do n=(6185850)while(0x2e2-379)>=s do n-= n local n;l[e[h]]=u[e[U]];o=o+d;e=a[o];n=e[c]l[n]=l[n]()o=o+d;e=a[o];l[e[b]]=u[e[w]];o=o+d;e=a[o];l[e[c]]=l[e[x]]-l[e[P]];o=o+d;e=a[o];l[e[r]]=u[e[w]];o=o+d;e=a[o];l[e[k]]=l[e[t]][e[D]];o=o+d;e=a[o];if(l[e[k]]<l[e[S]])then o=e[w];else o=o+M;end;break;end while 3450==(n)/((0x6d6fa/250))do n=(12095270)while(754-0x18a)<s do n-= n local r;local n;l[e[k]][e[f]]=l[e[D]];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];n=e[b];r=l[e[U]];l[n+1]=r;l[n]=r[e[D]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[i]][e[U]]=e[C];o=o+d;e=a[o];l[e[k]]=m[e[U]];o=o+d;e=a[o];l[e[i]]=l[e[t]][e[S]];o=o+d;e=a[o];l[e[i]]=e[t];o=o+d;e=a[o];l[e[c]]=e[O];o=o+d;e=a[o];l[e[c]]=e[U];break end while 3410==(n)/((-#"Me be like at 5am in the morning"+(3596+-0x11)))do l[e[c]]=l[e[O]]/e[S];break end;break;end break;end break;end break;end break;end while 2458==(n)/((0x2e5ba/154))do n=(12295728)while(-#'goofy ahh uncle productions'+(-39+0x1b7))>=s do n-= n n=(4025044)while s<=(-#[[10 black dicks in your mouth]]+(0x349-446))do n-= n n=(862786)while s<=(-#[[niggers]]+(837-0x1d2))do n-= n n=(6673465)while s<=(-#"Bwomp"+(27158/0x4a))do n-= n local x;local s;local n;l[e[i]]=l[e[w]];o=o+d;e=a[o];n=e[c]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[r]]=u[e[U]];o=o+d;e=a[o];l[e[r]]=l[e[t]][e[D]];o=o+d;e=a[o];n=e[r]s={l[n](l[n+1])};x=0;for e=n,e[D]do x=x+d;l[e]=s[x];end o=o+d;e=a[o];l[e[c]]=u[e[f]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[N]];o=o+d;e=a[o];n=e[b]s={l[n](l[n+1])};x=0;for e=n,e[N]do x=x+d;l[e]=s[x];end o=o+d;e=a[o];l[e[b]]=u[e[t]];o=o+d;e=a[o];l[e[b]]=l[e[t]][e[P]];o=o+d;e=a[o];n=e[i]s={l[n](l[n+1])};x=0;for e=n,e[P]do x=x+d;l[e]=s[x];end o=o+d;e=a[o];l[e[b]]=u[e[w]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[N]];o=o+d;e=a[o];n=e[k]s={l[n](l[n+1])};x=0;for e=n,e[N]do x=x+d;l[e]=s[x];end o=o+d;e=a[o];l[e[h]]=u[e[U]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[N]];o=o+d;e=a[o];if l[e[b]]then o=o+d;else o=e[t];end;break;end while(n)/((-#"nicowashere"+(0xc5310/213)))==1765 do n=(765898)while(0xb13f/125)<s do n-= n if(l[e[r]]==l[e[S]])then o=o+M;else o=e[w];end;break end while(n)/((-#"if syn request then print your mom then end and then kill yourself"+(0x12ff8/142)))==1589 do l[e[i]]=-l[e[O]];break end;break;end break;end while(n)/((1429+-0x53))==641 do n=(5238456)while s<=(31390/((294-0xb2)+-#'impulse was here pastebin reel'))do n-= n local n;l[e[h]]=u[e[O]];o=o+d;e=a[o];l[e[c]]=e[t];o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];l[e[k]][e[t]]=e[D];o=o+d;e=a[o];l[e[c]][e[w]]=e[S];o=o+d;e=a[o];n=e[i]l[n](B(l,n+M,e[w]))o=o+d;e=a[o];l[e[h]]=u[e[f]];o=o+d;e=a[o];l[e[i]]=u[e[O]];o=o+d;e=a[o];l[e[b]]=e[w];o=o+d;e=a[o];l[e[r]]={};break;end while 3921==(n)/((1456+-0x78))do n=(4076280)while s>(0x961e/105)do n-= n l[e[r]]=(e[U]~=0);o=o+M;break end while(n)/((0xd6b-1745))==2412 do local i;local n;l[e[k]][e[f]]=l[e[D]];o=o+d;e=a[o];n=e[k]l[n]=l[n](B(l,n+d,e[O]))o=o+d;e=a[o];n=e[b];i=l[e[x]];l[n+1]=i;l[n]=i[e[C]];o=o+d;e=a[o];l[e[c]]=e[w];o=o+d;e=a[o];n=e[h]l[n](B(l,n+M,e[w]))o=o+d;e=a[o];n=e[r];i=l[e[x]];l[n+1]=i;l[n]=i[e[D]];o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];l[e[k]][e[f]]=e[N];o=o+d;e=a[o];l[e[c]][e[f]]=e[D];o=o+d;e=a[o];l[e[h]][e[w]]=e[_];break end;break;end break;end break;end while(n)/((1221+-0x61))==3581 do n=(1953352)while(-35+0x195)>=s do n-= n n=(2006604)while s<=(852-0x1e4)do n-= n local b;local n;l[e[r]][e[f]]=l[e[D]];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[f]))o=o+d;e=a[o];n=e[r];b=l[e[U]];l[n+1]=b;l[n]=b[e[P]];o=o+d;e=a[o];l[e[r]]={};o=o+d;e=a[o];l[e[c]][e[f]]=e[D];o=o+d;e=a[o];l[e[k]][e[U]]=e[N];o=o+d;e=a[o];l[e[h]][e[w]]=e[S];o=o+d;e=a[o];l[e[i]][e[U]]=e[C];o=o+d;e=a[o];l[e[c]][e[t]]=e[P];o=o+d;e=a[o];l[e[r]][e[t]]=e[P];break;end while 1668==(n)/((127518/0x6a))do n=(1969740)while(0x358-(0x40ae/34))<s do n-= n local c;local n;n=e[r];c=l[e[w]];l[n+1]=c;l[n]=c[e[D]];o=o+d;e=a[o];n=e[r]l[n](l[n+M])o=o+d;e=a[o];l[e[b]]=m[e[t]];o=o+d;e=a[o];n=e[i];c=l[e[w]];l[n+1]=c;l[n]=c[e[S]];o=o+d;e=a[o];n=e[k]l[n](l[n+M])o=o+d;e=a[o];l[e[r]]=m[e[f]];o=o+d;e=a[o];n=e[b];c=l[e[t]];l[n+1]=c;l[n]=c[e[P]];o=o+d;e=a[o];n=e[b]l[n](l[n+M])o=o+d;e=a[o];l[e[r]]=m[e[O]];o=o+d;e=a[o];n=e[h];c=l[e[U]];l[n+1]=c;l[n]=c[e[_]];break end while 2790==(n)/((1489-0x30f))do local n;l[e[r]]=u[e[w]];o=o+d;e=a[o];l[e[k]]=l[e[f]];o=o+d;e=a[o];l[e[c]]=e[O];o=o+d;e=a[o];n=e[i]l[n]=l[n](B(l,n+d,e[x]))o=o+d;e=a[o];if l[e[b]]then o=o+d;else o=e[x];end;break end;break;end break;end while(n)/((0x1b35-(-#[[Impulse real 2022]]+(-0x54+3627))))==568 do n=(2998743)while s<=(-54+0x1a9)do n-= n local h;local k,w;local n;l[e[c]]=e[x];o=o+d;e=a[o];l[e[i]]=l[e[x]];o=o+d;e=a[o];l[e[b]]=u[e[t]];o=o+d;e=a[o];l[e[r]]=l[e[x]];o=o+d;e=a[o];n=e[r]k,w=p(l[n](l[n+M]))y=w+n-d h=0;for e=n,y do h=h+d;l[e]=k[h];end;o=o+d;e=a[o];n=e[b]l[n]=l[n](B(l,n+d,y))o=o+d;e=a[o];l[e[c]]=l[e[t]];break;end while(n)/((164469/((0x243-317)+-#"why 6 hours cooldown to send a meme strings")))==3993 do n=(6283510)while s>(0x12b58/206)do n-= n local i;local n;l[e[r]][e[f]]=l[e[S]];o=o+d;e=a[o];n=e[h]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];n=e[r];i=l[e[t]];l[n+1]=i;l[n]=i[e[C]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[b]][e[U]]=e[D];o=o+d;e=a[o];l[e[c]][e[O]]=e[C];o=o+d;e=a[o];l[e[h]][e[O]]=e[N];break end while 2098==(n)/(((0x17b3-3046)+-#'You are an absolute baboon'))do l[e[h]]=e[f]*l[e[P]];break end;break;end break;end break;end break;end while(n)/(((0x82bf0/((0x1e9-300)+-#"testpsx dupe no scam legit 2022 free no virus"))+-#"monkey mode"))==3316 do n=(4705872)while(-0x10+395)>=s do n-= n n=(6941275)while s<=(-#'Luraph v13 has been released changed absolutely fucking nothing'+(-85+0x20c))do n-= n n=(4263296)while(-0x28+414)>=s do n-= n l[e[b]]=u[e[U]];o=o+d;e=a[o];l[e[c]]=l[e[O]][e[_]];o=o+d;e=a[o];l[e[c]]=l[e[O]][e[P]];o=o+d;e=a[o];l[e[k]][e[w]]=l[e[D]];o=o+d;e=a[o];do return end;break;end while 1753==(n)/((-95+0x9df))do n=(100608)while(-#[[impulse is hot]]+(873-0x1e4))<s do n-= n if(l[e[c]]<l[e[C]])then o=e[f];else o=o+M;end;break end while 384==(n)/((37466/0x8f))do if(l[e[b]]<e[S])then o=o+M;else o=e[O];end;break end;break;end break;end while(n)/((-35+0xb9a))==2365 do n=(1009626)while(-114+0x1eb)>=s do n-= n m[e[f]]=l[e[r]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];m[e[f]]=l[e[c]];o=o+d;e=a[o];l[e[i]]=m[e[U]];o=o+d;e=a[o];if(l[e[b]]~=e[S])then o=o+M;else o=e[t];end;break;end while 382==(n)/((5345-0xa8e))do n=(283635)while(23058/0x3d)<s do n-= n local b;local n;l[e[h]]=u[e[x]];o=o+d;e=a[o];l[e[r]]=l[e[U]];o=o+d;e=a[o];n=e[h]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[i]]=m[e[x]];o=o+d;e=a[o];b=l[e[_]];if not b then o=o+M;else l[e[h]]=b;o=e[O];end;break end while(n)/((348-0xd5))==2101 do l[e[h]]=e[U]/e[N];break end;break;end break;end break;end while(n)/(((0xa2c-1324)+-#"papier ist ein kleiner schwanz lutscher"))==3792 do n=(2243844)while((0x507c/51)+-#'I FUCKING HATE FEMBOYS')>=s do n-= n n=(4456928)while s<=(-#'when the he went where when he where where when the he when ther wher he then here went'+(((0x47c+-123)+-#"cilertedcool")-546))do n-= n local h;local n;l[e[i]]=m[e[w]];o=o+d;e=a[o];n=e[b];h=l[e[x]];l[n+1]=h;l[n]=h[e[N]];o=o+d;e=a[o];l[e[b]]=e[O];o=o+d;e=a[o];n=e[r]l[n]=l[n](B(l,n+d,e[U]))o=o+d;e=a[o];n=e[b];h=l[e[w]];l[n+1]=h;l[n]=h[e[D]];o=o+d;e=a[o];l[e[i]]=e[t];o=o+d;e=a[o];l[e[c]]=l[e[O]];o=o+d;e=a[o];n=e[c]l[n](B(l,n+M,e[O]))o=o+d;e=a[o];do return end;break;end while(n)/((0x21798/87))==2828 do n=(4870296)while(-#"i shoved a whole bag of jellibeans up my ass"+(36975/0x57))<s do n-= n l[e[c]]=#l[e[w]];break end while(n)/((-#"Crackzzzz"+(-91+0x98e)))==2076 do local n=e[k];local d={};for e=1,#z do local e=z[e];for o=0,#e do local o=e[o];local a=o[1];local e=o[2];if a==l and e>=n then d[e]=a[e];o[1]=d;end;end;end;break end;break;end break;end while 794==(n)/((2921+-0x5f))do n=(11924905)while s<=(0x1dc+-92)do n-= n n=(1494810)while(3064/0x8)<s do n-= n local n;l[e[b]]=u[e[U]];o=o+d;e=a[o];l[e[b]]=l[e[t]][e[P]];o=o+d;e=a[o];l[e[r]]=l[e[t]]*e[D];o=o+d;e=a[o];l[e[h]]=l[e[t]]/e[P];o=o+d;e=a[o];l[e[b]]=l[e[x]]-l[e[_]];o=o+d;e=a[o];n=e[b]l[n]=l[n](l[n+M])o=o+d;e=a[o];l[e[c]]=u[e[x]];o=o+d;e=a[o];l[e[r]]=l[e[O]][e[S]];o=o+d;e=a[o];l[e[b]]=l[e[x]]*e[_];o=o+d;e=a[o];l[e[h]]=l[e[O]]/e[S];break end while(n)/((24425/0x19))==1530 do l[e[h]]=l[e[x]]*e[_];break end;break;end while(n)/((((32-0x38)+-#'paidlancer')+0x1001))==2935 do n=(87438)while((-0x3f+468)+-#'meme strings be like')<s do n-= n local i;local k;local n;l[e[r]]=l[e[U]][e[_]];o=o+d;e=a[o];n=e[c]k={l[n](l[n+1])};i=0;for e=n,e[S]do i=i+d;l[e]=k[i];end o=o+d;e=a[o];l[e[c]]=u[e[x]];o=o+d;e=a[o];l[e[b]]=u[e[f]];o=o+d;e=a[o];l[e[c]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[b]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[h]]=l[e[U]];o=o+d;e=a[o];n=e[c]l[n]=l[n](B(l,n+d,e[w]))o=o+d;e=a[o];if not l[e[r]]then o=o+M;else o=e[t];end;break end while 494==(n)/((254+-0x4d))do if(l[e[c]]<l[e[S]])then o=o+M;else o=e[O];end;break end;break;end break;end break;end break;end break;end break;end break;end break;end o+= M end;end);end;return A(H(),{},J())()end)_msec({[(-#"big niggers sucking cock"+(-102+0x120))]='\115\116'..(function(e)return(e and'   ​       ')or'\114\105'or'\120\58'end)((-52+0x39)==((190-0x9a)+-#[[If no milk then return ffather]]))..'\110g',["           ​   "]='\108\100'..(function(e)return(e and'           ​​      ')or'\101\120'or'\119\111'end)((1270/(-#"goofy ahh uncle productions"+(0x9f29/145)))==(1188/0xc6))..'\112',["      ​        "]=(function(e)return(e and'   ​​  ​​         ')and'\98\121'or'\100\120'end)((0x393/183)==(0x2f+-42))..'\116\101',[" ​               "]='\99'..(function(e)return(e and'            ')and'\90\19\157'or'\104\97'end)((-#"Boosted moonsec for meme string"+(0x45+-33))==(-#"null"+(0x2ae/98)))..'\114',[(616+-0x2e)]='\116\97'..(function(e)return(e and'      ​ ')and'\64\113'or'\98\108'end)(((-#[[elbicho]]+(-0x4f+-1))+93)==((364/0x1a)+-#'kys nigga'))..'\101',["    ​          "]=(function(e)return(e and'      ​    ​   ')or'\115\117'or'\78\107'end)(((97+(-#"hypeblox likes sucking big black cock"+(-5760/0x78)))+-#"ambatakum")==(82-0x33))..'\98',["                "]='\99\111'..(function(e)return(e and'      ​       ')and'\110\99'or'\110\105\103\97'end)((0x1838/200)==(0x1c94/236))..'\97\116',[((-29+0x2e6)+-#'big niggers sucking cock')]=(function(e,o)return(e and'                  ')and'\48\159\158\188\10'or'\109\97'end)(((-#[[nigglet]]+(0x328-466))/67)==(0x444/182))..'\116\104',[(6940/0x5)]=(function(e,o)return(((0xd00/104)-0x1b)==((0x60+-79)+-#'freerobuxphone')and'\48'..'\195'or e..((not'\20\95\69'and'\90'..'\180'or o)))or'\199\203\95'end),["              "]='\105\110'..(function(e,o)return(e and'           ​ ')and'\90\115\138\115\15'or'\115\101'end)((0x59-84)==(0xa6-135))..'\114\116',["              "]='\117\110'..(function(e,o)return(e and'              ')or'\112\97'or'\20\38\154'end)((-31+0x24)==(-#'how tf do i remove the meme strings'+(138+-0x48)))..'\99\107',["             ​   "]='\115\101'..(function(e)return(e and'              ')and'\110\112\99\104'or'\108\101'end)((78+(-#"negus"+(-15-0x35)))==(123-0x5c))..'\99\116',["               "]='\116\111\110'..(function(e,o)return(e and'           ')and'\117\109\98'or'\100\97\120\122'end)((0x29-36)==((0x125-181)+-107))..'\101\114'},{["                 "]=((getfenv))},((getfenv))()) end)()
+local LocalPlayer = Players.LocalPlayer
+local Mouse = LocalPlayer:GetMouse()
+local CurrentCamera = workspace.CurrentCamera
+local plr = plrs.LocalPlayer
+local mouse = plr:GetMouse()
+local camera = workspace.CurrentCamera
+local worldToViewportPoint = camera.worldToViewportPoint
+local cc = Instance.new("ColorCorrectionEffect", game.Lighting)
+local blur = Instance.new("BlurEffect", game.Lighting)
+local sun = Instance.new("SunRaysEffect", game.Lighting)
+local atmos = Instance.new("Atmosphere", game.Lighting)
+blur.Size = 0
+sun.Intensity = 0
+
+--[Optimisation Variables]
+
+local Drawingnew = Drawing.new
+local Color3fromRGB = Color3.fromRGB
+local Vector3new = Vector3.new
+local Vector2new = Vector2.new
+local mathfloor = math.floor
+local mathceil = math.ceil
+
+--[Setup Table]
+
+local esp = {
+    players = {},
+    enabled = true,
+    teamcheck = true,
+    fontsize = 22,
+    font = 0,
+    settings = {
+        name = {enabled = false, outline = true, color = Color3fromRGB(255, 255, 255), outlineColor = Color3fromRGB(0, 0, 0)},
+        box = {enabled = false, outline = true, color = Color3fromRGB(255, 255, 255), outlineColor = Color3fromRGB(0, 0, 0)},
+        healthbar = {enabled = false, outline = true, color = Color3fromRGB(255, 255, 255), outlineColor = Color3fromRGB(0, 0, 0)},
+        healthtext = {enabled = false, outline = true, color = Color3fromRGB(255, 255, 255), outlineColor = Color3fromRGB(0, 0, 0)},
+        distance = {enabled = false, outline = true, color = Color3fromRGB(255, 255, 255), outlineColor = Color3fromRGB(0, 0, 0)}
+    }
+}
+
+esp.NewDrawing = function(type, properties)
+    local newDrawing = Drawingnew(type)
+
+    for i,v in next, properties or {} do
+        newDrawing[i] = v
+    end
+
+    return newDrawing
+end
+
+esp.NewPlayer = function(v)
+    esp.players[v] = {
+        name = esp.NewDrawing("Text", {Color = Color3fromRGB(255, 255, 255), Outline = true, Center = true, Size = 13, Font = 0}),
+        boxOutline = esp.NewDrawing("Square", {Color = Color3fromRGB(0, 0, 0), Thickness = 3}),
+        box = esp.NewDrawing("Square", {Color = Color3fromRGB(255, 255, 255), Thickness = 1}),
+        healthBarOutline = esp.NewDrawing("Line", {Color = Color3fromRGB(0, 0, 0), Thickness = 3}),
+        healthBar = esp.NewDrawing("Line", {Color = Color3fromRGB(255, 255, 255), Thickness = 1}),
+        healthText = esp.NewDrawing("Text", {Color = Color3fromRGB(255, 255, 255), Outline = true, Center = true, Size = 13, Font = 0}),
+        distance = esp.NewDrawing("Text", {Color = Color3fromRGB(255, 255, 255), Outline = true, Center = true, Size = 13, Font = 0})
+    }
+end
+
+for _,v in ipairs(plrs:GetPlayers()) do
+    esp.NewPlayer(v)
+end
+
+plrs.PlayerAdded:Connect(function(v)
+    esp.NewPlayer(v)
+end)
+
+plrs.PlayerRemoving:Connect(function(v)
+    for i,v in pairs(esp.players[v]) do
+        v:Remove()
+    end
+    esp.players[v] = nil
+end)
+
+local mainLoop = rs.RenderStepped:Connect(function()
+    for i,v in pairs(esp.players) do
+        if i ~= plr and i.Character and i.Character:FindFirstChild("Humanoid") and i.Character:FindFirstChild("HumanoidRootPart") and i.Character:FindFirstChild("Head") then
+            local hum = i.Character.Humanoid
+            local hrp = i.Character.HumanoidRootPart
+            local head = i.Character.Head
+
+            local Vector, onScreen = camera:WorldToViewportPoint(i.Character.HumanoidRootPart.Position)
+    
+            local Size = (camera:WorldToViewportPoint(hrp.Position - Vector3new(0, 3, 0)).Y - camera:WorldToViewportPoint(hrp.Position + Vector3new(0, 2.6, 0)).Y) / 2
+            local BoxSize = Vector2new(mathfloor(Size * 1.5), mathfloor(Size * 1.9))
+            local BoxPos = Vector2new(mathfloor(Vector.X - Size * 1.5 / 2), mathfloor(Vector.Y - Size * 1.6 / 2))
+    
+            local BottomOffset = BoxSize.Y + BoxPos.Y + 1
+
+            if onScreen and esp.enabled then
+                if esp.settings.name.enabled then
+                    v.name.Position = Vector2new(BoxSize.X / 2 + BoxPos.X, BoxPos.Y - 16)
+                    v.name.Outline = esp.settings.name.outline
+                    v.name.Text = tostring(i)
+                    v.name.Color = esp.settings.name.color
+                    v.name.OutlineColor = esp.settings.name.outlineColor
+                    v.name.Font = esp.font
+                    v.name.Size = esp.fontsize
+
+                    v.name.Visible = true
+                else
+                    v.name.Visible = false
+                end
+
+                if esp.settings.distance.enabled and plr.Character and plr.Character:FindFirstChild("HumanoidRootPart") then
+                    v.distance.Position = Vector2new(BoxSize.X / 2 + BoxPos.X, BottomOffset)
+                    v.distance.Outline = esp.settings.distance.outline
+                    v.distance.Text = "[" .. mathfloor((hrp.Position - plr.Character.HumanoidRootPart.Position).Magnitude) .. "m]"
+                    v.distance.Color = esp.settings.distance.color
+                    v.distance.OutlineColor = esp.settings.distance.outlineColor
+                    BottomOffset = BottomOffset + 15
+
+                    v.distance.Font = esp.font
+                    v.distance.Size = esp.fontsize
+
+                    v.distance.Visible = true
+                else
+                    v.distance.Visible = false
+                end
+
+                if esp.settings.box.enabled then
+                    v.boxOutline.Size = BoxSize
+                    v.boxOutline.Position = BoxPos
+                    v.boxOutline.Visible = esp.settings.box.outline
+                    v.boxOutline.Color = esp.settings.box.outlineColor
+    
+                    v.box.Size = BoxSize
+                    v.box.Position = BoxPos
+                    v.box.Color = esp.settings.box.color
+                    v.box.Visible = true
+                else
+                    v.boxOutline.Visible = false
+                    v.box.Visible = false
+                end
+
+                if esp.settings.healthbar.enabled then
+                    v.healthBar.From = Vector2new((BoxPos.X - 5), BoxPos.Y + BoxSize.Y)
+                    v.healthBar.To = Vector2new(v.healthBar.From.X, v.healthBar.From.Y - (hum.Health / hum.MaxHealth) * BoxSize.Y)
+                    v.healthBar.Color = esp.settings.healthbar.color
+                    v.healthBar.Visible = true
+
+                    v.healthBarOutline.From = Vector2new(v.healthBar.From.X, BoxPos.Y + BoxSize.Y + 1)
+                    v.healthBarOutline.To = Vector2new(v.healthBar.From.X, (v.healthBar.From.Y - 1 * BoxSize.Y) -1)
+                    v.healthBarOutline.Color = esp.settings.healthbar.outlineColor
+                    v.healthBarOutline.Visible = esp.settings.healthbar.outline
+                else
+                    v.healthBarOutline.Visible = false
+                    v.healthBar.Visible = false
+                end
+
+                if esp.settings.healthtext.enabled then
+                    v.healthText.Text = tostring(mathfloor((hum.Health / hum.MaxHealth) * 100 + 0.5))
+                    v.healthText.Position = Vector2new((BoxPos.X - 20), (BoxPos.Y + BoxSize.Y - 1 * BoxSize.Y) -1)
+                    v.healthText.Color = esp.settings.healthtext.color
+                    v.healthText.OutlineColor = esp.settings.healthtext.outlineColor
+                    v.healthText.Outline = esp.settings.healthtext.outline
+
+                    v.healthText.Font = esp.font
+                    v.healthText.Size = esp.fontsize
+
+                    v.healthText.Visible = true
+                else
+                    v.healthText.Visible = false
+                end
+
+                if esp.teamcheck then
+                    if v.TeamColor ~= plr.TeamColor then
+                        v.name.Visible = esp.settings.name.enabled
+                        v.box.Visible = esp.settings.box.enabled
+                        v.healthBar.Visible = esp.settings.healthbar.enabled
+                        v.healthText.Visible = esp.settings.healthtext.enabled
+                        v.distance.Visible = esp.settings.distance.enabled
+                    else
+                        v.name.Visible = false
+                        v.boxOutline.Visible = false
+                        v.box.Visible = false
+                        v.healthBarOutline.Visible = false
+                        v.healthBar.Visible = false
+                        v.healthText.Visible = false
+                        v.distance.Visible = false
+                    end
+                end
+            else
+                v.name.Visible = false
+                v.boxOutline.Visible = false
+                v.box.Visible = false
+                v.healthBarOutline.Visible = false
+                v.healthBar.Visible = false
+                v.healthText.Visible = false
+                v.distance.Visible = false
+            end
+        else
+            v.name.Visible = false
+            v.boxOutline.Visible = false
+            v.box.Visible = false
+            v.healthBarOutline.Visible = false
+            v.healthBar.Visible = false
+            v.healthText.Visible = false
+            v.distance.Visible = false
+        end
+    end
+end)
+
+getgenv().esp = esp
+
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/vozoid/ui-libraries/main/drawing/void/source.lua"))()
+
+local main = library:Load{
+    Name = "GhostWare [CLOSED BETA]",
+    SizeX = 500,
+    SizeY = 450,
+    Theme = "Midnight",
+    Extension = "ghost", -- config file extension
+    Folder = "ghostware" -- config folder name
+}
+
+local Aimbot = main:Tab("Aimbot")
+local Exploits = main:Tab("Exploits")
+local Visuals = main:Tab("Visuals")
+local Misc = main:Tab("Misc")
+
+
+-- Aimbot Tab
+local Aimbott = Aimbot:Section{
+    Name = "Aimbot",
+    Side = "Left"
+}
+
+
+local Aimbot = Aimbott:Toggle{
+    Name = "Legit Aimbot",
+    Flag = "name",
+    Default = false,
+    Callback  = function(bool)
+        -- instancing
+        if bool == true then
+       -- instancing
+local drawing_new = Drawing.new
+local instance_new = Instance.new
+
+-- workspace
+local vector2_new = Vector2.new
+local vector3_new = Vector3.new
+local cframe_new = CFrame.new
+local cframe_angles = CFrame.Angles
+local raycast_params_new = RaycastParams.new
+local raycast = workspace.Raycast
+
+-- color
+local color3_rgb = Color3.fromRGB
+local color3_hsv = Color3.fromHSV
+local color3_new = Color3.new
+
+-- math
+local math_floor = math.floor
+local math_ceil = math.ceil
+local math_atan2 = math.atan2
+local math_rad = math.rad
+local math_random = math.random
+local math_randomseed = math.randomseed
+
+-- string
+local string_char = string.char
+local string_format = string.format
+
+-- table
+local table_sort = table.sort
+
+-- task
+local task_wait = task.wait
+
+-- namecall
+local gdbd = game.GetDebugId
+local get_children = game.GetChildren
+local get_descendants = game.GetDescendants
+local find_first_child_of_class = game.FindFirstChildOfClass
+local find_first_child = game.FindFirstChild
+local is_descendant_of = game.IsDescendantOf
+local world_to_view_point = find_first_child_of_class(workspace, "Camera").WorldToViewportPoint
+local point_world_space = cframe_new().pointToWorldSpace
+local point_object_space = cframe_new().pointToObjectSpace
+local vector_world_space = cframe_new().vectorToWorldSpace
+local is_a = game.IsA
+
+-- globals
+local workspace = workspace
+local pairs = pairs
+local pcall = pcall
+local tostring = tostring
+local tick = tick
+local getgenv = getgenv
+local mousemoverel = mousemoverel
+local mouse1press = mouse1press
+local mouse1release = mouse1release
+
+-- random
+math_randomseed(tick())
+function random_string(len)
+	local str = ""
+	for i = 1, len do
+		str = str .. string_char(math_random(97, 122))
+	end
+	return str
+end
+
+getgenv().render_loop_stepped_name = renderloop_stepped_name or random_string(math_random(15, 35))
+getgenv().update_loop_stepped_name = update_loop_stepped_name or random_string(math_random(15, 35))
+
+-- services
+local players = game:GetService("Players")
+local run_service = game:GetService("RunService")
+local uis = game:GetService("UserInputService")
+
+-- other
+local local_player = players.LocalPlayer
+local mouse = local_player:GetMouse()
+
+local cam = find_first_child_of_class(workspace, "Camera")
+
+local screen_size = cam.ViewportSize
+local center_screen = vector2_new(screen_size.X / 2, screen_size.Y / 2)
+
+local enum_rft_blk = Enum.RaycastFilterType.Blacklist
+local glass = Enum.Material.Glass
+
+local white = color3_rgb(255, 255, 255)
+local green = color3_rgb(0, 255, 0)
+
+local dummy_part = instance_new("Part", nil)
+
+drawing_new("Square").Visible = false -- initialize drawing lib
+
+local pi = math.pi
+
+-- dont touch lol
+local custom_players = true
+local refresh_que = false
+local start_aim = false
+local aim_head = false
+local added_fov = 0
+
+-- execute to apply
+local options = {
+    -- global settings
+    frame_delay = 10, -- delay between rendering each frame (in miliseconds)
+    refresh_delay = 0.25, -- delay between refreshing script (in seconds)
+    max_dist = 9e9, -- 9e9 = very big
+    team_check = true,
+    wall_check = true,
+    
+    loop_all_humanoids = false, -- loop through workspace to find npc's to lock onto
+    ignore_player_humanoids = true, -- will not lock onto/esp players (only if loop_all_humanoids is enabled)
+
+    -- ui settings (sort of ui)
+    fov_circle = true,
+    aiming_at = false,
+
+    -- aimbot settings
+    aimbot = bool,
+    smoothness = 10,
+    fov = 80,
+    fov_increase_on_aim = 40, -- increases your fov by this value while the aimbot is active
+    rage_mode = false, -- disregards fov, smoothness, odds and will lock onto people behind you
+
+    -- aim type settings
+    mouse_emulation = true, -- the default, will emulate user input (and is more natural)
+    camera_cframe = false, -- aimlock, easier to detect, does not obey the smoothness setting but locks instantly
+
+    -- will not lock on to people with this *username*, do not use a displayname for this, use the username
+    ignore_people = {
+        ["name"] = true, -- example of how you would exclude someone
+    },
+
+    -- will try to prefire when aiming
+    triggerbot = true,
+
+    -- aimbot activation settings
+    acts_as_toggle = false,
+    
+    -- https://developer.roblox.com/en-us/api-reference/enum/UserInputType
+    mouse_key = Enum.UserInputType["MouseButton2"],
+    -- how to disable: mouse_key = nil,
+    -- how to enable: mouse_key = Enum.UserInputType["*"],
+
+    -- https://developer.roblox.com/en-us/api-reference/enum/KeyCode
+    keyboard_key = Enum.KeyCode["E"],
+    -- how to disable: keyboard_key = nil,
+    -- how to enable: keyboard_key = Enum.KeyCode["*"],
+
+    -- headshot odds
+    headshot_chance = 100, -- odds for aiming on the head in percentage, 0 = no head (lol) and 100 = always head
+    update_on_refresh_delay = false, -- less nauseating, will recalculate odds every refresh instead of every frame
+
+    -- aiming prioritization options
+    looking_at_you = false, -- whoever is most likely to hit you
+    closest_to_center_screen = true,
+    closest_to_you = false,
+
+    -- taxing, usually useless, will iterate backwards through players list if the "best player to lock onto" cant be locked onto
+    backwards_iteration = false,
+
+    -- global esp settings
+    esp = false,
+    esp_thickness = 2,
+    
+    -- esp settings
+    tracers = false,
+    box = false,
+
+    -- overhead esp settings
+    overhead = false, -- disables name health and distance entirely
+    name = false,
+    distance = false,
+    health = false,
+    outline = false, -- text outline, laggier
+
+    -- rainbow settings
+    rainbow = false,
+    rainbow_speed = 5, -- lower is faster, 0.000001 is the lowest you can go
+
+    -- looking_at_tracer settings (lat = looking_at_tracer in short)
+    looking_at_tracer = true, -- will show where a player is looking
+
+    --https://www.google.com/search?q=color+picker
+    lat_color = color3_rgb(200, 0, 255), -- color in rgb
+    lat_thickness = 2,
+    lat_length = 3, -- how far the tracer will go (in studs)
+    
+    -- crosshair settings
+    crosshair = false,
+
+    crosshair_distance = 4,
+    crosshair_thickness = 1,
+    crosshair_length = 8;
+}
+
+-- script already running?
+if remove_all_esp then
+    run_service:UnbindFromRenderStep(render_loop_stepped_name)
+    run_service:UnbindFromRenderStep(update_loop_stepped_name)
+
+    task_wait() -- wait for a frame to pass
+
+    remove_all_esp()
+
+    if descendant_hum_added then
+        descendant_hum_added:Disconnect()
+        descendant_hum_removing:Disconnect()
+        player_name_added:Disconnect()
+        player_name_removed:Disconnect()
+    end
+
+    player_added:Disconnect()
+    player_removed:Disconnect()
+
+    input_began:Disconnect()
+    input_ended:Disconnect()
+
+    getgenv().remove_all_esp = nil
+
+    return;
+end
+
+-- how the script will find the players
+local characters = {}
+local player_names = {}
+
+local function get_players()
+    local place = game.PlaceId
+
+    if options.loop_all_humanoids then
+        if not player_names[local_player.Name] then -- ran for the first time
+            -- get player names
+            for _, val in pairs(get_children(players)) do
+                player_names[val.Name] = true
+            end
+
+            getgenv().player_name_added = players.ChildAdded:Connect(function(added)
+                player_names[added.Name] = true
+            end)
+
+            getgenv().player_name_removed = players.ChildRemoved:Connect(function(added)
+                player_names[added.Name] = nil
+            end)
+
+            -- get players with events
+            for _, val in pairs(workspace:GetDescendants()) do
+                if is_a(val, "Humanoid") and val.Parent ~= local_player.Character and not (options.ignore_player_humanoids and player_names[val.Parent.Name]) then
+                    characters[gdbd(val.Parent)] = val.Parent
+                end
+            end
+
+            getgenv().descendant_hum_added = workspace.DescendantAdded:Connect(function(added)
+                if is_a(added, "Humanoid") and added.Parent ~= local_player.Character and not (options.ignore_player_humanoids and player_names[added.Parent.Name]) then
+                    characters[gdbd(added.Parent)] = added.Parent
+                end
+            end)
+            
+            getgenv().descendant_hum_removing = workspace.DescendantRemoving:Connect(function(removing)
+                if is_a(removing, "Humanoid") then
+                    characters[gdbd(removing.Parent)] = nil
+                end
+            end)
+        end
+
+        return characters
+    end
+
+    if place == 292439477 then -- phantom forces
+        local leaderboard = local_player.PlayerGui.Leaderboard.Main
+
+        if leaderboard then
+            if options.team_check then
+                local is_ghost = pcall(function()
+                    return leaderboard.Ghosts.DataFrame.Data[local_player.Name]
+                end)
+                
+                return get_children(workspace.Players[(is_ghost and "Bright blue") or "Bright orange"])
+            else
+                local instance_table = {}
+
+                for idx, val in pairs(get_children(workspace.Players["Bright blue"])) do
+                    if is_a(val, "Model") then
+                        instance_table[#instance_table + 1] = val
+                    end
+                end
+
+                for idx, val in pairs(get_children(workspace.Players["Bright orange"])) do
+                    if is_a(val, "Model") then
+                        instance_table[#instance_table + 1] = val
+                    end
+                end
+
+                return instance_table -- return both teams
+            end
+        end
+
+        return {} -- wtf???
+    end
+
+    if place == 3837841034 then
+        return get_children(workspace.characters)
+    end
+
+    if place == 5938036553 then
+        local chars = {}
+
+        for _, val in pairs(get_children(workspace)) do
+            if val.Name == "r15_rig" then
+                chars[#chars + 1] = val
+            end
+        end
+
+        return chars
+    end
+
+    custom_players = false
+    return get_children(players)
+end
+
+local aiming = {
+    fov_circle_obj = nil,
+    line = nil,
+    circle = nil;
+}
+
+local crosshair = {
+    top = nil,
+    bottom = nil,
+    right = nil,
+    left = nil;
+}
+
+local players_table = {}
+local tracers = {}
+local quads = {}
+local overheads = {}
+local looking_at_tracers = {}
+
+-- needed functions
+local function to_screen(vec3)
+    local screen_pos, in_screen = world_to_view_point(cam, vec3)
+    
+    return vector2_new(screen_pos.X, screen_pos.Y), in_screen, screen_pos, options.rage_mode
+end
+
+local function get_part_corners(part)
+    local size = part.Size * vector3_new(1, 1.5, 0)
+
+    local cf = part.CFrame
+
+    return {
+        top_right = (cf * cframe_new(-size.X, -size.Y, 0)).Position,
+        bottom_right = (cf * cframe_new(-size.X, size.Y, 0)).Position,
+        top_left = (cf * cframe_new(size.X, -size.Y, 0)).Position,
+        bottom_left = (cf * cframe_new(size.X, size.Y, 0)).Position,
+    }
+end
+
+local function new_drawing(class_name)
+    return function(props)
+        local inst = drawing_new(class_name)
+
+        for idx, val in pairs(props) do
+            if idx ~= "instance" then
+                inst[idx] = val
+            end
+        end
+        
+        return inst
+    end
+end
+
+local function add_or_update_instance(tbl, child, props)
+    local inst = tbl[child]
+    if not inst then
+        tbl[child] = new_drawing(props.instance)(props)
+
+        return inst;
+    end
+
+    for idx, val in pairs(props) do
+        if idx ~= "instance" then
+            inst[idx] = val
+        end
+    end
+
+    return inst
+end
+
+local function get_rainbow()
+    return color3_hsv((tick() % options.rainbow_speed / options.rainbow_speed), 1, 1)
+end
+
+local function remove_esp(idx)
+    add_or_update_instance(tracers, idx, {
+        Visible = false,
+        instance = "Line"
+    })
+
+    add_or_update_instance(quads, idx, {
+        Visible = false,
+        instance = "Quad"
+    })
+
+    add_or_update_instance(overheads, idx, {
+        Visible = false,
+        instance = "Text"
+    })
+
+    add_or_update_instance(looking_at_tracers, idx, {
+        Visible = false,
+        instance = "Line"
+    })
+end
+
+local ignored_instances = {}
+
+local raycast_params = raycast_params_new()
+raycast_params.FilterType = enum_rft_blk
+raycast_params.IgnoreWater = true
+
+local function can_hit(origin_pos, part)
+    if not options.wall_check then
+        return true
+    end
+
+    local ignore_list = {cam, local_player.Character}
+
+    for idx, val in pairs(ignored_instances) do
+        ignore_list[#ignore_list + 1] = val
+    end
+
+    raycast_params.FilterDescendantsInstances = ignore_list
+    
+    local raycast_result = raycast(workspace, origin_pos, (part.Position - origin_pos).Unit * options.max_dist, raycast_params)
+
+    local result_part = ((raycast_result and raycast_result.Instance) or dummy_part)
+
+    if result_part ~= dummy_part then
+        if result_part.Transparency >= 0.3 then -- ignore low transparency
+            ignored_instances[#ignored_instances + 1] = result_part
+        end
+
+        if result_part.Material == glass then -- ignore glass
+            ignored_instances[#ignored_instances + 1] = result_part
+        end
+    end
+
+    return is_descendant_of(result_part, part.Parent)
+end
+
+local function hitting_what(origin_cframe)
+    if not options.wall_check then
+        return dummy_part
+    end
+
+    local ignore_list = {cam, local_player.Character}
+
+    for idx, val in pairs(ignored_instances) do
+        ignore_list[#ignore_list + 1] = val
+    end
+    
+    raycast_params.FilterDescendantsInstances = ignore_list
+    
+    local raycast_result = raycast(workspace, origin_cframe.p, origin_cframe.LookVector * options.max_dist, raycast_params)
+
+    local result_part = ((raycast_result and raycast_result.Instance) or dummy_part)
+    
+    if result_part ~= dummy_part then
+        if result_part.Transparency >= 0.3 then -- ignore low transparency
+            ignored_instances[#ignored_instances + 1] = result_part
+        end
+
+        if result_part.Material == glass then -- ignore glass
+            ignored_instances[#ignored_instances + 1] = result_part
+        end
+    end
+
+    return result_part
+end
+
+local function is_inside_fov(point)
+    return options.rage_mode or ((point.x - center_screen.X) ^ 2 + (point.y - center_screen.Y) ^ 2 <= aiming.fov_circle_obj.Radius ^ 2)
+end
+
+local function chanced() -- shanced 2 - 0 gf *tabs*
+    return options.rage_mode or math_random(1, 100) <= options.headshot_chance
+end
+
+local function screen_height(yval)
+    if yval > (screen_size.Y / 2) then
+        return -0.5
+    end
+
+    return 0.5
+end
+
+local function _refresh()
+    for idx in pairs(tracers) do -- hide all esp instances
+        remove_esp(idx)
+    end
+
+    players_table = get_players() -- fetch new player list
+end
+
+local function refresh()
+    refresh_que = true -- queue refresh before next render
+end
+
+-- player events
+getgenv().player_added = players.ChildAdded:Connect(refresh)
+getgenv().player_removed = players.ChildRemoved:Connect(refresh)
+
+-- aimbot triggers
+getgenv().input_began = uis.InputBegan:Connect(function(input)
+    if input.KeyCode == options.keyboard_key then
+        if options.acts_as_toggle then
+            start_aim = not start_aim
+        else
+            start_aim = true
+        end
+
+        if options.fov_increase_on_aim > 0 then
+            for i = 1, options.fov_increase_on_aim * 0.3 do
+                added_fov = added_fov + 3
+                task_wait()
+            end
+
+            added_fov = options.fov_increase_on_aim
+        end
+    end
+
+    if input.UserInputType == options.mouse_key then
+        if options.acts_as_toggle then
+            start_aim = not start_aim
+        else
+            start_aim = true
+        end
+
+        if options.fov_increase_on_aim > 0 then
+            for i = 1, options.fov_increase_on_aim * 0.3 do
+                added_fov = added_fov + 3
+                task_wait()
+            end
+
+            added_fov = options.fov_increase_on_aim
+        end
+    end
+end)
+
+getgenv().input_ended = uis.InputEnded:Connect(function(input)
+    if input.KeyCode == options.keyboard_key then
+        if not options.acts_as_toggle then
+            start_aim = false
+        end
+
+        if options.fov_increase_on_aim > 0 then
+            for i = 1, options.fov_increase_on_aim * 0.3 do
+                added_fov = added_fov - 3
+                
+                task_wait()
+            end
+
+            added_fov = 0
+        end
+    end
+
+    if input.UserInputType == options.mouse_key then
+        if not options.acts_as_toggle then
+            start_aim = false
+        end
+
+        if options.fov_increase_on_aim > 0 then
+            for i = 1, options.fov_increase_on_aim * 0.3 do
+                added_fov = added_fov - 3
+
+                task_wait()
+            end
+
+            added_fov = 0
+        end
+    end
+end)
+
+local last_tick = 0;
+
+local function stepped()
+    if (tick() - last_tick) > (options.frame_delay / 1000) then
+        last_tick = tick()
+
+        if refresh_que then -- refresh queed?
+            _refresh()
+            
+            refresh_que = false
+        end
+
+        add_or_update_instance(aiming, "fov_circle_obj", {
+            Visible = options.fov_circle,
+            Thickness = options.esp_thickness,
+            Radius = options.fov + added_fov,
+            Position = center_screen,
+            Color = (options.rainbow and get_rainbow()) or white,
+            instance = "Circle";
+        })
+    
+        add_or_update_instance(crosshair, "top", {
+            Visible = options.crosshair,
+            Thickness = options.crosshair_thickness,
+            From = vector2_new(center_screen.X, center_screen.Y - options.crosshair_length - options.crosshair_distance),
+            To = vector2_new(center_screen.X, center_screen.Y - options.crosshair_distance),
+            Color = (options.rainbow and get_rainbow()) or white,
+            instance = "Line";
+        })
+    
+        add_or_update_instance(crosshair, "bottom", {
+            Visible = options.crosshair,
+            Thickness = options.crosshair_thickness,
+            From = vector2_new(center_screen.X, center_screen.Y + options.crosshair_length + options.crosshair_distance + 1),
+            To = vector2_new(center_screen.X, center_screen.Y + options.crosshair_distance + 1),
+            Color = (options.rainbow and get_rainbow()) or white,
+            instance = "Line";
+        })
+    
+        add_or_update_instance(crosshair, "left", {
+            Visible = options.crosshair,
+            Thickness = options.crosshair_thickness,
+            From = vector2_new(center_screen.X - options.crosshair_length - options.crosshair_distance, center_screen.Y),
+            To = vector2_new(center_screen.X - options.crosshair_distance, center_screen.Y),
+            Color = (options.rainbow and get_rainbow()) or white,
+            instance = "Line";
+        })
+        
+        add_or_update_instance(crosshair, "right", {
+            Visible = options.crosshair,
+            Thickness = options.crosshair_thickness,
+            From = vector2_new(center_screen.X + options.crosshair_length + options.crosshair_distance + 1, center_screen.Y),
+            To = vector2_new(center_screen.X + options.crosshair_distance + 1, center_screen.Y),
+            Color = (options.rainbow and get_rainbow()) or white,
+            instance = "Line";
+        })
+
+        local closers_chars = {}
+
+        for _, plr in pairs(players_table) do
+            local id = gdbd(plr)
+
+            if plr == local_player then continue; end
+
+            if options.ignore_people[plr.Name] then continue; end
+
+            if options.team_check and not options.loop_all_humanoids and not custom_players and plr.Team then
+                if plr.TeamColor == local_player.TeamColor then remove_esp(id); continue; end
+                if plr.Team == local_player.Team then remove_esp(id); continue; end
+            end
+
+            local plr_char = ((options.loop_all_humanoids or custom_players) and plr) or plr.Character
+            if plr_char == nil then remove_esp(id); continue; end
+
+            local root_part = 
+                find_first_child(plr_char, "Torso") 
+                or find_first_child(plr_char, "UpperTorso") 
+                or find_first_child(plr_char, "LowerTorso") 
+                or find_first_child(plr_char, "HumanoidRootPart") 
+                or find_first_child(plr_char, "Head") 
+                or find_first_child_of_class(plr_char, "BasePart")
+                
+            if root_part == nil then remove_esp(id); continue; end
+            if not is_a(root_part, "BasePart") then remove_esp(id); continue; end
+            
+            local head = find_first_child(plr_char, "Head") or root_part
+            if not is_a(head, "BasePart") then continue; end
+
+            local plr_screen, visible, scr_z = to_screen(head.Position)
+            local mag = (head.Position - cam.CFrame.Position).Magnitude
+
+            if mag > options.max_dist then remove_esp(id); continue; end
+
+            if options.esp then
+                local col = (options.rainbow and get_rainbow()) or white
+                local corners = get_part_corners(root_part)
+
+                local a_screen, a_visible = to_screen(corners.top_left)
+                local b_screen, b_visible = to_screen(corners.top_right)
+                local c_screen, c_visible = to_screen(corners.bottom_right)
+                local d_screen, d_visible = to_screen(corners.bottom_left)
+
+                if options.tracers then -- doesnt have a hide condition
+                    local object_space_pos = point_object_space(cam.CFrame, vector3_new(
+                        (corners.top_left.X + corners.top_right.X) / 2, 
+                        (corners.top_left.Y + corners.top_right.Y) / 2, 
+                        (corners.top_left.Z + corners.top_right.Z) / 2
+                    ))
+					
+					if 0 > scr_z.Z then -- thanks unnamed esp for the math
+						local angle = math_atan2(object_space_pos.Y, object_space_pos.X) + pi
+                        object_space_pos = vector_world_space(cframe_angles(0, 0, angle), (cframe_angles(0, math_rad(89.99), 0).LookVector))
+					end
+					
+					local tracer_pos = to_screen(point_world_space(cam.CFrame, object_space_pos))
+                    
+                    add_or_update_instance(tracers, id, {
+                        Visible = options.esp,
+                        Thickness = options.esp_thickness,
+                        From = vector2_new(screen_size.X / 2, screen_size.Y - 36),
+                        To = tracer_pos,
+                        Color = (options.rainbow and get_rainbow()) or color3_new(255 / mag, mag / 255, 0),
+                        instance = "Line";
+                    })
+                end
+
+                if options.box then
+                    if a_visible and b_visible and c_visible and d_visible then
+                        add_or_update_instance(quads, id, {
+                            Visible = options.esp,
+                            Thickness = options.esp_thickness,
+                            PointA = a_screen,
+                            PointB = b_screen,
+                            PointC = c_screen,
+                            PointD = d_screen,
+                            Color = col,
+                            instance = "Quad";
+                        })
+                    else
+                        add_or_update_instance(quads, id, {
+                            Visible = false,
+                            instance = "Quad";
+                        })
+                    end
+                end
+
+                if options.looking_at_tracer then
+                    local a_head_src, a_visible = to_screen(head.Position)
+                    local b_lv_src, b_visible = to_screen(head.Position + head.CFrame.LookVector * options.lat_length)
+
+                    if a_visible and b_visible then
+                        add_or_update_instance(looking_at_tracers, id, {
+                            Visible = options.esp,
+                            Thickness = options.lat_thickness,
+                            To = a_head_src,
+                            From = b_lv_src,
+                            Color = options.lat_color or white,
+                            instance = "Line";
+                        })
+                    else
+                        add_or_update_instance(looking_at_tracers, id, {
+                            Visible = false,
+                            instance = "Line";
+                        })
+                    end
+                end
+
+                if options.overhead then
+                    local text = "";
+
+                    if options.health then
+                        local hum = find_first_child_of_class(plr_char, "Humanoid")
+
+                        if hum then
+                            text = string_format("%s[%d/%d] ", text, math_ceil(hum.Health), math_ceil(hum.MaxHealth))
+                        end
+                    end
+
+                    if options.distance then
+                        text = string_format("%s[%d]\n", text, math_floor(mag))
+                    end
+
+                    if options.name then
+                        text = string_format("%s%s ", text, plr.Name)
+                    end
+    
+                    local head_screen, h_visible = to_screen(head.Position + head.CFrame.UpVector * 2)
+
+                    if h_visible then
+                        local obj = overheads[id]
+
+                        add_or_update_instance(overheads, id, {
+                            Visible = options.esp,
+                            Outline = options.outline,
+                            Center = true,
+                            Position = head_screen - vector2_new(0, (obj and obj.TextBounds.Y) or 0),  
+                            Text = text,
+                            Color = col,
+                            instance = "Text";
+                        })
+                    else
+                        add_or_update_instance(overheads, id, {
+                            Visible = false,
+                            instance = "Text";
+                        })
+                    end
+                end
+            end
+
+            if options.aimbot then
+                if options.looking_at_you then
+                    closers_chars[((head.Position + head.CFrame.LookVector * mag) - cam.CFrame.p).Magnitude] = plr_char
+                elseif options.closest_to_center_screen then
+                    closers_chars[(plr_screen - center_screen).Magnitude] = plr_char
+                elseif options.closest_to_you then
+                    closers_chars[mag] = plr_char
+                end
+            end
+        end -- sort players, esp, teamcheck
+
+        if not options.aimbot then return; end
+
+        local mags = {}
+
+        for idx in pairs(closers_chars) do
+            mags[#mags + 1] = idx
+        end
+
+        table_sort(mags)
+
+        local idx_sorted = {}
+
+        for _, idx in pairs(mags) do
+            idx_sorted[#idx_sorted + 1] = closers_chars[idx]
+        end
+
+        local run_aimbot = nil;
+        run_aimbot = function(plr_offset)
+            local char = idx_sorted[plr_offset]
+
+            if char then
+                local children = get_children(char)
+                local parts = {}
+
+                for _, obj in pairs(children) do
+                    if is_a(obj, "BasePart") then
+                        local part_screen, part_in_screen, _, rage = to_screen(obj.Position)
+
+                        if can_hit(cam.CFrame.p, obj) and (part_in_screen or rage) and (is_inside_fov(part_screen) or rage) then
+                            local set = {
+                                part = obj,
+                                screen = part_screen,
+                                visible = part_in_screen;
+                            }
+
+                            parts[obj.Name] = set
+
+                            parts[0] = set -- set last part
+                        end
+                    end
+                end
+
+                local chosen = nil;
+
+                if not options.update_on_refresh_delay then
+                    aim_head = chanced()
+                end
+
+                if parts["Head"] and aim_head then
+                    chosen = parts["Head"]
+                else
+                    local torso = parts["Torso"] or parts["UpperTorso"] or parts["LowerTorso"]
+                    if torso then
+                        chosen = torso
+                    else
+                        chosen = parts["Head"] or parts[0] -- aim on head if odds are against the head, but the torso isnt visible, or on other visible part
+                    end
+                end
+                
+                if chosen then
+                    local scale = (chosen.part.Size.Y / 2)
+
+                    local top, top_z, top_visible = to_screen((chosen.part.CFrame * cframe_new(0, scale, 0)).Position);
+                    local bottom, bottom_z, bottom_visible = to_screen((chosen.part.CFrame * cframe_new(0, -scale, 0)).Position);
+                    local radius = -(top - bottom).y;
+
+                    add_or_update_instance(aiming, "circle", {
+                        Visible = top_visible and bottom_visible and options.aiming_at,
+                        Thickness = options.esp_thickness,
+                        Radius = radius / 2,
+                        Position = chosen.screen,
+                        Color = (options.rainbow and get_rainbow()) or (start_aim and green) or white,
+                        instance = "Circle";
+                    })
+
+                    if start_aim then
+                        add_or_update_instance(aiming, "line", {
+                            Visible = options.aiming_at,
+                            Thickness = options.esp_thickness,
+                            From = center_screen,
+                            To = chosen.screen,
+                            Color = (options.rainbow and get_rainbow()) or (start_aim and green) or white,
+                            instance = "Line";
+                        })
+
+                        local smoothness = (options.rage_mode and 1) or options.smoothness
+
+                        if chosen.visible then
+                            if options.mouse_emulation then
+                                mousemoverel((chosen.screen.X - mouse.X) / smoothness, (chosen.screen.Y - (mouse.Y + 36)) / smoothness)
+                            elseif options.camera_cframe then
+                                cam.CFrame = cframe_new(cam.CFrame.p, chosen.part.Position)
+                            end
+                        elseif options.rage_mode then
+                            if options.mouse_emulation then
+                                mousemoverel(screen_size.X / 4, (chosen.screen.Y - (mouse.Y + 36)) * screen_height(mouse.Y))
+                            elseif options.camera_cframe then
+                                cam.CFrame = cframe_new(cam.CFrame.p, chosen.part.Position)
+                            end
+                        end
+
+                        if options.triggerbot then
+                            if is_descendant_of(hitting_what(cam.CFrame), chosen.part.Parent) then
+                                mouse1press()
+                            else
+                                mouse1release()
+                            end
+                        end
+
+                        return;
+                    else
+                        if options.triggerbot then
+                            mouse1release()
+                        end
+                        
+                        add_or_update_instance(aiming, "line", {
+                            Visible = false,
+                            instance = "Line";
+                        })
+
+                        return;
+                    end -- aiming?
+
+                    return; -- part is on screen, and in fov, no need to find a new player, loop ends here
+                end -- part exists?
+
+                if options.triggerbot then
+                    mouse1release()
+                end
+
+                add_or_update_instance(aiming, "line", {
+                    Visible = false,
+                    instance = "Line";
+                })
+
+                add_or_update_instance(aiming, "circle", {
+                    Visible = false,
+                    instance = "Circle";
+                })
+
+                if options.backwards_iteration then
+                    run_aimbot(plr_offset + 1); -- previous player
+                end
+            end
+        end
+
+        run_aimbot(1);
+    end
+end
+
+local last_refresh = 0;
+
+run_service:BindToRenderStep(render_loop_stepped_name, 300, function()
+    if (tick() - last_refresh) > options.refresh_delay then
+        last_refresh = tick()
+
+        if not cam or not cam.Parent or cam.Parent ~= workspace then
+            cam = find_first_child_of_class(workspace, "Camera")
+
+            world_to_view_point = cam.WorldToViewportPoint
+        end
+
+        if options.update_on_refresh_delay then
+            aim_head = chanced()
+        end
+
+        refresh()
+    end
+end) -- refresher
+
+run_service:BindToRenderStep(update_loop_stepped_name, 199, stepped)
+
+-- kills esp
+getgenv().remove_all_esp = function()
+    for idx in pairs(tracers) do -- hide all esp instances
+        remove_esp(idx)
+    end
+
+    -- aiming
+    add_or_update_instance(aiming, "fov_circle_obj", {
+        Visible = false,
+        instance = "Circle";
+    })
+
+    add_or_update_instance(aiming, "circle", {
+        Visible = false,
+        instance = "Circle";
+    })
+
+    add_or_update_instance(aiming, "line", {
+        Visible = false,
+        instance = "Line";
+    })
+    
+    -- crosshair
+    add_or_update_instance(crosshair, "top", {
+        Visible = false,
+        instance = "Line";
+    })
+
+    add_or_update_instance(crosshair, "bottom", {
+        Visible = false,
+        instance = "Line";
+    })
+
+    add_or_update_instance(crosshair, "left", {
+        Visible = false,
+        instance = "Line";
+    })
+    
+    add_or_update_instance(crosshair, "right", {
+        Visible = false,
+        instance = "Line";
+    })
+end
+         
+                
+end
+    end
+}
+
+
+
+
+-- Exploits Tab
+local PlayerMods = Exploits:Section{
+    Name = "PlayerMods",
+    Side = "Left"
+}
+
+PlayerMods:Button{
+    Name = "God Mode",
+    Callback  = function()
+        LocalPlayer.Character.Humanoid.Parent = nil
+	Instance.new("Humanoid", LocalPlayer.Character)
+    end
+}
+
+
+PlayerMods:Button{
+    Name = "Semi-God",
+    Callback  = function()
+        ReplicatedStorage.Events.FallDamage:FireServer(0/0)
+	LocalPlayer.Character.Humanoid:GetPropertyChangedSignal("Health"):Connect(function()
+		LocalPlayer.Character.Humanoid.Health = 100
+	end)
+    end
+}
+
+
+PlayerMods:Button{
+    Name = "Invisible",
+    Callback  = function()
+        local oldpos = LocalPlayer.Character.HumanoidRootPart.CFrame
+	LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(9999,9999,9999)
+	local NewRoot = LocalPlayer.Character.LowerTorso.Root:Clone()
+	LocalPlayer.Character.LowerTorso.Root:Destroy()
+	NewRoot.Parent = LocalPlayer.Character.LowerTorso
+	wait()
+	LocalPlayer.Character.HumanoidRootPart.CFrame = oldpos
+    end
+}
+
+
+local toggle = PlayerMods:Toggle{
+    Name = "Unlock Reset",
+    Flag = "Reset 1",
+    --Default = true,
+    Callback  = function(bool)
+       game:GetService("StarterGui"):SetCore("ResetButtonCallback", bool)
+    end
+}
+
+
+local Sounds = Exploits:Section{
+    Name = "Sounds",
+    Side = "Right"
+}
+
+local label = Sounds:Label("Hit Sound")
+
+
+local box = Sounds:Box{
+    Name = "Hit Sound",
+    --Default = "hi",
+    Placeholder = "Roblox Sound ID",
+    Flag = "Box 1",
+    Callback = function(HitSound)
+        print("Hit Sound is now " .. HitSound)
+    end
+}
+
+
+local label = Sounds:Label("Kill Sound")
+
+
+local box = Sounds:Box{
+    Name = "Kill Sound",
+    --Default = "hi",
+    Placeholder = "Roblox Sound ID",
+    Flag = "Box 1",
+    Callback = function(KillSound)
+        print("Kill Sound is now " .. KillSound)
+    end
+}
+
+
+-- Visual Tab
+local EspSection = Visuals:Section{
+    Name = "ESP",
+    Side = "Left"
+}
+
+local WorldSection = Visuals:Section{
+    Name = "World",
+    Side = "Right"
+}
+
+local ChamsSection = Visuals:Section{
+    Name = "Chams",
+    Side = "Left"
+}
+
+local VMiscSection = Visuals:Section{
+    Name = "Misc",
+    Side = "Left"
+}
+
+-- Misc Tab
+
+local Close = Misc:Section{
+    Name = "Close / Open",
+    Side = "Left"
+}
+
+
+-- Esp 
+
+-- Box Toggle
+local BoxT = EspSection:Toggle{
+    Name = "Box",
+    Flag = "box",
+    --Default = false,
+    Callback  = function(bool)
+        esp.settings.box.enabled = bool
+    end
+}
+
+local togglepicker1 = BoxT:ColorPicker{
+    Default = Color3.fromRGB(255, 255, 255), 
+    Flag = "boxcolor", 
+    Callback = function(color)
+        esp.settings.box.color = color
+    end
+}
+
+local togglepicker2 = BoxT:ColorPicker{
+    Default = Color3.fromRGB(0, 0, 0), 
+    Flag = "boxoutline", 
+    Callback = function(color)
+        esp.settings.box.outlineColor = color
+    end
+}
+-- Name Toggle
+local NameT = EspSection:Toggle{
+    Name = "Name",
+    Flag = "name",
+    --Default = false,
+    Callback  = function(bool)
+        esp.settings.name.enabled = bool
+    end
+}
+
+local togglepicker1 = NameT:ColorPicker{
+    Default = Color3.fromRGB(255, 255, 255), 
+    Flag = "nameolor", 
+    Callback = function(color)
+        esp.settings.name.color = color
+    end
+}
+
+local togglepicker2 = NameT:ColorPicker{
+    Default = Color3.fromRGB(0, 0, 0), 
+    Flag = "nameoutline", 
+    Callback = function(color)
+        esp.settings.name.outlineColor = color
+    end
+}
+-- HealthBar Toggle
+local HealthBT = EspSection:Toggle{
+    Name = "HealthBar",
+    Flag = "healthb",
+    --Default = false,
+    Callback  = function(bool)
+        esp.settings.healthbar.enabled = bool
+    end
+}
+
+local togglepicker1 = HealthBT:ColorPicker{
+    Default = Color3.fromRGB(255, 255, 255), 
+    Flag = "healtbcolor", 
+    Callback = function(color)
+        esp.settings.healthbar.color = color
+    end
+}
+
+local togglepicker2 = HealthBT:ColorPicker{
+    Default = Color3.fromRGB(0, 0, 0), 
+    Flag = "healtboutline", 
+    Callback = function(color)
+        esp.settings.healthbar.outlineColor = color
+    end
+}
+-- HealthText Toggle
+local HealthTT = EspSection:Toggle{
+    Name = "HealthText",
+    Flag = "healtht",
+    --Default = false,
+    Callback  = function(bool)
+        esp.settings.healthtext.enabled = bool
+    end
+}
+
+local togglepicker1 = HealthTT:ColorPicker{
+    Default = Color3.fromRGB(255, 255, 255), 
+    Flag = "healttcolor", 
+    Callback = function(color)
+        esp.settings.healthtext.color = color
+    end
+}
+
+local togglepicker2 = HealthTT:ColorPicker{
+    Default = Color3.fromRGB(0, 0, 0), 
+    Flag = "healttoutline", 
+    Callback = function(color)
+        esp.settings.healthtext.outlineColor = color
+    end
+}
+-- Distance Toggle
+local DistanceT = EspSection:Toggle{
+    Name = "Distance",
+    Flag = "distancet",
+    --Default = false,
+    Callback  = function(bool)
+        esp.settings.distance.enabled = bool
+    end
+}
+
+local togglepicker1 = DistanceT:ColorPicker{
+    Default = Color3.fromRGB(255, 255, 255), 
+    Flag = "distancecolor", 
+    Callback = function(color)
+        esp.settings.distance.color = color
+    end
+}
+
+local togglepicker2 = DistanceT:ColorPicker{
+    Default = Color3.fromRGB(0, 0, 0), 
+    Flag = "distanceoutline", 
+    Callback = function(color)
+        esp.settings.distance.outlineColor = color
+    end
+}
+
+local TeamCheckT = EspSection:Toggle{
+    Name = "Team Check",
+    Flag = "teamt",
+    Default = false,
+    Callback  = function(bool)
+        esp.teamcheck = bool
+    end
+}
+
+-- Chams
+
+local ChamsT = ChamsSection:Toggle{
+    Name = "Visible Chams",
+    Flag = "chamst",
+    Default = false,
+    Callback  = function(bool)
+        print("Vchams enabled")
+    end
+}
+
+local togglepicker1 = ChamsT:ColorPicker{
+    Default = Color3.fromRGB(255, 255, 255), 
+    Flag = "chamscolor", 
+    Callback = function(color)
+        print(color)
+    end
+}
+
+
+local ChamsTrans = ChamsSection:Slider{
+    Name = "Visible Chams Transparency",
+    Text = "[value]/1",
+    Default = 1,
+    Min = 0,
+    Max = 1,
+    Float = 0.1,
+    Flag = "Chams 1",
+    Callback = function(value)
+        print("Vchams Transparency : ".. value)
+    end
+}
+
+local InvChamsT = ChamsSection:Toggle{
+    Name = "Invisible Chams",
+    Flag = "invchamst",
+    Default = false,
+    Callback  = function(bool)
+        print("Invchams enabled")
+    end
+}
+
+local togglepicker1 = InvChamsT:ColorPicker{
+    Default = Color3.fromRGB(255, 255, 255), 
+    Flag = "invchamscolor", 
+    Callback = function(color)
+        print(color)
+    end
+}
+
+local InvChamsTrans = ChamsSection:Slider{
+    Name = "Invisible Chams Transparency",
+    Text = "[value]/1",
+    Default = 1,
+    Min = 0,
+    Max = 1,
+    Float = 0.1,
+    Flag = "InvChams 1",
+    Callback = function(value)
+        print("Invchams Transparency : ".. value)
+    end
+}
+
+-- World
+
+local BrightnessS = WorldSection:Slider{
+    Name = "Brightness",
+    Text = "[value]/1",
+    Default = 0,
+    Min = -1,
+    Max = 1,
+    Float = 0.1,
+    Flag = "Slider 1",
+    Callback = function(value)
+        cc.Brightness = value
+    end
+}
+
+local ContrastS = WorldSection:Slider{
+    Name = "Contrast",
+    Text = "[value]/1",
+    Default = 0,
+    Min = -1,
+    Max = 1,
+    Float = 0.1,
+    Flag = "Slider 1",
+    Callback = function(value)
+        cc.Contrast = value
+    end
+}
+
+local SaturationS = WorldSection:Slider{
+    Name = "Saturation",
+    Text = "[value]/1",
+    Default = 0,
+    Min = -1,
+    Max = 1,
+    Float = 0.1,
+    Flag = "Slider 1",
+    Callback = function(value)
+        cc.Saturation = value
+    end
+}
+
+local BlurS = WorldSection:Slider{
+    Name = "Blur",
+    Text = "[value]/30",
+    Default = 0,
+    Min = 0,
+    Max = 30,
+    Float = 0.1,
+    Flag = "Slider 1",
+    Callback = function(value)
+        blur.Size = value
+    end
+}
+
+local SunS = WorldSection:Slider{
+    Name = "Sun Rays",
+    Text = "[value]/1",
+    Default = 0,
+    Min = 0,
+    Max = 1,
+    Float = 0.1,
+    Flag = "Slider 1",
+    Callback = function(value)
+        sun.Intensity = value
+    end
+}
+
+local WorldColor = WorldSection:ColorPicker{
+    Name = "World Color",
+    Default = Color3.fromRGB(255, 255, 255),
+    Flag = "worldP",
+    Callback = function(color)
+        cc.TintColor = color
+    end
+}
+
+local FogColor = WorldSection:ColorPicker{
+    Name = "Fog Color",
+    Default = Color3.fromRGB(255, 255, 255),
+    Flag = "fogP",
+    Callback = function(color)
+        atmos.Color = color
+    end
+}
+
+local FogS = WorldSection:Slider{
+    Name = "Fog Intensity",
+    Text = "[value]/10",
+    Default = 0,
+    Min = 0,
+    Max = 10,
+    Float = 0.2,
+    Flag = "RogS 1",
+    Callback = function(value)
+        atmos.Haze = value
+    end
+}
+
+local SkyboxD = WorldSection:Dropdown{
+    Name = "Skybox",
+    Default = "Default",
+    Content = {
+        "Default",
+        "Nebula",
+        "Random One"
+    },
+    Flag = "skybox",
+    Callback = function(option)
+        print(option)
+    end
+}
+
+-- Visuals Misc
+
+local FOVS = VMiscSection:Slider{
+    Name = "FOV",
+    Text = "[value]/120",
+    Default = 70,
+    Min = 70,
+    Max = 120,
+    Float = 2,
+    Flag = "FovS 1",
+    Callback = function(value)
+        camera.FieldOfView = value
+    end
+}
+
+local ThirdpersonK = VMiscSection:Keybind{
+    Name = "ThirdPerson",
+    Default = Enum.KeyCode.X,
+    Blacklist = {Enum.UserInputType.MouseButton1, Enum.UserInputType.MouseButton2},
+    Flag = "thirdpersonk",
+    Callback = function(key, fromsetting)
+  
+    end
+}
+
+-- Misc
+
+local keybind = Close:Keybind{
+    Name = "Toggle UI",
+    Default = Enum.KeyCode.End,
+    Blacklist = {Enum.UserInputType.MouseButton1, Enum.UserInputType.MouseButton2},
+    Flag = "Keybind 1",
+    Callback = function(key, fromsetting)
+        if fromsetting then
+        else
+            library:Close()
+        end
+    end
+}
+
+local MiscSettings = Misc:Section{
+    Name = "Unload",
+    Side = "Left"
+}
+
+MiscSettings:Button{
+    Name = "kill GhostWare Made  by Logedbog",
+    Callback  = function()
+       library:Unload()
+    end
+}
+
+
+--library:SaveConfig("config", true) -- universal config
+--library:SaveConfig("config") -- game specific config
+--library:DeleteConfig("config", true) -- universal config
+--library:DeleteConfig("config") -- game specific config
+--library:GetConfigs(true) -- return universal and game specific configs (table)
+--library:GetConfigs() -- return game specific configs (table)
+--library:LoadConfig("config", true) -- load universal config
+--library:LoadConfig("config") -- load game specific config
+
+local configs = main:Tab("Settings")
+
+local themes = configs:Section{Name = "Theme", Side = "Left"}
+
+local themepickers = {}
+
+local themelist = themes:Dropdown{
+    Name = "Theme",
+    Default = library.currenttheme,
+    Content = library:GetThemes(),
+    Flag = "Theme Dropdown",
+    Callback = function(option)
+        if option then
+            library:SetTheme(option)
+
+            for option, picker in next, themepickers do
+                picker:Set(library.theme[option])
+            end
+        end
+    end
+}
+
+library:ConfigIgnore("Theme Dropdown")
+
+local namebox = themes:Box{
+    Name = "Custom Theme Name",
+    Placeholder = "Custom Theme",
+    Flag = "Custom Theme"
+}
+
+library:ConfigIgnore("Custom Theme")
+
+themes:Button{
+    Name = "Save Custom Theme",
+    Callback = function()
+        if library:SaveCustomTheme(library.flags["Custom Theme"]) then
+            themelist:Refresh(library:GetThemes())
+            themelist:Set(library.flags["Custom Theme"])
+            namebox:Set("")
+        end
+    end
+}
+
+local customtheme = configs:Section{Name = "Custom Theme", Side = "Right"}
+
+themepickers["Accent"] = customtheme:ColorPicker{
+    Name = "Accent",
+    Default = library.theme["Accent"],
+    Flag = "Accent",
+    Callback = function(color)
+        library:ChangeThemeOption("Accent", color)
+    end
+}
+
+library:ConfigIgnore("Accent")
+
+themepickers["Window Background"] = customtheme:ColorPicker{
+    Name = "Window Background",
+    Default = library.theme["Window Background"],
+    Flag = "Window Background",
+    Callback = function(color)
+        library:ChangeThemeOption("Window Background", color)
+    end
+}
+
+library:ConfigIgnore("Window Background")
+
+themepickers["Window Border"] = customtheme:ColorPicker{
+    Name = "Window Border",
+    Default = library.theme["Window Border"],
+    Flag = "Window Border",
+    Callback = function(color)
+        library:ChangeThemeOption("Window Border", color)
+    end
+}
+
+library:ConfigIgnore("Window Border")
+
+themepickers["Tab Background"] = customtheme:ColorPicker{
+    Name = "Tab Background",
+    Default = library.theme["Tab Background"],
+    Flag = "Tab Background",
+    Callback = function(color)
+        library:ChangeThemeOption("Tab Background", color)
+    end
+}
+
+library:ConfigIgnore("Tab Background")
+
+themepickers["Tab Border"] = customtheme:ColorPicker{
+    Name = "Tab Border",
+    Default = library.theme["Tab Border"],
+    Flag = "Tab Border",
+    Callback = function(color)
+        library:ChangeThemeOption("Tab Border", color)
+    end
+}
+
+library:ConfigIgnore("Tab Border")
+
+themepickers["Tab Toggle Background"] = customtheme:ColorPicker{
+    Name = "Tab Toggle Background",
+    Default = library.theme["Tab Toggle Background"],
+    Flag = "Tab Toggle Background",
+    Callback = function(color)
+        library:ChangeThemeOption("Tab Toggle Background", color)
+    end
+}
+
+library:ConfigIgnore("Tab Toggle Background")
+
+themepickers["Section Background"] = customtheme:ColorPicker{
+    Name = "Section Background",
+    Default = library.theme["Section Background"],
+    Flag = "Section Background",
+    Callback = function(color)
+        library:ChangeThemeOption("Section Background", color)
+    end
+}
+
+library:ConfigIgnore("Section Background")
+
+themepickers["Section Border"] = customtheme:ColorPicker{
+    Name = "Section Border",
+    Default = library.theme["Section Border"],
+    Flag = "Section Border",
+    Callback = function(color)
+        library:ChangeThemeOption("Section Border", color)
+    end
+}
+
+library:ConfigIgnore("Section Border")
+
+themepickers["Text"] = customtheme:ColorPicker{
+    Name = "Text",
+    Default = library.theme["Text"],
+    Flag = "Text",
+    Callback = function(color)
+        library:ChangeThemeOption("Text", color)
+    end
+}
+
+library:ConfigIgnore("Text")
+
+themepickers["Disabled Text"] = customtheme:ColorPicker{
+    Name = "Disabled Text",
+    Default = library.theme["Disabled Text"],
+    Flag = "Disabled Text",
+    Callback = function(color)
+        library:ChangeThemeOption("Disabled Text", color)
+    end
+}
+
+library:ConfigIgnore("Disabled Text")
+
+themepickers["Object Background"] = customtheme:ColorPicker{
+    Name = "Object Background",
+    Default = library.theme["Object Background"],
+    Flag = "Object Background",
+    Callback = function(color)
+        library:ChangeThemeOption("Object Background", color)
+    end
+}
+
+library:ConfigIgnore("Object Background")
+
+themepickers["Object Border"] = customtheme:ColorPicker{
+    Name = "Object Border",
+    Default = library.theme["Object Border"],
+    Flag = "Object Border",
+    Callback = function(color)
+        library:ChangeThemeOption("Object Border", color)
+    end
+}
+
+library:ConfigIgnore("Object Border")
+
+themepickers["Dropdown Option Background"] = customtheme:ColorPicker{
+    Name = "Dropdown Option Background",
+    Default = library.theme["Dropdown Option Background"],
+    Flag = "Dropdown Option Background",
+    Callback = function(color)
+        library:ChangeThemeOption("Dropdown Option Background", color)
+    end
+}
+
+library:ConfigIgnore("Dropdown Option Background")
+
+local configsection = configs:Section{Name = "Configs", Side = "Left"}
+
+local configlist = configsection:Dropdown{
+    Name = "Configs",
+    Content = library:GetConfigs(), -- GetConfigs(true) if you want universal configs
+    Flag = "Config Dropdown"
+}
+
+library:ConfigIgnore("Config Dropdown")
+
+local loadconfig = configsection:Button{
+    Name = "Load Config",
+    Callback = function()
+        library:LoadConfig(library.flags["Config Dropdown"]) -- LoadConfig(library.flags["Config Dropdown"], true)  if you want universal configs
+    end
+}
+
+local delconfig = configsection:Button{
+    Name = "Delete Config",
+    Callback = function()
+        library:DeleteConfig(library.flags["Config Dropdown"]) -- DeleteConfig(library.flags["Config Dropdown"], true)  if you want universal configs
+        configlist:Refresh(library:GetConfigs())
+    end
+}
+
+
+local configbox = configsection:Box{
+    Name = "Config Name",
+    Placeholder = "Config Name",
+    Flag = "Config Name"
+}
+
+library:ConfigIgnore("Config Name")
+
+local save = configsection:Button{
+    Name = "Save Config",
+    Callback = function()
+        library:SaveConfig(library.flags["Config Name"]) -- SaveConfig(library.flags["Config Name"], true) if you want universal configs
+        configlist:Refresh(library:GetConfigs())
+    end
+}
+
+
+
+--Functions
+--HitSound
+LocalPlayer.Additionals.TotalDamage.Changed:Connect(function(val)
+	if HitSound ~= "" and HitSound ~= 0 then
+		local marker = Instance.new("Sound")
+		marker.Parent = game:GetService("SoundService")
+		marker.SoundId = "rbxassetid://"..HitSound
+		marker.Volume = 3
+		marker:Play()
+	end
+end)
+
+--KillSound
+LocalPlayer.Status.Kills.Changed:Connect(function(val)
+	if KillSound ~= "" and KillSound ~= 0 then
+		local marker = Instance.new("Sound")
+		marker.Parent = game:GetService("SoundService")
+		marker.SoundId = "rbxassetid://"..KillSound
+		marker.Volume = 3
+		marker:Play()
+	end
+end)
 
 

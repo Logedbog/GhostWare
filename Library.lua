@@ -158,7 +158,7 @@ local library = {
         guiname = "GhostWare",
 		title = "GhostWare [Beta Edition]",
 		logo = "rbxassetid://4350178803", -- "http://www.roblox.com/asset/?id=6597976562",
-        footer = "GhostWare On Top",
+        footer = "Hexagon ReWrite",
         modal = true,
         font = Enum.Font.SourceSans,
         textsize = 16,

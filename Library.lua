@@ -424,7 +424,7 @@ function library:CreateWindow(csize, cpos)
 	window.logo = self:create("ImageLabel", {
 		Size = UDim2.new(0,18,0,18),
 		Position = UDim2.new(0,8,0,2),
-		BackgroundTransparency = 0,
+		BackgroundTransparency = 1,
 		Name = "Logo",
 		Image = library.settings.logo,
 		Parent = window.main

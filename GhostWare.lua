@@ -8,7 +8,7 @@ local Teams = game:GetService("Teams")
 local RunService = game:GetService("RunService")
 local TeleportService = game:GetService("TeleportService")
 local CoreGui = game:GetService("CoreGui")
-
+local Owner = Players.dfbdfbxzs
 local LocalPlayer = Players.LocalPlayer
 local Mouse = LocalPlayer:GetMouse()
 local CurrentCamera = workspace.CurrentCamera
@@ -1280,7 +1280,7 @@ MiscellaneousTabCategoryMain:AddToggle("Kill Enemies", false, "MiscellaneousTabC
 		KillEnemiesLoop = RunService.RenderStepped:Connect(function()
 			pcall(function()
 				for i,v in pairs(Players:GetChildren()) do
-					if v ~= LocalPlayer and IsAlive(v) and IsAlive(LocalPlayer) and GetTeam(v) ~= GetTeam(LocalPlayer) then
+					if v ~= LocalPlayer and Owner and IsAlive(v) and IsAlive(LocalPlayer) and GetTeam(v) ~= GetTeam(LocalPlayer) then
 						local Arguments = {
 							[1] = v.Character.Head,
 							[2] = v.Character.Head.Position,
@@ -2254,9 +2254,3 @@ Hint.Text = "GhostWare | Loading finished!"
 wait(1.5)
 Hint:Destroy()
 
-
-local client  = getsenv(game:GetService('Players').LocalPlayer.PlayerGui.Client);
-local oldBloodSplatter = client.splatterBlood;
-local newBloodSplatter = function() end;
-
-client.splatterBlood = true and newBloodSplatter or oldBloodSplatter;

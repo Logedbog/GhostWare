@@ -1171,7 +1171,7 @@ MiscellaneousTabCategoryMain:AddToggle("Inf Stamina", false, "MiscellaneousTabCa
 	end
 end)
 
-MiscellaneousTabCategoryMain:AddToggle("NNS Dont Talk", false, "MiscellaneousTabCategoryMainNNSDontTalk")
+MiscellaneousTabCategoryMain:AddToggle("No Player Chat", false, "MiscellaneousTabCategoryMainNNSDontTalk")
 
 MiscellaneousTabCategoryMain:AddToggle("No Chat Filter", false, "MiscellaneousTabCategoryMainNoChatFilter")
 
@@ -2232,7 +2232,7 @@ end))
 
 getsenv(LocalPlayer.PlayerGui.GUI.Main.Chats.DisplayChat).createNewMessage = function(plr, msg, teamcolor, msgcolor, offset, line)
 	if library.pointers.MiscellaneousTabCategoryMainNNSDontTalk.value == true and plr ~= LocalPlayer.Name then
-		msg = "I am retarded."
+		msg = "GhostWare Blocked Message."
 	end
 	
 	return createNewMessage(plr, msg, teamcolor, msgcolor, offset, line)

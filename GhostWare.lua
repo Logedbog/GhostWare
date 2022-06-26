@@ -1370,7 +1370,7 @@ end)
 
 
 
-MiscellaneousTabCategoryNoclip:AddSlider("Speed", {0, 100, 16, 1, ""}, "MiscellaneousTabCategoryNoclipSpeed")
+MiscellaneousTabCategoryNoclip:AddSlider("Speed", {0, 1000, 16, 1, ""}, "MiscellaneousTabCategoryNoclipSpeed")
 
 local MiscellaneousTabCategoryGunMods = MiscellaneousTab:AddCategory("Gun Mods", 2)
 

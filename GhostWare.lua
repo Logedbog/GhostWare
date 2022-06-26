@@ -188,6 +188,8 @@ local function GetTeam(plr)
 	return Teams[plr.Team.Name]
 end
 
+
+
 local function GetSite()
 	if (LocalPlayer.Character.HumanoidRootPart.Position - workspace.Map.SpawnPoints.C4Plant.Position).magnitude > (LocalPlayer.Character.HumanoidRootPart.Position - workspace.Map.SpawnPoints.C4Plant2.Position).magnitude then
 		return "A"
@@ -1240,6 +1242,47 @@ MiscellaneousTabCategoryMain:AddTextBox("Hit Sound", "", "MiscellaneousTabCatego
 
 MiscellaneousTabCategoryMain:AddTextBox("Kill Sound", "", "MiscellaneousTabCategoryMainKillSound")
 
+
+local MiscellaneousTabCategoryKillPlayer = MiscellaneousTab:AddCategory("Loop Kill Player", 1)
+
+MiscellaneousTabCategoryKillPlayer:AddToggle("Enabled", false, "MiscellaneousTabCategoryKillPlayerEnabled", function(val)
+
+	if val == true then
+local v = game.Players[library.pointers.MiscellaneousTabCategoryKillPlayerPlayer.value]
+KillPlayerLoop = RunService.RenderStepped:Connect(function()
+			local Arguments = {
+							[1] = v.Character.Head,
+							[2] = v.Character.Head.Position,
+							[3] = "AK47",
+							[4] = 100,
+							[5] = LocalPlayer.Character.Gun,
+							[8] = 100,
+							[9] = false,
+							[10] = false,
+							[11] = Vector3.new(),
+							[12] = 100,
+							[13] = Vector3.new()
+						}
+						ReplicatedStorage.Events.HitPart:FireServer(unpack(Arguments))
+						end)
+				end
+	    end)
+	   
+
+
+
+
+
+
+MiscellaneousTabCategoryKillPlayer:AddDropdown("Player", Players:GetChildren(), "-", "MiscellaneousTabCategoryKillPlayerPlayer")
+
+
+
+
+
+
+
+
 local MiscellaneousTabCategoryNoclip = MiscellaneousTab:AddCategory("Noclip", 1)
 
 MiscellaneousTabCategoryNoclip:AddToggle("Enabled", false, "MiscellaneousTabCategoryNoclipEnabled", function(val)
@@ -1686,10 +1729,10 @@ local numberses = 1
 --KillSay
 LocalPlayer.Status.Kills.Changed:Connect(function(val)
 
-    local trash = {"GhostWare on Top!", "You clearly dont have GhostWare -_-", "GhostWare","No GhostWare?","GhostWare > CuteWare","<3","Cry about it","Lower your tone GhostWare on top!","GhostWare Closed Beta"}
+    local trash = {"GhostWare on Top!", "You clearly dont have GhostWare -_-", "GhostWare","No GhostWare?","GhostWare > CuteWare","<3","Cry about it","Lower your tone GhostWare on top!","GhostWare Closed Beta","Simp for GhostWare"}
      local chatmessagenumbers = trash[numberses]
 	if library.pointers.MiscellaneousTabCategoryKillSayEnabled.value == true then
-if numberses == 9 then
+if numberses == 10 then
     numberses = 1 
     end
 		game:GetService("ReplicatedStorage").Events.PlayerChatted:FireServer(

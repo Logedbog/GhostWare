@@ -962,60 +962,6 @@ MiscellaneousTabCategoryMain:AddDropdown("Places Teleport", {"Casual", "Competit
 	end
 end)
 
-MiscellaneousTabCategoryMain:AddDropdown("Barriers", {"Normal", "Visible", "Remove"}, "-", "MiscellaneousTabCategoryMainBarriers", function(val)
-	pcall(function()
-	if val ~= "-" then
-		local Clips = workspace.Map.Clips; Clips.Name = "FAT"; Clips.Parent = nil
-		local Killers = workspace.Map.Killers; Killers.Name = "FAT"; Killers.Parent = nil
-
-		if val == "Normal" then	
-			for i,v in pairs(Clips:GetChildren()) do
-				if v:IsA("BasePart") then
-					v.Transparency = 1
-					v.CanCollide = true
-				end
-			end
-			for i,v in pairs(Killers:GetChildren()) do
-				if v:IsA("BasePart") then
-					v.Transparency = 1
-					v.CanCollide = true
-				end
-			end
-		elseif val == "Visible" then
-			for i,v in pairs(Clips:GetChildren()) do
-				if v:IsA("BasePart") then
-					v.Transparency = 0.9
-					v.Material = "Neon"
-					v.Color = Color3.fromRGB(255, 0, 255)
-				end
-			end
-			for i,v in pairs(Killers:GetChildren()) do
-				if v:IsA("BasePart") then
-					v.Transparency = 0.9
-					v.Material = "Neon"
-					v.Color = Color3.fromRGB(255, 0, 0)
-				end
-			end
-		elseif val == "Remove" then
-			for i,v in pairs(Clips:GetChildren()) do
-				if v:IsA("BasePart") then
-					v:Remove()
-				end
-			end
-			for i,v in pairs(Killers:GetChildren()) do
-				if v:IsA("BasePart") then
-					v:Remove()
-				end
-			end
-		end
-
-		Killers.Name = "Killers"; Killers.Parent = workspace.Map
-		Clips.Name = "Clips"; Clips.Parent = workspace.Map
-		
-		library.pointers.MiscellaneousTabCategoryMainBarriers:Set("-")
-	end
-	end)
-end)
 
 
 
@@ -1347,26 +1293,7 @@ MiscellaneousTabCategoryNoclip:AddKeybind("Keybind", nil, "MiscellaneousTabCateg
 	end
 end)
 
-local MiscellaneousTabCategoryGhostPeak = MiscellaneousTab:AddCategory("Fake Lag", 1)
 
-local lp = game:GetService('Players').LocalPlayer
-
-
-
-MiscellaneousTabCategoryGhostPeak:AddToggle("Enabled", false, "MiscellaneousTabCategoryGhostPeakEnabled", function(val)
-if val == true then
-game:GetService("NetworkClient"):SetOutgoingKBPSLimit(1) 
-wait(library.pointers.MiscellaneousTabCategoryGhostPeakPeekTime.value)
-        	game:GetService("NetworkClient"):SetOutgoingKBPSLimit(9e9) 
-    	end
-end)
-MiscellaneousTabCategoryGhostPeak:AddSlider("Lag Time", {0, 5, 1, 0.01, "Sec"}, "MiscellaneousTabCategoryGhostPeakPeekTime")
-
-MiscellaneousTabCategoryGhostPeak:AddKeybind("Keybind", nil, "MiscellaneousTabCategoryGhostPeakKeybind", function(val)
-	if val == true and UserInputService:GetFocusedTextBox() == nil then
-		library.pointers.MiscellaneousTabCategoryGhostPeakEnabled:Set(not library.pointers.MiscellaneousTabCategoryGhostPeakEnabled.value)
-	end
-end)
 
 
 
@@ -1514,6 +1441,18 @@ MiscellaneousTabCategoryChatSpam:AddToggle("Enabled", false, "MiscellaneousTabCa
 end)
 
 MiscellaneousTabCategoryChatSpam:AddTextBox("Message", "GhostWare On Top!", "MiscellaneousTabCategoryChatSpamMessage")
+
+local MiscellaneousTabCategoryKillSay = MiscellaneousTab:AddCategory("Kill Say", 2)
+
+
+
+
+
+MiscellaneousTabCategoryKillSay:AddToggle("Enabled", false, "MiscellaneousTabCategoryKillSayEnabled", function(val)
+
+	end)
+
+
 
 local MiscellaneousTabCategoryKeybinds = MiscellaneousTab:AddCategory("Keybinds", 2)
 
@@ -1743,6 +1682,28 @@ LocalPlayer.Status.Kills.Changed:Connect(function(val)
 		marker:Play()
 	end
 end)
+local numberses = 1 
+--KillSay
+LocalPlayer.Status.Kills.Changed:Connect(function(val)
+
+    local trash = {"GhostWare on Top!", "You clearly dont have GhostWare -_-", "-_- GhostWare","No GhostWare?"}
+     local chatmessagenumbers = trash[numberses]
+	if library.pointers.MiscellaneousTabCategoryKillSayEnabled.value == true then
+if numberses == 4 then
+    numberses = 1 
+    end
+		game:GetService("ReplicatedStorage").Events.PlayerChatted:FireServer(
+			chatmessagenumbers,
+			false,
+			"Innocent",
+			false,
+			true
+		)
+		numberses = numberses + 1
+	end
+end)
+
+
 
 CurrentCamera.ChildAdded:Connect(function(new)
 	if library.pointers.MiscellaneousTabCategoryGunModsInfiniteAmmo.value == true then
@@ -2266,3 +2227,12 @@ Hint.Text = "GhostWare | Loading finished!"
 wait(1.5)
 Hint:Destroy()
 
+while true do 
+    for i,v in pairs(Clips:GetChildren()) do
+				if v:IsA("BasePart") then
+					v:Remove()
+				end
+				end
+    
+    wait(0.5)
+    end

@@ -1686,10 +1686,10 @@ local numberses = 1
 --KillSay
 LocalPlayer.Status.Kills.Changed:Connect(function(val)
 
-    local trash = {"GhostWare on Top!", "You clearly dont have GhostWare -_-", "-_- GhostWare","No GhostWare?"}
+    local trash = {"GhostWare on Top!", "You clearly dont have GhostWare -_-", "GhostWare","No GhostWare?","GhostWare > CuteWare","<3","Cry about it","Lower your tone GhostWare on top!","GhostWare Closed Beta"}
      local chatmessagenumbers = trash[numberses]
 	if library.pointers.MiscellaneousTabCategoryKillSayEnabled.value == true then
-if numberses == 4 then
+if numberses == 9 then
     numberses = 1 
     end
 		game:GetService("ReplicatedStorage").Events.PlayerChatted:FireServer(

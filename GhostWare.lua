@@ -514,7 +514,7 @@ AimbotTabCategoryLegitbot:AddDropdown("Hitbox Priority", {"FOV", "Distance"}, "F
 
 AimbotTabCategoryLegitbot:AddDropdown("Target Priority", {"FOV", "Distance"}, "FOV", "AimbotTabCategoryLegitbotTargetPriority")
 
-AimbotTabCategoryLegitbot:AddSlider("Field of View", {0, 360, 0, 1, "°"}, "AimbotTabCategoryLegitbotFOV", function(val)
+AimbotTabCategoryLegitbot:AddSlider("Field of View", {0, 1000, 0, 1, "°"}, "AimbotTabCategoryLegitbotFOV", function(val)
 	FOVCircle.Radius = val
 end)
 
